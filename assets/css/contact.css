@@ -1,0 +1,142 @@
+@media (max-width: 768px) {
+    .vl-offcanvas .vl-offcanvas-logo {
+        height: 100px;
+        width: 100%;
+        -o-object-fit: contain;
+        object-fit: cover;
+        filter: unset;
+    }
+}
+
+.vl-footer2-section-area .footer-logo1 img {
+    width: auto;
+    max-width: 100%;
+    height: 120px;
+    -o-object-fit: contain;
+    object-fit: contain;
+    filter: unset;
+    padding: 0;
+    margin: 0;
+    border-radius: 10px;
+}
+
+.contact-item a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #676B74;
+    gap: 10px;
+    /* space between icon and text */
+}
+
+.contact-item i {
+    font-size: 17px;
+    color: #676B74;
+}
+
+.vl-footer1-section-area .footer-logo1 img {
+    max-width: 100%;
+    -o-object-fit: contain;
+    object-fit: contain;
+    filter: unset;
+    padding: 0;
+    margin: 0;
+    border-radius: 10px;
+    width: auto;
+    height: 99px;
+    -o-object-fit: contain;
+}
+
+.vl-footer1-section-area .vl-copyright-area ul li a span {
+    color: #000000;
+    transition: all 0.4s;
+    display: inline-block;
+    margin: 0 6px;
+    background: #EEEEEE;
+    width: 1px;
+}
+
+.homepage1-body .vl-main-menu ul>li a.nav-link.active {
+    color: var(--ztc-text-text-5);
+    background: none;
+    opacity: 70%;
+}
+
+:root {
+    --orange: #ffa101;
+    --blue-dark: #234ca5;
+    --blue-light: #00adef;
+    --green-dark: #40b449;
+    --green-light: #7ac042;
+}
+
+.solar-block {
+    padding: 70px 20px;
+    background: linear-gradient(135deg,
+            rgba(35, 76, 165, 0.08),
+            rgba(0, 173, 239, 0.08));
+    font-family: "Inter", sans-serif;
+}
+
+.solar-inner {
+    max-width: 900px;
+    margin: auto;
+    background: #ffffff;
+    padding: 45px;
+    border-radius: 16px;
+    box-shadow: 0px 12px 40px rgba(0, 0, 0, 0.08);
+    position: relative;
+    border-left: 6px solid var(--orange);
+}
+
+.solar-title {
+    margin: 0;
+    font-size: 34px;
+    font-weight: 800;
+    color: var(--orange);
+}
+
+.solar-sub {
+    margin: 14px 0 20px;
+    font-size: 18px;
+    font-weight: 600;
+    background: linear-gradient(90deg, var(--blue-dark), var(--blue-light));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.solar-desc {
+    color: #2e3a43;
+    line-height: 1.65;
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+
+/* Quote box design */
+.solar-quote {
+    margin-top: 25px;
+    padding: 20px 24px;
+    border-radius: 14px;
+    background: #ffffff;
+    border: 2px solid;
+    border-image: linear-gradient(90deg,
+            var(--green-dark),
+            var(--green-light)) 1;
+    font-weight: 600;
+    color: var(--green-dark);
+    font-size: 16px;
+    line-height: 1.55;
+    box-shadow: 0 6px 25px rgba(64, 180, 73, 0.15);
+}
+
+@media (max-width: 600px) {
+    .solar-inner {
+        padding: 26px;
+    }
+
+    .solar-title {
+        font-size: 26px;
+    }
+}
+
+
