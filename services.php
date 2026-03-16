@@ -171,7 +171,7 @@
           <h3>EPC Services</h3>
           <p>End-to-end Engineering, Procurement, and Construction solutions delivering excellence and superior energy
             output.</p>
-          <a href="#solar-epc" class="learn-more">Learn More <i class="fa-solid fa-arrow-right"></i></a>
+          <a href="epc" class="learn-more">Learn More <i class="fa-solid fa-arrow-right"></i></a>
         </div>
 
         <!-- I&C Services -->

@@ -11,23 +11,42 @@
             <div class="vl-main-menu text-center">
               <nav class="vl-mobile-menu-active">
                 <ul>
-                  <li><a href="./" class="nav-link">Home</a></li>
-                  <li><a href="about" class="nav-link">About Us</a></li>
-                  <li class="has-dropdown">
-                    <a href="solutions">Solutions <span><i class="fa-solid fa-angle-down d-lg-inline d-none"></i></span></a>
-                    <ul class="sub-menu">
-                      <!-- Added Solution Types -->
-                      <li><a href="solutions#on-grid" id="on-grid-link">On Grid Solution</a></li>
-                      <li><a href="solutions#off-grid" id="off-grid-link">Off Grid Solution</a></li>
-                      <li><a href="solutions#hybrid" id="hybrid-link">Hybrid Solution</a></li>
-                      <li><a href="solutions#residential" id="residential-link">Residential Solar Solution</a></li>
-                      <li><a href="solutions#housing" id="housing-link">Housing Societies Solution</a></li>
-                      <li><a href="solutions#ci" id="ci-link">Commercial & Industrial (C&I) Solution</a></li>
-                    </ul>
-                  </li>
-                  <li><a href="services" class="nav-link">Services</a></li>
-                  <li><a href="contact" class="nav-link">Contact Us</a></li>
-                </ul>
+  <li><a href="./" class="nav-link">Home</a></li>
+  <li><a href="about" class="nav-link">About Us</a></li>
+
+  <!-- Solutions Dropdown -->
+  <li class="has-dropdown">
+    <a href="solutions">
+      Solutions 
+      <span><i class="fa-solid fa-angle-down d-lg-inline d-none"></i></span>
+    </a>
+    <ul class="sub-menu">
+      <li><a href="solutions#on-grid">On Grid Solution</a></li>
+      <li><a href="solutions#off-grid">Off Grid Solution</a></li>
+      <li><a href="solutions#hybrid">Hybrid Solution</a></li>
+      <li><a href="solutions#residential">Residential Solar Solution</a></li>
+      <li><a href="solutions#housing">Housing Societies Solution</a></li>
+      <li><a href="solutions#ci">Commercial & Industrial (C&I) Solution</a></li>
+    </ul>
+  </li>
+
+  <!-- Services Dropdown -->
+  <li class="has-dropdown">
+    <a href="services">
+      Services 
+      <span><i class="fa-solid fa-angle-down d-lg-inline d-none"></i></span>
+    </a>
+    <ul class="sub-menu">
+      <li><a href="epc">EPC Services</a></li>
+      <li><a href="i&c">I&C Services</a></li>
+      <li><a href="amc">AMC Services</a></li>
+      <li><a href="open-access">Open Access Services</a></li>
+      <li><a href="cleaning">Cleaning Services</a></li>
+    </ul>
+  </li>
+
+  <li><a href="contact" class="nav-link">Contact Us</a></li>
+</ul>
               </nav>
             </div>
           </div>
