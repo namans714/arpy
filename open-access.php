@@ -2,45 +2,45 @@
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Solar EPC Services | ARPY Renewables</title>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <meta name="description" content="Turnkey solar EPC services including engineering, procurement, construction, and commissioning across India.">
+<title>Solar Open Access Services | Renewable Energy Procurement | ARPY Renewables India</title>
 
-  <meta name="keywords" content="Solar EPC Services India, On Grid Solar Installation, Off Grid Solar Solutions, Hybrid Solar Systems, Solar Plant Installation, Commercial Solar Projects, Residential Solar India">
+<meta name="description" content="ARPY Renewables provides solar open access services including group captive solar, renewable energy procurement, regulatory approvals, and power supply solutions for commercial and industrial consumers across India.">
 
-  <meta name="robots" content="index, follow">
+<meta name="keywords" content="solar open access services India, group captive solar power, renewable energy procurement India, solar open access power supply, industrial solar power purchase, open access renewable energy, ARPY Renewables open access">
 
-  <link rel="canonical" href="https://arpyrenewables.com/services">
+<meta name="robots" content="index, follow">
 
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="Solar EPC Services | ARPY Renewables India">
-  <meta property="og:description" content="From design to commissioning, ARPY Renewables delivers complete solar EPC solutions for residential, commercial and industrial projects across India.">
-  <meta property="og:url" content="https://arpyrenewables.com/services.html">
-  <meta property="og:site_name" content="ARPY Renewables">
-  <meta property="og:image" content="https://arpyrenewables.com/assets/img/1/2.jpg">
-  <meta property="og:image:secure_url" content="https://arpyrenewables.com/assets/img/1/2.jpg">
-  <meta property="og:image:type" content="image/jpeg">
-  <meta property="og:image:width" content="1200">
-  <meta property="og:image:height" content="630">
-  <meta property="og:locale" content="en_IN">
+<link rel="canonical" href="https://arpyrenewables.com/open-access-services">
 
+<!-- Open Graph SEO -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="Solar Open Access Services | ARPY Renewables India">
+<meta property="og:description" content="Access affordable renewable energy through solar open access solutions including group captive models, power purchase agreements, and regulatory compliance support.">
+<meta property="og:url" content="https://arpyrenewables.com/open-access-services">
+<meta property="og:site_name" content="ARPY Renewables">
+<meta property="og:image" content="https://arpyrenewables.com/assets/img/1/2.jpg">
+<meta property="og:image:secure_url" content="https://arpyrenewables.com/assets/img/1/2.jpg">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="en_IN">
 
-  <!--=====FAB ICON=======-->
-  <link rel="shortcut icon" href="assets/img/1/1.png" type="image/x-icon">
+<!-- Favicon -->
+<link rel="shortcut icon" href="assets/img/1/1.png" type="image/x-icon">
 
-  <!--===== CSS LINK =======-->
-  <link rel="stylesheet" href="assets/css/plugins/bootstrap.min.css">
-  <link rel="stylesheet" href="assets/css/plugins/aos.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
-
-  <link rel="stylesheet" href="assets/css/plugins/magnific-popup.css">
-  <link rel="stylesheet" href="assets/css/plugins/slick-slider.css">
-  <link rel="stylesheet" href="assets/css/plugins/nice-select.css">
-  <link rel="stylesheet" href="assets/css/main.css">
-  <link rel="stylesheet" href="assets/css/services.css">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet" />
+<!-- CSS -->
+<link rel="stylesheet" href="assets/css/plugins/bootstrap.min.css">
+<link rel="stylesheet" href="assets/css/plugins/aos.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+<link rel="stylesheet" href="assets/css/plugins/magnific-popup.css">
+<link rel="stylesheet" href="assets/css/plugins/slick-slider.css">
+<link rel="stylesheet" href="assets/css/plugins/nice-select.css">
+<link rel="stylesheet" href="assets/css/main.css">
+<link rel="stylesheet" href="assets/css/services.css">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
 
 </head>
 
@@ -120,7 +120,7 @@
             <h2>Services</h2>
             <div class="space18"></div>
             <div class="btn-area1">
-              <a href="./">Home <i class="fa-solid fa-angle-right"></i> <span>I&C Services</span></a>
+              <a href="./">Home <i class="fa-solid fa-angle-right"></i> <span>Open Access Services</span></a>
             </div>
           </div>
         </div>
@@ -138,7 +138,7 @@
   <!--===== HERO AREA ENDS =======-->
   <section class="open-access" aria-labelledby="oa-title" id="open-access">
     
-    <h2 class="t-h1 mb-1 mt-2">Open Access</h2>
+    <h2 class="t-h1 mb-1 mt-2">Solar Open Access Services</h2>
     <p class="t-lead mb-4">Open Access Services — affordable clean power, directly
     </p>
     <div class="oa-inner mt-5">
@@ -495,6 +495,5 @@
 <script src="assets/js/plugins/circle-pregressbar.js"></script>
 <script src="assets/js/main.js"></script>
 
-</script>
 </body>
 </html>

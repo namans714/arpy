@@ -3,44 +3,44 @@
 
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Solar EPC Services | ARPY Renewables</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <meta name="description" content="Turnkey solar EPC services including engineering, procurement, construction, and commissioning across India.">
+<title>Solar Installation & Commissioning Services | ARPY Renewables India</title>
 
-  <meta name="keywords" content="Solar EPC Services India, On Grid Solar Installation, Off Grid Solar Solutions, Hybrid Solar Systems, Solar Plant Installation, Commercial Solar Projects, Residential Solar India">
+<meta name="description" content="Professional solar installation and commissioning services across India. ARPY Renewables ensures precise solar plant installation, testing, and grid synchronization for residential, commercial, and industrial solar projects.">
 
-  <meta name="robots" content="index, follow">
+<meta name="keywords" content="solar installation services India, solar commissioning services, solar plant installation India, solar I&C services, rooftop solar installation, solar system commissioning, solar project installation, ARPY Renewables installation services">
 
-  <link rel="canonical" href="https://arpyrenewables.com/services">
+<meta name="robots" content="index, follow">
 
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="Solar EPC Services | ARPY Renewables India">
-  <meta property="og:description" content="From design to commissioning, ARPY Renewables delivers complete solar EPC solutions for residential, commercial and industrial projects across India.">
-  <meta property="og:url" content="https://arpyrenewables.com/services.html">
-  <meta property="og:site_name" content="ARPY Renewables">
-  <meta property="og:image" content="https://arpyrenewables.com/assets/img/1/2.jpg">
-  <meta property="og:image:secure_url" content="https://arpyrenewables.com/assets/img/1/2.jpg">
-  <meta property="og:image:type" content="image/jpeg">
-  <meta property="og:image:width" content="1200">
-  <meta property="og:image:height" content="630">
-  <meta property="og:locale" content="en_IN">
+<link rel="canonical" href="https://arpyrenewables.com/services">
 
+<!-- Open Graph SEO -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="Solar Installation & Commissioning Services | ARPY Renewables India">
+<meta property="og:description" content="Reliable solar installation and commissioning services including structure mounting, DC and AC works, testing, and grid synchronization for solar plants across India.">
+<meta property="og:url" content="https://arpyrenewables.com/services">
+<meta property="og:site_name" content="ARPY Renewables">
+<meta property="og:image" content="https://arpyrenewables.com/assets/img/1/2.jpg">
+<meta property="og:image:secure_url" content="https://arpyrenewables.com/assets/img/1/2.jpg">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="en_IN">
 
-  <!--=====FAB ICON=======-->
-  <link rel="shortcut icon" href="assets/img/1/1.png" type="image/x-icon">
+<!-- Favicon -->
+<link rel="shortcut icon" href="assets/img/1/1.png" type="image/x-icon">
 
-  <!--===== CSS LINK =======-->
-  <link rel="stylesheet" href="assets/css/plugins/bootstrap.min.css">
-  <link rel="stylesheet" href="assets/css/plugins/aos.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
-
-  <link rel="stylesheet" href="assets/css/plugins/magnific-popup.css">
-  <link rel="stylesheet" href="assets/css/plugins/slick-slider.css">
-  <link rel="stylesheet" href="assets/css/plugins/nice-select.css">
-  <link rel="stylesheet" href="assets/css/main.css">
-  <link rel="stylesheet" href="assets/css/services.css">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet" />
+<!-- CSS -->
+<link rel="stylesheet" href="assets/css/plugins/bootstrap.min.css">
+<link rel="stylesheet" href="assets/css/plugins/aos.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+<link rel="stylesheet" href="assets/css/plugins/magnific-popup.css">
+<link rel="stylesheet" href="assets/css/plugins/slick-slider.css">
+<link rel="stylesheet" href="assets/css/plugins/nice-select.css">
+<link rel="stylesheet" href="assets/css/main.css">
+<link rel="stylesheet" href="assets/css/services.css">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
 
 </head>
 
@@ -556,6 +556,5 @@
 <script src="assets/js/plugins/circle-pregressbar.js"></script>
 <script src="assets/js/main.js"></script>
 
-</script>
 </body>
 </html>

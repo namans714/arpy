@@ -50,16 +50,35 @@
               </nav>
             </div>
           </div>
-          <div class="col-lg-2 col-md-6 col-6">
-            <div class="vl-header-action-item d-block d-lg-none">
-              <button type="button" class="vl-offcanvas-toggle">
-                <i class="fa-solid fa-bars-staggered"></i>
-              </button>
-            </div>
-          </div>
+          <div class="col-lg-2 col-md-6 col-6 text-end">
+
+  <!-- Social Icons (Desktop) -->
+  <div class="nav-social d-none d-lg-flex">
+    <a href="https://www.linkedin.com/company/arpy-solar" target="_blank">
+      <i class="fab fa-linkedin-in"></i>
+    </a>
+
+    <a href="#" target="_blank">
+      <i class="fab fa-instagram"></i>
+    </a>
+
+    <a href="#" target="_blank">
+      <i class="fab fa-facebook-f"></i>
+    </a>
+  </div>
+
+  <!-- Mobile Menu -->
+  <div class="vl-header-action-item d-block d-lg-none">
+    <button type="button" class="vl-offcanvas-toggle">
+      <i class="fa-solid fa-bars-staggered"></i>
+    </button>
+  </div>
+
+</div>
         </div>
       </div>
     </div>
+    
   </header>
  <!-- Floating WhatsApp & Call Buttons -->
 <div class="floating-contact">

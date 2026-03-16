@@ -2,46 +2,63 @@
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Solar EPC Services | ARPY Renewables</title>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <meta name="description" content="Turnkey solar EPC services including engineering, procurement, construction, and commissioning across India.">
+<title>Solar EPC Services in India | Engineering Procurement Construction | ARPY Renewables</title>
 
-  <meta name="keywords" content="Solar EPC Services India, On Grid Solar Installation, Off Grid Solar Solutions, Hybrid Solar Systems, Solar Plant Installation, Commercial Solar Projects, Residential Solar India">
+<meta name="description" content="ARPY Renewables provides complete Solar EPC services including engineering, procurement, construction, and commissioning for residential, commercial, and industrial solar projects across India.">
 
-  <meta name="robots" content="index, follow">
+<meta name="keywords" content="solar EPC services India, solar EPC contractor India, solar engineering procurement construction, solar plant installation India, rooftop solar EPC, commercial solar EPC services, ARPY Renewables EPC">
 
-  <link rel="canonical" href="https://arpyrenewables.com/services">
+<meta name="robots" content="index, follow">
 
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="Solar EPC Services | ARPY Renewables India">
-  <meta property="og:description" content="From design to commissioning, ARPY Renewables delivers complete solar EPC solutions for residential, commercial and industrial projects across India.">
-  <meta property="og:url" content="https://arpyrenewables.com/services.html">
-  <meta property="og:site_name" content="ARPY Renewables">
-  <meta property="og:image" content="https://arpyrenewables.com/assets/img/1/2.jpg">
-  <meta property="og:image:secure_url" content="https://arpyrenewables.com/assets/img/1/2.jpg">
-  <meta property="og:image:type" content="image/jpeg">
-  <meta property="og:image:width" content="1200">
-  <meta property="og:image:height" content="630">
-  <meta property="og:locale" content="en_IN">
+<link rel="canonical" href="https://arpyrenewables.com/services">
 
+<!-- Open Graph SEO -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="Solar EPC Services | ARPY Renewables India">
+<meta property="og:description" content="Complete solar EPC solutions including design, procurement, installation and commissioning for residential, commercial and industrial solar projects across India.">
+<meta property="og:url" content="https://arpyrenewables.com/services">
+<meta property="og:site_name" content="ARPY Renewables">
+<meta property="og:image" content="https://arpyrenewables.com/assets/img/1/2.jpg">
+<meta property="og:image:secure_url" content="https://arpyrenewables.com/assets/img/1/2.jpg">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="en_IN">
 
-  <!--=====FAB ICON=======-->
-  <link rel="shortcut icon" href="assets/img/1/1.png" type="image/x-icon">
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Service",
+ "serviceType": "Solar EPC Services",
+ "provider": {
+   "@type": "Organization",
+   "name": "ARPY Renewables",
+   "url": "https://arpyrenewables.com"
+ },
+ "areaServed": {
+   "@type": "Country",
+   "name": "India"
+ },
+ "description": "Engineering, procurement, construction and commissioning solar EPC services across India."
+}
+</script>
 
-  <!--===== CSS LINK =======-->
-  <link rel="stylesheet" href="assets/css/plugins/bootstrap.min.css">
-  <link rel="stylesheet" href="assets/css/plugins/aos.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+<!-- Favicon -->
+<link rel="shortcut icon" href="assets/img/1/1.png" type="image/x-icon">
 
-  <link rel="stylesheet" href="assets/css/plugins/magnific-popup.css">
-  <link rel="stylesheet" href="assets/css/plugins/slick-slider.css">
-  <link rel="stylesheet" href="assets/css/plugins/nice-select.css">
-  <link rel="stylesheet" href="assets/css/main.css">
-  <link rel="stylesheet" href="assets/css/services.css">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet" />
-
+<!-- CSS -->
+<link rel="stylesheet" href="assets/css/plugins/bootstrap.min.css">
+<link rel="stylesheet" href="assets/css/plugins/aos.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+<link rel="stylesheet" href="assets/css/plugins/magnific-popup.css">
+<link rel="stylesheet" href="assets/css/plugins/slick-slider.css">
+<link rel="stylesheet" href="assets/css/plugins/nice-select.css">
+<link rel="stylesheet" href="assets/css/main.css">
+<link rel="stylesheet" href="assets/css/services.css">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
 </head>
 
 <body>
@@ -120,7 +137,7 @@
             <h2>Services</h2>
             <div class="space18"></div>
             <div class="btn-area1">
-              <a href="services">Home <i class="fa-solid fa-angle-right"></i> <span>EPC Services</span></a>
+              <a href="./">Home <i class="fa-solid fa-angle-right"></i> <span>EPC Services</span></a>
             </div>
           </div>
         </div>
@@ -147,38 +164,24 @@
           <p class="t-lead mb-4">End-to-end solar EPC solutions engineered for performance, built for reliability.</p>
         <p class="content">
           At ARPY Renewables, we provide complete turnkey EPC services that ensure safety, efficiency, and long-lasting
-          performance. We transform onyour solar plants into reliable, high-value assets by combining strong
+          performance. We transform on your solar plants into reliable, high-value assets by combining strong
           engineering, quality materials, precise construction, and dedicated care—so every unit of power is delivered
           with confidence and consistency.
         </p>
       </div>
     </div>
 
-    <div class="epcM__wrap">
-      <!-- Sticky Index -->
-      <aside class="epcM__index">
-        <nav>
-          <a href="#m-overview" class="on">Overview</a>
-          <a href="#m-engineering">Engineering & Design</a>
-          <a href="#m-procurement">Procurement</a>
-          <a href="#m-construction">Construction, Installation & Commissioning</a>
-          <a href="#m-commissioning" class="d-none">Commissioning</a>
-          <a href="#m-om">Operations & Maintenance</a>
-          <a href="#m-assurance">Assurance</a>
-          <a href="#m-Net-Metering">Net Metering</a>
-          <a href="#m-Group-Net-Metering">Group Net Metering</a>
-          <a href="#m-Virtual-Group-Net-Metering">Virtual Group Net Metering</a>
-        </nav>
-      </aside>
+    <div class="container">
+    
 
       <!-- Narrative Content -->
       <article class="epcM__content">
         <!-- Overview (active by default for no-JS fallback) -->
-        <section id="m-overview" class="m-block active">
+        <section id="m-overview" class="m-block">
           <div class="row align-items-start">
             <div class="col-lg-4 col-md-12">
               <div class="ARPYsolutionimg">
-                <img src="./assets/img/all-images/about/about-img9.png">
+                <img src="./assets/img/all-images/about/about-img9.png" alt="Solar EPC services by ARPY Renewables">
               </div>
             </div>
             <div class="col-lg-8 col-md-12">
@@ -208,7 +211,7 @@
           <div class="row align-items-start">
             <div class="col-lg-4 col-md-12">
               <div class="ARPYsolutionimg">
-                <img src="./assets/img/1/Engineering-Design.jpg">
+                <img src="./assets/img/1/Engineering-Design.jpg" alt="Solar engineering and design services">
               </div>
             </div>
             <div class="col-lg-8 col-md-12">
@@ -239,7 +242,7 @@
           <div class="row align-items-start">
             <div class="col-lg-4 col-md-12">
               <div class="ARPYsolutionimg">
-                <img src="./assets/img/1/Procurement_solar.jpg">
+               <img src="./assets/img/1/Procurement_solar.jpg" alt="Solar procurement and equipment supply">
               </div>
             </div>
             <div class="col-lg-8 col-md-12">
@@ -270,7 +273,7 @@
           <div class="row align-items-start">
             <div class="col-lg-4 col-md-12">
               <div class="ARPYsolutionimg">
-                <img src="./assets/img/1/Construction_Installation.jpg">
+                <img src="./assets/img/1/Construction_Installation.jpg" alt="Solar installation and construction services">
               </div>
             </div>
             <div class="col-lg-8 col-md-12">
@@ -323,7 +326,7 @@
           <div class="row align-items-start">
             <div class="col-lg-4 col-md-12">
               <div class="ARPYsolutionimg">
-                <img src="./assets/img/1/Operations_Maintenance.jpg">
+                <img src="./assets/img/1/Operations_Maintenance.jpg" alt="Solar operations and maintenance services">
               </div>
             </div>
             <div class="col-lg-8 col-md-12">
@@ -356,7 +359,7 @@
           <div class="row align-items-start">
             <div class="col-lg-4 col-md-12">
               <div class="ARPYsolutionimg">
-                <img src="./assets/img/1/Assurance_solar.jpg">
+                <img src="./assets/img/1/Assurance_solar.jpg" alt="Solar EPC quality assurance services">
               </div>
             </div>
             <div class="col-lg-8 col-md-12">
@@ -381,7 +384,7 @@
           <div class="row align-items-start">
             <div class="col-lg-4 col-md-12">
               <div class="ARPYsolutionimg">
-                <img src="./assets/img/1/Net_Metering.jpg">
+                <img src="./assets/img/1/Net_Metering.jpg" alt="Solar net metering system installation">
               </div>
             </div>
             <div class="col-lg-8 col-md-12">
@@ -404,7 +407,7 @@
           <div class="row align-items-start">
             <div class="col-lg-4 col-md-12">
               <div class="ARPYsolutionimg">
-                <img src="./assets/img/1/GroupNetMetering.jpg">
+                <img src="./assets/img/1/GroupNetMetering.jpg" alt="Group net metering solar solution">
               </div>
             </div>
             <div class="col-lg-8 col-md-12">
@@ -428,7 +431,7 @@
           <div class="row align-items-start">
             <div class="col-lg-4 col-md-12">
               <div class="ARPYsolutionimg">
-                <img src="./assets/img/1/Virtual.jpg">
+                <img src="./assets/img/1/Virtual.jpg" alt="Virtual group net metering solar plant">
               </div>
             </div>
             <div class="col-lg-8 col-md-12">
@@ -730,57 +733,6 @@
 <script src="assets/js/plugins/circle-pregressbar.js"></script>
 <script src="assets/js/main.js"></script>
 
-<script>
-(function () {
 
-const sectionIds = [
-"m-overview",
-"m-engineering",
-"m-procurement",
-"m-construction",
-"m-commissioning",
-"m-om",
-"m-assurance",
-"m-Net-Metering",
-"m-Group-Net-Metering",
-"m-Virtual-Group-Net-Metering"
-];
-
-const links = document.querySelectorAll(".epcM__index nav a");
-const blocks = sectionIds.map(id => document.getElementById(id));
-
-function show(id) {
-
-blocks.forEach(b => {
-if(b) b.classList.remove("active");
-});
-
-const target = document.getElementById(id);
-if(target) target.classList.add("active");
-
-links.forEach(a => a.classList.remove("on"));
-
-const activeLink = Array.from(links).find(a => a.getAttribute("href") === "#" + id);
-
-if(activeLink) activeLink.classList.add("on");
-
-}
-
-links.forEach(a => {
-a.addEventListener("click", function(e){
-
-e.preventDefault();
-
-const id = this.getAttribute("href").replace("#","");
-
-show(id);
-
-});
-});
-
-show("m-overview");
-
-})();
-</script>
 </body>
 </html>

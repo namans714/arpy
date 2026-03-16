@@ -11,15 +11,27 @@
             <div class="space16"></div>
             <p>Your Partner in Sustainable Progress. Pioneering solar EPC excellence, one rooftop at a time.</p>
             <div class="space24"></div>
-            <ul>
-              <li><a href="https://www.linkedin.com/company/arpy-solar"><i class="fa-brands fa-linkedin-in"></i></a>
-              </li>
-              <li>
-                <a href="https://wa.me/919971122890" target="_blank" class="d-none">
-                  <i class="fa-brands fa-whatsapp"></i>
-                </a>
-              </li>
-            </ul>
+            <ul class="footer-social">
+
+  <li>
+    <a href="https://www.linkedin.com/company/arpy-solar" target="_blank">
+      <i class="fa-brands fa-linkedin-in"></i>
+    </a>
+  </li>
+
+  <li>
+    <a href="https://www.instagram.com/" target="_blank">
+      <i class="fa-brands fa-instagram"></i>
+    </a>
+  </li>
+
+  <li>
+    <a href="https://www.facebook.com/" target="_blank">
+      <i class="fa-brands fa-facebook-f"></i>
+    </a>
+  </li>
+
+</ul>
           </div>
         </div>
 

@@ -1312,17 +1312,12 @@
 
 /* ---------- SHOW-ON-CLICK ---------- */
 /* Hide all blocks by default, show only the active one */
-.epcM__content .m-block,
-.epcM__content .m-cta {
-    display: none;
+.epcM__content .m-block{
+display:grid !important;
 }
 
-.epcM__content .m-block.active {
-    display: grid;
-}
-
-.epcM__content .m-cta.active {
-    display: flex;
+.epcM__content .m-cta{
+display:flex !important;
 }
 
 /* IMPORTANT: CTA is flex */
