@@ -39,6 +39,7 @@
   <link rel="stylesheet" href="assets/css/plugins/nice-select.css">
   <link rel="stylesheet" href="assets/css/main.css">
   <link rel="stylesheet" href="assets/css/index.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
 </head>
 
 <body>
@@ -941,6 +942,96 @@
       </div>
     </div>
   </section>
+
+  <section class="py-5" style="background:linear-gradient(135deg,#0b1c39,#1f3c88);">
+  <div class="container">
+
+    <!-- Heading -->
+    <div class="text-center mb-5">
+      <h2 style="color:#fff; font-weight:700; letter-spacing:1px;">Our Services</h2>
+      <p style="color:#cbd5e1;">Smart solutions designed for your business needs</p>
+    </div>
+
+    <div class="row g-4">
+
+      <!-- Card -->
+      <div class="col-md-4">
+        <div class="p-4 text-center h-100"
+          style="background:rgba(255,255,255,0.08); backdrop-filter:blur(10px); border-radius:15px; border:1px solid rgba(255,255,255,0.15); transition:0.4s;"
+          onmouseover="this.style.transform='translateY(-10px) scale(1.02)';this.style.background='rgba(255,255,255,0.15)'"
+          onmouseout="this.style.transform='none';this.style.background='rgba(255,255,255,0.08)'">
+
+          <div style="font-size:40px; color:#00c6ff; margin-bottom:15px;">
+            <i class="bi bi-gear"></i>
+          </div>
+          <h5 style="color:#fff; font-weight:600;">EPC Services</h5>
+          <p style="color:#d1d5db; font-size:14px;">Engineering, Procurement & Construction solutions.</p>
+        </div>
+      </div>
+
+      <!-- Card -->
+      <div class="col-md-4">
+        <div class="p-4 text-center h-100"
+          style="background:rgba(255,255,255,0.08); backdrop-filter:blur(10px); border-radius:15px; border:1px solid rgba(255,255,255,0.15); transition:0.4s;"
+          onmouseover="this.style.transform='translateY(-10px) scale(1.02)';this.style.background='rgba(255,255,255,0.15)'"
+          onmouseout="this.style.transform='none';this.style.background='rgba(255,255,255,0.08)'">
+
+          <div style="font-size:40px; color:#00c6ff; margin-bottom:15px;">
+            <i class="bi bi-cpu"></i>
+          </div>
+          <h5 style="color:#fff; font-weight:600;">I&C Services</h5>
+          <p style="color:#d1d5db; font-size:14px;">Instrumentation & Control system services.</p>
+        </div>
+      </div>
+
+      <!-- Card -->
+      <div class="col-md-4">
+        <div class="p-4 text-center h-100"
+          style="background:rgba(255,255,255,0.08); backdrop-filter:blur(10px); border-radius:15px; border:1px solid rgba(255,255,255,0.15); transition:0.4s;"
+          onmouseover="this.style.transform='translateY(-10px) scale(1.02)';this.style.background='rgba(255,255,255,0.15)'"
+          onmouseout="this.style.transform='none';this.style.background='rgba(255,255,255,0.08)'">
+
+          <div style="font-size:40px; color:#00c6ff; margin-bottom:15px;">
+            <i class="bi bi-tools"></i>
+          </div>
+          <h5 style="color:#fff; font-weight:600;">AMC Services</h5>
+          <p style="color:#d1d5db; font-size:14px;">Annual Maintenance Contracts for systems.</p>
+        </div>
+      </div>
+
+      <!-- Card -->
+      <div class="col-md-4">
+        <div class="p-4 text-center h-100"
+          style="background:rgba(255,255,255,0.08); backdrop-filter:blur(10px); border-radius:15px; border:1px solid rgba(255,255,255,0.15); transition:0.4s;"
+          onmouseover="this.style.transform='translateY(-10px) scale(1.02)';this.style.background='rgba(255,255,255,0.15)'"
+          onmouseout="this.style.transform='none';this.style.background='rgba(255,255,255,0.08)'">
+
+          <div style="font-size:40px; color:#00c6ff; margin-bottom:15px;">
+            <i class="bi bi-lightning-charge"></i>
+          </div>
+          <h5 style="color:#fff; font-weight:600;">Open Access Services</h5>
+          <p style="color:#d1d5db; font-size:14px;">Energy access and optimization solutions.</p>
+        </div>
+      </div>
+
+      <!-- Card -->
+      <div class="col-md-4">
+        <div class="p-4 text-center h-100"
+          style="background:rgba(255,255,255,0.08); backdrop-filter:blur(10px); border-radius:15px; border:1px solid rgba(255,255,255,0.15); transition:0.4s;"
+          onmouseover="this.style.transform='translateY(-10px) scale(1.02)';this.style.background='rgba(255,255,255,0.15)'"
+          onmouseout="this.style.transform='none';this.style.background='rgba(255,255,255,0.08)'">
+
+          <div style="font-size:40px; color:#00c6ff; margin-bottom:15px;">
+            <i class="bi bi-droplet-half"></i>
+          </div>
+          <h5 style="color:#fff; font-weight:600;">Cleaning Services</h5>
+          <p style="color:#d1d5db; font-size:14px;">Professional cleaning and maintenance services.</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
 
   <!--===== SERVICE AREA STARTS =======-->
   <div class="service2 sp2">
