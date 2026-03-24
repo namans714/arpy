@@ -16,7 +16,7 @@
 
   <!-- Solutions Dropdown -->
   <li class="has-dropdown">
-    <a href="solutions">
+    <a href="#">
       Solutions 
       <span><i class="fa-solid fa-angle-down d-lg-inline d-none"></i></span>
     </a>
@@ -32,7 +32,7 @@
 
   <!-- Services Dropdown -->
   <li class="has-dropdown">
-    <a href="services">
+    <a href="#">
       Services 
       <span><i class="fa-solid fa-angle-down d-lg-inline d-none"></i></span>
     </a>

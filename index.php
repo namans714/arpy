@@ -88,10 +88,29 @@
         <div class="vl-offcanvas-info">
           <h3 class="vl-offcanvas-sm-title">Contact Us</h3>
           <div class="space20"></div>
-          <span><a href="#"> <i class="fa-solid fa-phone"></i> +91 997-112-2890</a></span>
-          <span><a href="#"> <i class="fa-solid fa-phone"></i> +91 999-996-6061</a></span>
-          <span><a href="#"> <i class="fa-solid fa-phone"></i> +91 704 211 1662</a></span>
-          <span><a href="#"><i class="fa-solid fa-envelope"></i> info@arpyrenewables.com</a></span>
+          <span>
+  <a href="tel:+919971122890">
+    <i class="fa-solid fa-phone"></i> +91 997-112-2890
+  </a>
+</span>
+
+<span>
+  <a href="tel:+919999966061">
+    <i class="fa-solid fa-phone"></i> +91 999-996-6061
+  </a>
+</span>
+
+<span>
+  <a href="tel:+917042111662">
+    <i class="fa-solid fa-phone"></i> +91 704 211 1662
+  </a>
+</span>
+
+<span>
+  <a href="mailto:info@arpyrenewables.com">
+    <i class="fa-solid fa-envelope"></i> info@arpyrenewables.com
+  </a>
+</span>
           <span><a href="#"><i class="fa-solid fa-location-dot"></i> 3019, Sec 57, Gurugram - 112003, Haryana</a></span>
         </div>
         <div class="space20"></div>
@@ -121,10 +140,15 @@
               <div class="hero-header">
                 <h5><img src="assets/img/icons/sub-logo1.svg" alt=""> Leading Solar EPC Company Since 2010</h5>
                 <div class="space16"></div>
-                <h1>Powering India’s Clean Energy Future</h1>
-                <div class="space16"></div>
-                <p>ARPY Renewables delivers turnkey solar solutions — from consultancy, design, supply, and installation
-                  to commissioning & maintenance of off-grid and on-grid solar plants.</p>
+                <h1>Top-Rated <strong>Solar Power Plant Provider & EPC Experts in Delhi NCR</strong></h1>
+
+<div class="space16"></div>
+
+<p>
+  Empowering <strong>Gurugram and Delhi</strong> with clean energy solutions. We offer specialized 
+  <strong>residential solar systems</strong> and large-scale <strong>industrial solar rooftops</strong> 
+  with <strong>MNRE approved</strong> components and 25 years of reliable support.
+</p>
                 <div class="space42"></div>
                 <div class="play-btns-area">
                   <div class="btn-area1">
@@ -149,10 +173,15 @@
                 <h5><img src="assets/img/icons/sub-logo1.svg" alt=""> Affordable, Reliable & Sustainable Solar Solutions
                 </h5>
                 <div class="space16"></div>
-                <h1>Your Trusted Solar Partner</h1>
-                <div class="space16"></div>
-                <p>With 25+ MW capacity delivered, ARPY Renewables is your one-stop destination for rooftop, industrial,
-                  and commercial solar systems with lifetime support.</p>
+                <h1>Your Trusted <strong>Solar Power Plant Provider in Delhi & Gurugram</strong></h1>
+
+<div class="space16"></div>
+
+<p>
+  Get affordable and sustainable <strong>solar energy solutions</strong> tailored to your needs. 
+  From <strong>turnkey solar EPC services</strong> to rooftop installations for housing societies, 
+  we ensure maximum energy efficiency and long-term savings.
+</p>
                 <div class="space42"></div>
                 <div class="play-btns-area">
                   <div class="btn-area1">
@@ -176,10 +205,15 @@
               <div class="hero-header">
                 <h5><img src="assets/img/icons/sub-logo1.svg" alt=""> Innovation • Sustainability • Reliability</h5>
                 <div class="space16"></div>
-                <h1>Transforming Sunlight into Power</h1>
-                <div class="space16"></div>
-                <p>Backed by MNRE approvals and global partnerships, we provide world-class solar EPC services to
-                  accelerate India’s clean energy transition.</p>
+                <h1>Your Premier Partner for <strong>Industrial Solar Plants & EPC Services</strong></h1>
+
+<div class="space16"></div>
+
+<p>
+  Join the renewable revolution with <strong>Delhi NCR’s most trusted Solar Power Plant Provider</strong>. 
+  From consultancy to commissioning of <strong>on-grid solar systems</strong>, we ensure maximum energy efficiency 
+  and long-term value for your business.
+</p>
                 <div class="space42"></div>
                 <div class="play-btns-area">
                   <div class="btn-area1">
@@ -291,16 +325,25 @@
                   fill="#00D348" />
               </svg> About ARPY Renewables</h5>
             <div class="space16"></div>
-            <h2 class="vl-section-title" data-aos="fade-left" data-aos-duration="1000">Powering India’s Future with
-              Reliable Solar Solutions</h2>
-            <div class="space16"></div>
-            <p data-aos="fade-left" data-aos-duration="1100">At ARPY Renewables, we believe clean energy should be
-              simple, reliable, and built to long lasting. Led by decades of experience of passionate professionals, our
-              team designs and delivers solar power solutions that make energy independence a reality for homes and
-              businesses across India. From consultation to installation and long-term maintenance, we handle everything
-              under one roof- ensuring you get the most efficient and trusted solar systems available capturing maximum
-              energy from Sun.. As an MNRE-authorized partner and a name trusted across northern India, ARPY Renewables
-              is on a mission to light up communities and industries with the power of the sun.</p>
+           <h2 class="vl-section-title" data-aos="fade-left" data-aos-duration="1000">
+  Powering India’s Sustainable Future with <strong>Reliable Solar Energy Solutions</strong>
+</h2>
+
+<div class="space16"></div>
+
+<p data-aos="fade-left" data-aos-duration="1100">
+  At ARPY Renewables, we believe clean energy should be simple, efficient, and built to last. As a leading 
+  <strong>Solar EPC Company in Delhi NCR</strong>, we bring decades of expertise to design and deliver 
+  high-performance <strong>solar power systems</strong> for homes, housing societies, and industries across India.
+</p>
+
+<p data-aos="fade-left" data-aos-duration="1200">
+  From expert <strong>solar consultancy</strong> to seamless <strong>rooftop solar installation</strong> and 
+  long-term maintenance, we handle every project under one roof. As an <strong>MNRE-authorized partner</strong>, 
+  we provide <strong>cost-effective renewable energy solutions</strong> that ensure maximum efficiency, energy 
+  independence, and long-term ROI. Whether it’s a <strong>commercial solar plant</strong> or a 
+  <strong>residential solar rooftop</strong>, we help you harness the full power of the sun.
+</p>
             <div class="row d-none">
               <div class="col-lg-6 col-md-6">
                 <div class="check-area">
@@ -348,7 +391,107 @@
   </div>
 
   <!--===== ABOUT AREA ENDS =======-->
+ <section class="py-5" style="background:linear-gradient(#001233);">
+  <div class="container">
 
+    <!-- Heading -->
+    <div class="text-center mb-5">
+      <h2 style="color:#fff; font-weight:700; letter-spacing:1px;">Our Services</h2>
+      <p style="color:#cbd5e1;">Smart solutions designed for your business needs</p>
+    </div>
+
+    <div class="row g-4">
+
+      <!-- Card -->
+      <div class="col-md-4">
+  <a href="epc" style="text-decoration:none;">
+    <div class="p-4 text-center h-100"
+      style="background:rgba(255,255,255,0.08); backdrop-filter:blur(10px); border-radius:15px; border:1px solid rgba(255,255,255,0.15); transition:0.4s;"
+      onmouseover="this.style.transform='translateY(-10px) scale(1.02)';this.style.background='rgba(255,255,255,0.15)'"
+      onmouseout="this.style.transform='none';this.style.background='rgba(255,255,255,0.08)'">
+
+      <div style="font-size:40px; color:#00c6ff; margin-bottom:15px;">
+        <i class="bi bi-gear"></i>
+      </div>
+      <h5 style="color:#fff; font-weight:600;">EPC Services</h5>
+      <p style="color:#d1d5db; font-size:14px;">
+        Engineering, Procurement & Construction solutions.
+      </p>
+    </div>
+  </a>
+</div>
+
+      <!-- Card -->
+      <div class="col-md-4">
+        <a href="i&c" style="text-decoration:none;">
+        <div class="p-4 text-center h-100"
+          style="background:rgba(255,255,255,0.08); backdrop-filter:blur(10px); border-radius:15px; border:1px solid rgba(255,255,255,0.15); transition:0.4s;"
+          onmouseover="this.style.transform='translateY(-10px) scale(1.02)';this.style.background='rgba(255,255,255,0.15)'"
+          onmouseout="this.style.transform='none';this.style.background='rgba(255,255,255,0.08)'">
+
+          <div style="font-size:40px; color:#00c6ff; margin-bottom:15px;">
+            <i class="bi bi-cpu"></i>
+          </div>
+          <h5 style="color:#fff; font-weight:600;">I&C Services</h5>
+          <p style="color:#d1d5db; font-size:14px;">Instrumentation & Control system services.</p>
+        </div>
+        </a>
+      </div>
+
+      <!-- Card -->
+      <div class="col-md-4">
+        <a href="amc" style="text-decoration:none;">
+        <div class="p-4 text-center h-100"
+          style="background:rgba(255,255,255,0.08); backdrop-filter:blur(10px); border-radius:15px; border:1px solid rgba(255,255,255,0.15); transition:0.4s;"
+          onmouseover="this.style.transform='translateY(-10px) scale(1.02)';this.style.background='rgba(255,255,255,0.15)'"
+          onmouseout="this.style.transform='none';this.style.background='rgba(255,255,255,0.08)'">
+
+          <div style="font-size:40px; color:#00c6ff; margin-bottom:15px;">
+            <i class="bi bi-tools"></i>
+          </div>
+          <h5 style="color:#fff; font-weight:600;">AMC Services</h5>
+          <p style="color:#d1d5db; font-size:14px;">Annual Maintenance Contracts for systems.</p>
+        </div>
+        </a>
+      </div>
+
+      <!-- Card -->
+      <div class="col-md-4">
+        <a href="open-access" style="text-decoration:none;">
+        <div class="p-4 text-center h-100"
+          style="background:rgba(255,255,255,0.08); backdrop-filter:blur(10px); border-radius:15px; border:1px solid rgba(255,255,255,0.15); transition:0.4s;"
+          onmouseover="this.style.transform='translateY(-10px) scale(1.02)';this.style.background='rgba(255,255,255,0.15)'"
+          onmouseout="this.style.transform='none';this.style.background='rgba(255,255,255,0.08)'">
+
+          <div style="font-size:40px; color:#00c6ff; margin-bottom:15px;">
+            <i class="bi bi-lightning-charge"></i>
+          </div>
+          <h5 style="color:#fff; font-weight:600;">Open Access Services</h5>
+          <p style="color:#d1d5db; font-size:14px;">Energy access and optimization solutions.</p>
+        </div>
+        </a>
+      </div>
+
+      <!-- Card -->
+      <div class="col-md-4">
+        <a href="cleaning" style="text-decoration:none;">
+        <div class="p-4 text-center h-100"
+          style="background:rgba(255,255,255,0.08); backdrop-filter:blur(10px); border-radius:15px; border:1px solid rgba(255,255,255,0.15); transition:0.4s;"
+          onmouseover="this.style.transform='translateY(-10px) scale(1.02)';this.style.background='rgba(255,255,255,0.15)'"
+          onmouseout="this.style.transform='none';this.style.background='rgba(255,255,255,0.08)'">
+
+          <div style="font-size:40px; color:#00c6ff; margin-bottom:15px;">
+            <i class="bi bi-droplet-half"></i>
+          </div>
+          <h5 style="color:#fff; font-weight:600;">Cleaning Services</h5>
+          <p style="color:#d1d5db; font-size:14px;">Professional cleaning and maintenance services.</p>
+        </div>
+        </a>
+      </div>
+
+    </div>
+  </div>
+</section>
   <!--===== SERVICE AREA STARTS =======-->
 
   <div class="service3 sp2 d-none" style="background: #fff;">
@@ -669,85 +812,92 @@
           </svg>WHY CHOOSE US
         </h5>
         <div class="space16"></div>
-        <h2 class="vl-section-title" data-aos="fade-left" data-aos-duration="1000">Why Choose Us for Reliable Solar
-          Solutions Solutions</h2>
-        <div class="space16"></div>
-        <p>Imagine a world where your energy bill drops to nearly zero while your carbon footprint fades away.That’s the
-          world ARPY Renewables helps create—by turning rooftops and open spaces into clean energy sources across
-          northern India.</p>
+       <h2 class="vl-section-title" data-aos="fade-left" data-aos-duration="1000">
+  Why Choose ARPY Renewables for <strong>Top-Rated Solar Energy Solutions</strong>?
+</h2>
+
+<div class="space16"></div>
+
+<p>
+  Imagine a world where your electricity bill drops to zero while your carbon footprint fades away. 
+  ARPY Renewables turns this vision into reality by transforming rooftops and open spaces into 
+  <strong>clean energy sources</strong> across <strong>Delhi NCR and Northern India</strong>.
+</p>
         <div class="space8"></div>
       </div>
 
       <!-- Grid: 3 per row (wraps to 2/1) -->
-      <div class="v14__grid">
-        <!-- 1 -->
-        <article class="v14__card" data-reveal>
-          <span class="v14__icon"><img src="assets/img/icons/c-icons1.svg" alt=""></span>
-          <h3 class="v14__h3">The extremely reliable range of products</h3>
-          <p class="v14__p">
-            We deliver solar products that meet the highest international standards — built for durability, performance,
-            and energy efficiency. Our solutions undergo multiple testing phases to ensure seamless reliability for
-            every installation.
-          </p>
-          <span class="v14__accent"></span>
-        </article>
+     <div class="v14__grid">
 
-        <!-- 2 -->
-        <article class="v14__card" data-reveal>
-          <span class="v14__icon"><img src="assets/img/icons/c-icons2.svg" alt=""></span>
-          <h3 class="v14__h3">A highly experienced team of professionals</h3>
-          <p class="v14__p">
-            Our skilled engineers, technicians, and consultants bring years of solar expertise — from design to
-            commissioning. Every project benefits from the collective experience of professionals committed to
-            excellence and innovation.
-          </p>
-          <span class="v14__accent"></span>
-        </article>
+  <!-- 1 -->
+  <article class="v14__card" data-reveal>
+    <span class="v14__icon"><img src="assets/img/icons/c-icons1.svg" alt=""></span>
+    <h3 class="v14__h3">High-Performance Solar Products</h3>
+    <p class="v14__p">
+      We deliver <strong>tier-1 solar products</strong> that meet the highest international standards. 
+      Built for durability and maximum efficiency, our solutions ensure your 
+      <strong>solar rooftop installation</strong> delivers long-term reliability and performance.
+    </p>
+    <span class="v14__accent"></span>
+  </article>
 
-        <!-- 3 -->
-        <article class="v14__card" data-reveal>
-          <span class="v14__icon"><img src="assets/img/icons/c-icons1.svg" alt=""></span>
-          <h3 class="v14__h3">Strict quality standards</h3>
-          <p class="v14__p">
-            Each component and process is guided by stringent quality control protocols. From raw material selection to
-            on-site installation, we ensure superior workmanship and full compliance with MNRE and BIS norms.
-          </p>
-          <span class="v14__accent"></span>
-        </article>
+  <!-- 2 -->
+  <article class="v14__card" data-reveal>
+    <span class="v14__icon"><img src="assets/img/icons/c-icons2.svg" alt=""></span>
+    <h3 class="v14__h3">Expert Team of Professionals</h3>
+    <p class="v14__p">
+      Our experienced engineers and consultants bring deep <strong>solar EPC expertise</strong> to every project. 
+      From design to commissioning, we ensure your <strong>solar power plant</strong> is optimized for peak performance.
+    </p>
+    <span class="v14__accent"></span>
+  </article>
 
-        <!-- 4 -->
-        <article class="v14__card" data-reveal>
-          <span class="v14__icon"><img src="assets/img/icons/c-icons2.svg" alt=""></span>
-          <h3 class="v14__h3">Timely delivery</h3>
-          <p class="v14__p">
-            We value your time. With an optimized supply chain and project scheduling system, we guarantee on-time
-            completion — ensuring zero downtime, faster installation, and complete client satisfaction.
-          </p>
-          <span class="v14__accent"></span>
-        </article>
+  <!-- 3 -->
+  <article class="v14__card" data-reveal>
+    <span class="v14__icon"><img src="assets/img/icons/c-icons1.svg" alt=""></span>
+    <h3 class="v14__h3">Stringent Quality Standards</h3>
+    <p class="v14__p">
+      Every process follows strict quality control protocols. From raw material selection to installation, 
+      we ensure full compliance with <strong>MNRE and BIS norms</strong> and deliver superior workmanship.
+    </p>
+    <span class="v14__accent"></span>
+  </article>
 
-        <!-- 5 -->
-        <article class="v14__card" data-reveal>
-          <span class="v14__icon"><img src="assets/img/icons/c-icons1.svg" alt=""></span>
-          <h3 class="v14__h3">Engineering Your Solar Freedom</h3>
-          <p class="v14__p">
-            From design and consultancy to installation and long-term maintenance, ARPY delivers turnkey solar solutions
-            backed by MNRE-approved partnerships, reliable and trusted service support.
-          </p>
-          <span class="v14__accent"></span>
-        </article>
+  <!-- 4 -->
+  <article class="v14__card" data-reveal>
+    <span class="v14__icon"><img src="assets/img/icons/c-icons2.svg" alt=""></span>
+    <h3 class="v14__h3">Timely Project Execution</h3>
+    <p class="v14__p">
+      With an optimized supply chain, we ensure on-time completion of 
+      <strong>commercial and residential solar projects</strong> — delivering faster installation and zero downtime.
+    </p>
+    <span class="v14__accent"></span>
+  </article>
 
-        <!-- 6 -->
-        <article class="v14__card" data-reveal>
-          <span class="v14__icon"><img src="assets/img/icons/c-icons2.svg" alt=""></span>
-          <h3 class="v14__h3">Advanced Technology Integration</h3>
-          <p class="v14__p">
-            We integrate advanced solar technology with smart energy management to ensure maximum power generation and
-            efficiency year-round.
-          </p>
-          <span class="v14__accent"></span>
-        </article>
-      </div>
+  <!-- 5 -->
+  <article class="v14__card" data-reveal>
+    <span class="v14__icon"><img src="assets/img/icons/c-icons1.svg" alt=""></span>
+    <h3 class="v14__h3">Turnkey Solar Engineering</h3>
+    <p class="v14__p">
+      From consultancy to long-term <strong>solar AMC services</strong>, we deliver complete 
+      <strong>turnkey solar solutions</strong>. Backed by <strong>MNRE-approved partnerships</strong>, 
+      we ensure reliable support and seamless execution.
+    </p>
+    <span class="v14__accent"></span>
+  </article>
+
+  <!-- 6 -->
+  <article class="v14__card" data-reveal>
+    <span class="v14__icon"><img src="assets/img/icons/c-icons2.svg" alt=""></span>
+    <h3 class="v14__h3">Advanced Technology Integration</h3>
+    <p class="v14__p">
+      We integrate <strong>smart energy management</strong> with advanced solar technology to maximize output. 
+      Our systems ensure <strong>high-efficiency solar power</strong> and consistent performance year-round.
+    </p>
+    <span class="v14__accent"></span>
+  </article>
+
+</div>
 
     </div>
   </section>
@@ -882,168 +1032,95 @@
   </section>
 
   <!-- WHY SOLAR? — Variant C (Zig-Zag Icon Ribbons) -->
-  <section class="why-solar-d" id="why-solar">
-    <div class="wsd__wrap">
-      <header class="wsd__head">
-        <span class="wsd__eyebrow"><i class="fas fa-sun"></i> WHY SOLAR?</span>
-        <h2>Empowering a Greener Tomorrow</h2>
-        <p>Solar energy helps reduce carbon emissions, lower electricity costs, and ensure a reliable power source that
-          protects the planet and your pocket.</p>
-      </header>
+ <section class="why-solar-d" id="why-solar">
+  <div class="wsd__wrap">
 
-      <div class="wsd__grid">
-        <!-- 1 -->
-        <article class="wsd__card">
-          <span class="wsd__num">01</span>
-          <span class="wsd__icon"><i class="fas fa-bolt"></i></span>
-          <h4>Clean & Renewable Energy</h4>
-          <p>Harness the sun’s infinite power to generate clean, eco-friendly electricity.</p>
-        </article>
+    <header class="wsd__head">
+      <span class="wsd__eyebrow"><i class="fas fa-sun"></i> WHY SOLAR?</span>
 
-        <!-- 2 -->
-        <article class="wsd__card">
-          <span class="wsd__num">02</span>
-          <span class="wsd__icon"><i class="fas fa-wallet"></i></span>
-          <h4>Lower Energy Costs</h4>
-          <p>Save significantly on your monthly electricity bills with sustainable energy.</p>
-        </article>
+      <h2>
+        Why Invest in <strong>Solar Energy Solutions</strong> for Your Home & Business?
+      </h2>
 
-        <!-- 3 -->
-        <article class="wsd__card">
-          <span class="wsd__num">03</span>
-          <span class="wsd__icon"><i class="fas fa-seedling"></i></span>
-          <h4>Environment Friendly</h4>
-          <p>Reduce your carbon footprint and contribute to a greener planet.</p>
-        </article>
-
-        <!-- 4 -->
-        <article class="wsd__card">
-          <span class="wsd__num">04</span>
-          <span class="wsd__icon"><i class="fas fa-chart-line"></i></span>
-          <h4>Increase Property Value</h4>
-          <p>Homes and businesses with solar installations have higher market value.</p>
-        </article>
-
-        <!-- 5 -->
-        <article class="wsd__card">
-          <span class="wsd__num">05</span>
-          <span class="wsd__icon"><i class="fas fa-wrench"></i></span>
-          <h4>Low Maintenance</h4>
-          <p>Solar systems require minimal upkeep for years of hassle-free energy.</p>
-        </article>
-
-        <!-- 6 -->
-        <article class="wsd__card">
-          <span class="wsd__num">06</span>
-          <span class="wsd__icon"><i class="fas fa-sun"></i></span>
-          <h4>Energy Independence</h4>
-          <p>Take control of your energy supply and reduce dependency on the grid.</p>
-        </article>
-      </div>
-    </div>
-  </section>
-
-  <section class="py-5" style="background:linear-gradient(#001233);">
-  <div class="container">
-
-    <!-- Heading -->
-    <div class="text-center mb-5">
-      <h2 style="color:#fff; font-weight:700; letter-spacing:1px;">Our Services</h2>
-      <p style="color:#cbd5e1;">Smart solutions designed for your business needs</p>
-    </div>
-
-    <div class="row g-4">
-
-      <!-- Card -->
-      <div class="col-md-4">
-  <a href="epc" style="text-decoration:none;">
-    <div class="p-4 text-center h-100"
-      style="background:rgba(255,255,255,0.08); backdrop-filter:blur(10px); border-radius:15px; border:1px solid rgba(255,255,255,0.15); transition:0.4s;"
-      onmouseover="this.style.transform='translateY(-10px) scale(1.02)';this.style.background='rgba(255,255,255,0.15)'"
-      onmouseout="this.style.transform='none';this.style.background='rgba(255,255,255,0.08)'">
-
-      <div style="font-size:40px; color:#00c6ff; margin-bottom:15px;">
-        <i class="bi bi-gear"></i>
-      </div>
-      <h5 style="color:#fff; font-weight:600;">EPC Services</h5>
-      <p style="color:#d1d5db; font-size:14px;">
-        Engineering, Procurement & Construction solutions.
+      <p>
+        Switching to <strong>solar power</strong> helps reduce carbon emissions, cut electricity costs, and ensure a 
+        reliable energy source. Experience the future of <strong>renewable energy</strong> with ARPY Renewables.
       </p>
-    </div>
-  </a>
-</div>
+    </header>
 
-      <!-- Card -->
-      <div class="col-md-4">
-        <a href="i&c" style="text-decoration:none;">
-        <div class="p-4 text-center h-100"
-          style="background:rgba(255,255,255,0.08); backdrop-filter:blur(10px); border-radius:15px; border:1px solid rgba(255,255,255,0.15); transition:0.4s;"
-          onmouseover="this.style.transform='translateY(-10px) scale(1.02)';this.style.background='rgba(255,255,255,0.15)'"
-          onmouseout="this.style.transform='none';this.style.background='rgba(255,255,255,0.08)'">
+    <div class="wsd__grid">
 
-          <div style="font-size:40px; color:#00c6ff; margin-bottom:15px;">
-            <i class="bi bi-cpu"></i>
-          </div>
-          <h5 style="color:#fff; font-weight:600;">I&C Services</h5>
-          <p style="color:#d1d5db; font-size:14px;">Instrumentation & Control system services.</p>
-        </div>
-        </a>
-      </div>
+      <!-- 1 -->
+      <article class="wsd__card">
+        <span class="wsd__num">01</span>
+        <span class="wsd__icon"><i class="fas fa-bolt"></i></span>
+        <h4>Clean & Renewable Energy</h4>
+        <p>
+          Generate <strong>eco-friendly electricity</strong> with solar energy and reduce dependence on fossil fuels 
+          for a sustainable future.
+        </p>
+      </article>
 
-      <!-- Card -->
-      <div class="col-md-4">
-        <a href="amc" style="text-decoration:none;">
-        <div class="p-4 text-center h-100"
-          style="background:rgba(255,255,255,0.08); backdrop-filter:blur(10px); border-radius:15px; border:1px solid rgba(255,255,255,0.15); transition:0.4s;"
-          onmouseover="this.style.transform='translateY(-10px) scale(1.02)';this.style.background='rgba(255,255,255,0.15)'"
-          onmouseout="this.style.transform='none';this.style.background='rgba(255,255,255,0.08)'">
+      <!-- 2 -->
+      <article class="wsd__card">
+        <span class="wsd__num">02</span>
+        <span class="wsd__icon"><i class="fas fa-wallet"></i></span>
+        <h4>Massive Electricity Savings</h4>
+        <p>
+          Save up to 90% with <strong>high-efficiency solar panels</strong> and enjoy long-term financial freedom 
+          from rising energy costs.
+        </p>
+      </article>
 
-          <div style="font-size:40px; color:#00c6ff; margin-bottom:15px;">
-            <i class="bi bi-tools"></i>
-          </div>
-          <h5 style="color:#fff; font-weight:600;">AMC Services</h5>
-          <p style="color:#d1d5db; font-size:14px;">Annual Maintenance Contracts for systems.</p>
-        </div>
-        </a>
-      </div>
+      <!-- 3 -->
+      <article class="wsd__card">
+        <span class="wsd__num">03</span>
+        <span class="wsd__icon"><i class="fas fa-seedling"></i></span>
+        <h4>Environment Friendly</h4>
+        <p>
+          Every <strong>solar rooftop installation</strong> reduces your carbon footprint and supports a cleaner, 
+          greener environment.
+        </p>
+      </article>
 
-      <!-- Card -->
-      <div class="col-md-4">
-        <a href="open-access" style="text-decoration:none;">
-        <div class="p-4 text-center h-100"
-          style="background:rgba(255,255,255,0.08); backdrop-filter:blur(10px); border-radius:15px; border:1px solid rgba(255,255,255,0.15); transition:0.4s;"
-          onmouseover="this.style.transform='translateY(-10px) scale(1.02)';this.style.background='rgba(255,255,255,0.15)'"
-          onmouseout="this.style.transform='none';this.style.background='rgba(255,255,255,0.08)'">
+      <!-- 4 -->
+      <article class="wsd__card">
+        <span class="wsd__num">04</span>
+        <span class="wsd__icon"><i class="fas fa-chart-line"></i></span>
+        <h4>Boost Property Value</h4>
+        <p>
+          Properties with <strong>solar power systems</strong> attract higher market value and offer long-term 
+          energy savings benefits.
+        </p>
+      </article>
 
-          <div style="font-size:40px; color:#00c6ff; margin-bottom:15px;">
-            <i class="bi bi-lightning-charge"></i>
-          </div>
-          <h5 style="color:#fff; font-weight:600;">Open Access Services</h5>
-          <p style="color:#d1d5db; font-size:14px;">Energy access and optimization solutions.</p>
-        </div>
-        </a>
-      </div>
+      <!-- 5 -->
+      <article class="wsd__card">
+        <span class="wsd__num">05</span>
+        <span class="wsd__icon"><i class="fas fa-wrench"></i></span>
+        <h4>Low Maintenance Cost</h4>
+        <p>
+          Our systems require minimal upkeep, supported by <strong>Solar AMC services</strong> for reliable, 
+          hassle-free performance.
+        </p>
+      </article>
 
-      <!-- Card -->
-      <div class="col-md-4">
-        <a href="cleaning" style="text-decoration:none;">
-        <div class="p-4 text-center h-100"
-          style="background:rgba(255,255,255,0.08); backdrop-filter:blur(10px); border-radius:15px; border:1px solid rgba(255,255,255,0.15); transition:0.4s;"
-          onmouseover="this.style.transform='translateY(-10px) scale(1.02)';this.style.background='rgba(255,255,255,0.15)'"
-          onmouseout="this.style.transform='none';this.style.background='rgba(255,255,255,0.08)'">
-
-          <div style="font-size:40px; color:#00c6ff; margin-bottom:15px;">
-            <i class="bi bi-droplet-half"></i>
-          </div>
-          <h5 style="color:#fff; font-weight:600;">Cleaning Services</h5>
-          <p style="color:#d1d5db; font-size:14px;">Professional cleaning and maintenance services.</p>
-        </div>
-        </a>
-      </div>
+      <!-- 6 -->
+      <article class="wsd__card">
+        <span class="wsd__num">06</span>
+        <span class="wsd__icon"><i class="fas fa-sun"></i></span>
+        <h4>Total Energy Independence</h4>
+        <p>
+          Achieve <strong>energy independence</strong> and reduce reliance on grid power with 
+          <strong>on-grid or hybrid solar systems</strong>.
+        </p>
+      </article>
 
     </div>
   </div>
 </section>
+
+ 
 
   <!--===== SERVICE AREA STARTS =======-->
   <div class="service2 sp2">
@@ -1097,8 +1174,10 @@
             <div class="content-area">
               <a href="#" class="title">Make Money From SUN</a>
               <div class="space16"></div>
-              <p>Generate income while using clean solar energy, turning sunlight into profit for your home or business.
-              </p>
+              <p>
+  Generate passive income using <strong>clean solar energy</strong>. Turn your rooftop into a profit center with 
+  <strong>net metering solutions</strong>.
+</p>
               <div class="space24"></div>
               <a href="contact" class="readmore">Learn More <i class="fa-solid fa-arrow-right"></i></a>
             </div>
@@ -1115,8 +1194,10 @@
             <div class="content-area">
               <a href="#" class="title">Reduce Electricity Bills</a>
               <div class="space16"></div>
-              <p>Cut down your monthly energy expenses significantly by harnessing solar power for daily electricity
-                needs.</p>
+              <p>
+  Slash your bills by up to 90% with <strong>industrial and residential solar installations</strong> designed for 
+  maximum savings.
+</p>
               <div class="space24"></div>
               <a href="contact" class="readmore">Learn More <i class="fa-solid fa-arrow-right"></i></a>
             </div>
@@ -1133,7 +1214,9 @@
             <div class="content-area">
               <a href="#" class="title">Reliable Power Supply</a>
               <div class="space16"></div>
-              <p>Ensure uninterrupted electricity for your home or business during peak hours and power outages.</p>
+              <p>
+  Ensure uninterrupted <strong>24/7 power supply</strong> with advanced <strong>hybrid solar systems</strong> and backup support.
+</p>
               <div class="space24"></div>
               <a href="contact" class="readmore">Learn More <i class="fa-solid fa-arrow-right"></i></a>
             </div>
@@ -1150,8 +1233,10 @@
             <div class="content-area">
               <a href="#" class="title">Negligible Maintenance</a>
               <div class="space16"></div>
-              <p>Solar systems require minimal regular upkeep, ensuring hassle-free energy production for years to come.
-              </p>
+              <p>
+  Enjoy hassle-free performance with <strong>low-maintenance solar panels</strong> supported by 
+  <strong>Solar AMC and cleaning services</strong>.
+</p>
               <div class="space24"></div>
               <a href="contact" class="readmore">Learn More <i class="fa-solid fa-arrow-right"></i></a>
             </div>
@@ -1168,7 +1253,9 @@
             <div class="content-area">
               <a href="#" class="title">Safest Investment Option And High Returns</a>
               <div class="space16"></div>
-              <p>Invest in solar energy for a reliable, long-term return while supporting a sustainable future.</p>
+             <p>
+  Invest in <strong>commercial solar projects</strong> offering high returns (ROI), quick payback, and tax benefits.
+</p>
               <div class="space24"></div>
               <a href="contact" class="readmore">Learn More <i class="fa-solid fa-arrow-right"></i></a>
             </div>
@@ -1185,7 +1272,9 @@
             <div class="content-area">
               <a href="#" class="title">Monitor Your System From Anywhere</a>
               <div class="space16"></div>
-              <p>Track your solar system’s performance in real-time from any device, anytime, anywhere.</p>
+              <p>
+  Track performance with <strong>real-time solar monitoring tools</strong> and optimize your energy usage anytime.
+</p>
               <div class="space24"></div>
               <a href="contact" class="readmore">Learn More <i class="fa-solid fa-arrow-right"></i></a>
             </div>
@@ -1202,7 +1291,9 @@
             <div class="content-area">
               <a href="#" class="title">Zero Investment</a>
               <div class="space16"></div>
-              <p>ARPY renovations helps in providing government subsidies without customer’s headaches</p>
+              <p>
+  Go solar with <strong>zero upfront cost</strong> through PPA and government subsidy support.
+</p>
               <div class="space24"></div>
               <a href="contact" class="readmore">Learn More <i class="fa-solid fa-arrow-right"></i></a>
             </div>
@@ -1219,7 +1310,9 @@
             <div class="content-area">
               <a href="#" class="title">Loan Facility</a>
               <div class="space16"></div>
-              <p>ARPY Renewables arranges loan from bank/ financial institutions if financial assistance is needed</p>
+              <p>
+  Get <strong>easy solar loans</strong> and flexible financing options for your solar project.
+</p>
               <div class="space24"></div>
               <a href="contact" class="readmore">Learn More <i class="fa-solid fa-arrow-right"></i></a>
             </div>
@@ -1236,8 +1329,9 @@
             <div class="content-area">
               <a href="#" class="title">RESCO</a>
               <div class="space16"></div>
-              <p>ARPY will invest and provide complete solution in Opex mode, resulting in zero investment and also get
-                ownership of solar</p>
+              <p>
+  Choose <strong>RESCO (OPEX model)</strong> where we invest and you pay only for the energy you use.
+</p>
               <div class="space24"></div>
               <a href="contact" class="readmore">Learn More <i class="fa-solid fa-arrow-right"></i></a>
             </div>
@@ -1254,14 +1348,20 @@
 
   <section class="partners-alternate">
     <div class="container">
-      <h2 class="pa-title">Our Credibility Shines With Our Partnerships.</h2>
+    <h2 class="pa-title">
+  Our Credibility Shines with <strong>Strategic Solar Partnerships</strong>
+</h2>
 
-      <p class="pa-desc">
-        We collaborate with all leading solar manufacturers — including Adani, Premier, Waaree, Tata,
-        Vikram, Jakson, K-Solare, Hopewind, Havells, Sunways, Solinteg, Hitachi, Polycab and KEI.
-        Thousands of satisfied clients across Delhi NCR and beyond trust us for reliable solar EPC projects —
-        from compact rooftops to expansive industrial installations.
-      </p>
+<p class="pa-desc">
+  At <strong>ARPY Renewables</strong>, we collaborate with India’s <strong>leading solar manufacturers</strong> 
+  to deliver top-tier energy solutions. Our partnerships with industry leaders like 
+  <strong>Adani, Tata Power Solar, Waaree, Vikram Solar</strong> and others ensure access to 
+  <strong>high-efficiency solar modules</strong> and advanced inverter technologies.
+  
+  Trusted by clients across <strong>Delhi NCR</strong> and beyond, we provide reliable 
+  <strong>Solar EPC services</strong> — from <strong>residential rooftop installations</strong> 
+  to large-scale <strong>industrial solar projects</strong>.
+</p>
 
       <div class="pa-rows">
 
@@ -1768,7 +1868,7 @@
                   fill="#00D348" />
               </svg> FAQ,s</h5>
             <div class="space16"></div>
-            <h2 class="vl-section-title" data-aos="zoom-in" data-aos-duration="1000">Frequently Asked Questions</h2>
+            <h2 class="vl-section-title" data-aos="zoom-in" data-aos-duration="1000">Solar Energy FAQs: Everything You Need to Know About <strong>Solar Installation in India</h2>
           </div>
         </div>
       </div>
@@ -1786,8 +1886,11 @@
                 </h2>
                 <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                   <div class="accordion-body">
-                    <p>We offer both On-Grid, Off-Grid and hybrid solar power systems, including residential,
-                      commercial, and industrial solutions.</p>
+                   <p>
+  We offer a complete range of <strong>On-Grid, Off-Grid, and Hybrid solar power systems</strong>. 
+  Our solutions are customized for <strong>residential rooftops</strong>, 
+  <strong>industrial solar plants</strong>, and commercial buildings across <strong>Delhi NCR</strong>.
+</p>
                   </div>
                 </div>
               </div>
@@ -1801,8 +1904,11 @@
                 </h2>
                 <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                   <div class="accordion-body">
-                    <p>Yes, we handle end-to-end installation, including site assessment, designing, integration, and
-                      commissioning.</p>
+                    <p>
+  Yes, we are a leading <strong>Solar EPC company</strong> providing end-to-end 
+  <strong>rooftop solar panel installation</strong>. From site visit to commissioning, 
+  we ensure maximum energy generation.
+</p>
                   </div>
                 </div>
               </div>
@@ -1816,8 +1922,10 @@
                 </h2>
                 <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                   <div class="accordion-body">
-                    <p>Our solar rooftop systems come with 25 years of customer support for panels and system
-                      components.</p>
+                    <p>
+  We use <strong>Tier-1 solar modules</strong> with a <strong>25-year performance warranty</strong>. 
+  Inverters and BOS components also come with standard manufacturer warranties.
+</p>
                   </div>
                 </div>
               </div>
@@ -1831,8 +1939,10 @@
                 </h2>
                 <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                   <div class="accordion-body">
-                    <p>Yes, we offer Capex, PPA/OPEX, lease financing, and debt financing options tailored to your
-                      needs.</p>
+                    <p>
+  Yes, we assist with <strong>solar financing</strong>, <strong>easy solar loans</strong>, and 
+  <strong>MNRE government subsidies</strong> to make your transition affordable and hassle-free.
+</p>
                   </div>
                 </div>
               </div>
@@ -1852,8 +1962,10 @@
                 </h2>
                 <div id="collapseFive" class="accordion-collapse collapse show" data-bs-parent="#accordionExample1">
                   <div class="accordion-body">
-                    <p>Absolutely. We provide AMC services, maintenance, and round-the-clock support to ensure optimal
-                      system performance.</p>
+                    <p>
+  We provide complete <strong>Solar AMC (Annual Maintenance Contracts)</strong> including system checks, 
+  audits, and support to ensure your <strong>solar plant</strong> runs at peak efficiency.
+</p>
                   </div>
                 </div>
               </div>
@@ -1867,7 +1979,10 @@
                 </h2>
                 <div id="collapseSeven" class="accordion-collapse collapse" data-bs-parent="#accordionExample1">
                   <div class="accordion-body">
-                    <p>Yes. ARPY takes solar cleaning contract on short and long term basis.</p>
+                    <p>
+  Yes, we offer <strong>solar panel cleaning services</strong> on short and long-term contracts to 
+  ensure maximum efficiency and better <strong>ROI from your solar investment</strong>.
+</p>
                   </div>
                 </div>
               </div>
@@ -1881,8 +1996,11 @@
                 </h2>
                 <div id="collapseEight" class="accordion-collapse collapse" data-bs-parent="#accordionExample1">
                   <div class="accordion-body">
-                    <p>Savings vary depending on usage, but our residential solar systems can reduce electricity bills
-                      by up to 90%, depending on consumption.</p>
+                    <p>
+        You can reduce electricity bills by up to <strong>80-90%</strong> using 
+        <strong>solar energy</strong>. With <strong>Net Metering</strong>, you can earn credits 
+        for excess power.
+      </p>
                   </div>
                 </div>
               </div>
@@ -1896,9 +2014,10 @@
                 </h2>
                 <div id="collapseNine" class="accordion-collapse collapse" data-bs-parent="#accordionExample1">
                   <div class="accordion-body">
-                    <p>The installation timeline depends on project size. Residential systems usually take 30-45 days
-                      with discord, while larger commercial or industrial projects are planned and executed efficiently
-                      based on requirements.</p>
+                    <p>
+        A <strong>residential solar rooftop</strong> typically takes <strong>3–5 days</strong>. 
+        Larger <strong>industrial solar projects</strong> may take longer depending on size.
+      </p>
                   </div>
                 </div>
               </div>

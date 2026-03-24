@@ -120,7 +120,7 @@
             <h2>Services</h2>
             <div class="space18"></div>
             <div class="btn-area1">
-              <a href="services">Home <i class="fa-solid fa-angle-right"></i> <span>Services</span></a>
+              <a href="#">Home <i class="fa-solid fa-angle-right"></i> <span>Services</span></a>
             </div>
           </div>
         </div>
