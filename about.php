@@ -108,7 +108,7 @@
 
   <!--===== HERO AREA STARTS =======-->
   <div class="inner-header-section"
-    style="background-image: url(assets/img/1/21.jpg); background-position: center; background-size: cover; background-repeat: no-repeat;">
+    style="background-image: url(assets/img/1/21a.jpg); background-position: center; background-size: cover; background-repeat: no-repeat;">
     <div class="container">
       <div class="row">
         <div class="col-lg-6">
@@ -193,7 +193,7 @@
         <div class="col-lg-5">
           <div class="about-img image-anime" data-aos="zoom-in" data-aos-duration="1000">
             <!-- <img src="assets/img/all-images/about/about-img1.png" alt=""> -->
-            <img src="assets/img/1/17.jpg" alt="">
+            <img src="assets/img/1/17a.jpg" alt="">
           </div>
         </div>
       </div>

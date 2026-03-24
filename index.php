@@ -2077,7 +2077,7 @@
               </div>
               <div class="col-lg-7">
                 <div class="images">
-                  <img src="assets/img/all-images/cta/cta-img3.png" alt="">
+                  <img src="assets/img/all-images/cta/cta-img3a.png" alt="">
                 </div>
               </div>
             </div>
