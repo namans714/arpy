@@ -114,7 +114,7 @@
     <img src="assets/img/elements/elements6.png" alt="" class="elements6">
     <div class="hero2-section-slider">
       <div class="hero2-section"
-        style="background-image: url(assets/img/1/18.jpg); background-position: center; background-size: cover; background-repeat: no-repeat;">
+        style="background-image: url(assets/img/1/20a.jpg); background-position: center; background-size: cover; background-repeat: no-repeat;">
         <div class="container">
           <div class="row">
             <div class="col-lg-6">
@@ -141,7 +141,7 @@
       </div>
 
       <div class="hero2-section"
-        style="background-image: url(assets/img/1/19.jpg); background-position: center; background-size: cover; background-repeat: no-repeat;">
+        style="background-image: url(assets/img/1/19a.jpg); background-position: center; background-size: cover; background-repeat: no-repeat;">
         <div class="container">
           <div class="row">
             <div class="col-lg-6">
@@ -169,7 +169,7 @@
       </div>
 
       <div class="hero2-section"
-        style="background-image: url(assets/img/1/20.jpg); background-position: center; background-size: cover; background-repeat: no-repeat;">
+        style="background-image: url(assets/img/1/18a.jpg); background-position: center; background-size: cover; background-repeat: no-repeat;">
         <div class="container">
           <div class="row">
             <div class="col-lg-6">
@@ -269,7 +269,7 @@
         <div class="col-lg-6">
           <div class="about-img" data-aos="zoom-in" data-aos-duration="1000">
             <!-- <img src="assets/img/all-images/about/about-img2.png" alt=""> -->
-            <img src="assets/img/1/4.jpg" alt="">
+            <img src="assets/img/1/4a.jpg" alt="">
           </div>
         </div>
 
