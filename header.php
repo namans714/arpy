@@ -21,12 +21,12 @@
       <span><i class="fa-solid fa-angle-down d-lg-inline d-none"></i></span>
     </a>
     <ul class="sub-menu">
-      <li><a href="solutions#on-grid">On Grid Solution</a></li>
-      <li><a href="solutions#off-grid">Off Grid Solution</a></li>
-      <li><a href="solutions#hybrid">Hybrid Solution</a></li>
-      <li><a href="solutions#residential">Residential Solar Solution</a></li>
-      <li><a href="solutions#housing">Housing Societies Solution</a></li>
-      <li><a href="solutions#ci">Commercial & Industrial (C&I) Solution</a></li>
+      <li><a href="on-grid">On Grid Solution</a></li>
+      <li><a href="off-grid">Off Grid Solution</a></li>
+      <li><a href="hybrid">Hybrid Solution</a></li>
+      <li><a href="residential-solar">Residential Solar Solution</a></li>
+      <li><a href="housing-societies">Housing Societies Solution</a></li>
+      <li><a href="c&i">Commercial & Industrial (C&I) Solution</a></li>
     </ul>
   </li>
 
