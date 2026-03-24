@@ -943,7 +943,7 @@
     </div>
   </section>
 
-  <section class="py-5" style="background:linear-gradient(135deg,#0b1c39,#1f3c88);">
+  <section class="py-5" style="background:linear-gradient(#001233);">
   <div class="container">
 
     <!-- Heading -->
@@ -956,21 +956,26 @@
 
       <!-- Card -->
       <div class="col-md-4">
-        <div class="p-4 text-center h-100"
-          style="background:rgba(255,255,255,0.08); backdrop-filter:blur(10px); border-radius:15px; border:1px solid rgba(255,255,255,0.15); transition:0.4s;"
-          onmouseover="this.style.transform='translateY(-10px) scale(1.02)';this.style.background='rgba(255,255,255,0.15)'"
-          onmouseout="this.style.transform='none';this.style.background='rgba(255,255,255,0.08)'">
+  <a href="epc" style="text-decoration:none;">
+    <div class="p-4 text-center h-100"
+      style="background:rgba(255,255,255,0.08); backdrop-filter:blur(10px); border-radius:15px; border:1px solid rgba(255,255,255,0.15); transition:0.4s;"
+      onmouseover="this.style.transform='translateY(-10px) scale(1.02)';this.style.background='rgba(255,255,255,0.15)'"
+      onmouseout="this.style.transform='none';this.style.background='rgba(255,255,255,0.08)'">
 
-          <div style="font-size:40px; color:#00c6ff; margin-bottom:15px;">
-            <i class="bi bi-gear"></i>
-          </div>
-          <h5 style="color:#fff; font-weight:600;">EPC Services</h5>
-          <p style="color:#d1d5db; font-size:14px;">Engineering, Procurement & Construction solutions.</p>
-        </div>
+      <div style="font-size:40px; color:#00c6ff; margin-bottom:15px;">
+        <i class="bi bi-gear"></i>
       </div>
+      <h5 style="color:#fff; font-weight:600;">EPC Services</h5>
+      <p style="color:#d1d5db; font-size:14px;">
+        Engineering, Procurement & Construction solutions.
+      </p>
+    </div>
+  </a>
+</div>
 
       <!-- Card -->
       <div class="col-md-4">
+        <a href="i&c" style="text-decoration:none;">
         <div class="p-4 text-center h-100"
           style="background:rgba(255,255,255,0.08); backdrop-filter:blur(10px); border-radius:15px; border:1px solid rgba(255,255,255,0.15); transition:0.4s;"
           onmouseover="this.style.transform='translateY(-10px) scale(1.02)';this.style.background='rgba(255,255,255,0.15)'"
@@ -982,10 +987,12 @@
           <h5 style="color:#fff; font-weight:600;">I&C Services</h5>
           <p style="color:#d1d5db; font-size:14px;">Instrumentation & Control system services.</p>
         </div>
+        </a>
       </div>
 
       <!-- Card -->
       <div class="col-md-4">
+        <a href="amc" style="text-decoration:none;">
         <div class="p-4 text-center h-100"
           style="background:rgba(255,255,255,0.08); backdrop-filter:blur(10px); border-radius:15px; border:1px solid rgba(255,255,255,0.15); transition:0.4s;"
           onmouseover="this.style.transform='translateY(-10px) scale(1.02)';this.style.background='rgba(255,255,255,0.15)'"
@@ -997,10 +1004,12 @@
           <h5 style="color:#fff; font-weight:600;">AMC Services</h5>
           <p style="color:#d1d5db; font-size:14px;">Annual Maintenance Contracts for systems.</p>
         </div>
+        </a>
       </div>
 
       <!-- Card -->
       <div class="col-md-4">
+        <a href="open-access" style="text-decoration:none;">
         <div class="p-4 text-center h-100"
           style="background:rgba(255,255,255,0.08); backdrop-filter:blur(10px); border-radius:15px; border:1px solid rgba(255,255,255,0.15); transition:0.4s;"
           onmouseover="this.style.transform='translateY(-10px) scale(1.02)';this.style.background='rgba(255,255,255,0.15)'"
@@ -1012,10 +1021,12 @@
           <h5 style="color:#fff; font-weight:600;">Open Access Services</h5>
           <p style="color:#d1d5db; font-size:14px;">Energy access and optimization solutions.</p>
         </div>
+        </a>
       </div>
 
       <!-- Card -->
       <div class="col-md-4">
+        <a href="cleaning" style="text-decoration:none;">
         <div class="p-4 text-center h-100"
           style="background:rgba(255,255,255,0.08); backdrop-filter:blur(10px); border-radius:15px; border:1px solid rgba(255,255,255,0.15); transition:0.4s;"
           onmouseover="this.style.transform='translateY(-10px) scale(1.02)';this.style.background='rgba(255,255,255,0.15)'"
@@ -1027,6 +1038,7 @@
           <h5 style="color:#fff; font-weight:600;">Cleaning Services</h5>
           <p style="color:#d1d5db; font-size:14px;">Professional cleaning and maintenance services.</p>
         </div>
+        </a>
       </div>
 
     </div>
