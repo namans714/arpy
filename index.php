@@ -455,39 +455,44 @@
         </a>
       </div>
 
-      <!-- Card -->
-      <div class="col-md-4">
-        <a href="open-access" style="text-decoration:none;">
-        <div class="p-4 text-center h-100"
-          style="background:rgba(255,255,255,0.08); backdrop-filter:blur(10px); border-radius:15px; border:1px solid rgba(255,255,255,0.15); transition:0.4s;"
-          onmouseover="this.style.transform='translateY(-10px) scale(1.02)';this.style.background='rgba(255,255,255,0.15)'"
-          onmouseout="this.style.transform='none';this.style.background='rgba(255,255,255,0.08)'">
+     <!-- LAST ROW CENTERED -->
+<div class="row g-4 justify-content-center">
 
-          <div style="font-size:40px; color:#00c6ff; margin-bottom:15px;">
-            <i class="bi bi-lightning-charge"></i>
-          </div>
-          <h5 style="color:#fff; font-weight:600;">Open Access Services</h5>
-          <p style="color:#d1d5db; font-size:14px;">Energy access and optimization solutions.</p>
+  <!-- Open Access -->
+  <div class="col-md-4">
+    <a href="open-access" style="text-decoration:none;">
+      <div class="p-4 text-center h-100"
+        style="background:rgba(255,255,255,0.08); backdrop-filter:blur(10px); border-radius:15px; border:1px solid rgba(255,255,255,0.15); transition:0.4s;"
+        onmouseover="this.style.transform='translateY(-10px) scale(1.02)';this.style.background='rgba(255,255,255,0.15)'"
+        onmouseout="this.style.transform='none';this.style.background='rgba(255,255,255,0.08)'">
+
+        <div style="font-size:40px; color:#00c6ff; margin-bottom:15px;">
+          <i class="bi bi-lightning-charge"></i>
         </div>
-        </a>
+        <h5 style="color:#fff; font-weight:600;">Open Access Services</h5>
+        <p style="color:#d1d5db; font-size:14px;">Energy access and optimization solutions.</p>
       </div>
+    </a>
+  </div>
 
-      <!-- Card -->
-      <div class="col-md-4">
-        <a href="cleaning" style="text-decoration:none;">
-        <div class="p-4 text-center h-100"
-          style="background:rgba(255,255,255,0.08); backdrop-filter:blur(10px); border-radius:15px; border:1px solid rgba(255,255,255,0.15); transition:0.4s;"
-          onmouseover="this.style.transform='translateY(-10px) scale(1.02)';this.style.background='rgba(255,255,255,0.15)'"
-          onmouseout="this.style.transform='none';this.style.background='rgba(255,255,255,0.08)'">
+  <!-- Cleaning -->
+  <div class="col-md-4">
+    <a href="cleaning" style="text-decoration:none;">
+      <div class="p-4 text-center h-100"
+        style="background:rgba(255,255,255,0.08); backdrop-filter:blur(10px); border-radius:15px; border:1px solid rgba(255,255,255,0.15); transition:0.4s;"
+        onmouseover="this.style.transform='translateY(-10px) scale(1.02)';this.style.background='rgba(255,255,255,0.15)'"
+        onmouseout="this.style.transform='none';this.style.background='rgba(255,255,255,0.08)'">
 
-          <div style="font-size:40px; color:#00c6ff; margin-bottom:15px;">
-            <i class="bi bi-droplet-half"></i>
-          </div>
-          <h5 style="color:#fff; font-weight:600;">Cleaning Services</h5>
-          <p style="color:#d1d5db; font-size:14px;">Professional cleaning and maintenance services.</p>
+        <div style="font-size:40px; color:#00c6ff; margin-bottom:15px;">
+          <i class="bi bi-droplet-half"></i>
         </div>
-        </a>
+        <h5 style="color:#fff; font-weight:600;">Cleaning Services</h5>
+        <p style="color:#d1d5db; font-size:14px;">Professional cleaning and maintenance services.</p>
       </div>
+    </a>
+  </div>
+
+</div>
 
     </div>
   </div>

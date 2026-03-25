@@ -142,24 +142,37 @@
             <h5 class="vl-section-subtitle" data-aos="fade-left" data-aos-duration="900"><img
                 src="assets/img/icons/sub-logo1.svg" alt="">Sustainable Solar Innovation</h5>
             <div class="space16"></div>
-            <h2 class="vl-section-title" data-aos="fade-left" data-aos-duration="1000">Empowering India with Smarter
-              Solar Energy</h2>
-            <div class="space16"></div>
-              <p data-aos="fade-left" data-aos-duration="1100">
-                ARPY Renewables Private Limited is one of the India's leading solar solution providers, renowned for delivering high-performance, end-to-end renewable energy solutions company engaged in consultancy, design, supply, solar integration, solar installation, commissioning & maintenance of on grid, off-grid and hybrid solar power plants. We are the partner for many reputed approved manufacturers of ministry of new and renewable energy (MNRE), Govt. of India. 
-              </p>
+            <h2 class="vl-section-title" data-aos="fade-left" data-aos-duration="1000">
+  Empowering India with <strong>Smarter Solar Energy & Sustainable Solutions</strong>
+</h2>
 
-              <p data-aos="fade-left" data-aos-duration="1100" class="mt-1">
-                Led by decades of experience of industry professionals being qualified Engineers, we specialize in On-Grid, Off-Grid and Hybrid Solar Power Plants, providing complete Consultancy and EPC (Engineering, Procurement, and Construction) services with successful installations across northern India.
-              </p>
+<div class="space16"></div>
 
-              <p data-aos="fade-left" data-aos-duration="1100" class="mt-1">
-                Building on its extensive experience of small - large scale solar projects. The company is well positioned to meet the challenges of the rapidly growing global solar market. With a strong in-house engineering capability and unmatched responsiveness, ARPY designs and delivers high quality solar projects for its clients.
-              </p>
+<p data-aos="fade-left" data-aos-duration="1100">
+  <strong>ARPY Renewables Private Limited</strong> is a premier <strong>Solar Energy Company in India</strong>, 
+  renowned for delivering high-performance, end-to-end <strong>renewable energy solutions</strong>. 
+  We specialize in <strong>solar consultancy, design, supply, and installation</strong> for a greener tomorrow.
+</p>
 
-              <p data-aos="fade-left" data-aos-duration="1100" class="mt-1">
-                ARPY Renewables is the first choice for solar having operations in multiple cities in northern India. ARPY Renewables solar systems come with a 25-year of customer support for all and have emerged among the top companies in the list of solar EPC companies in North India. We are your one-stop destination for solar system installation at home, housing society, commercial and industries for unmatched quality and affordable prices.
-              </p>
+<p data-aos="fade-left" data-aos-duration="1100" class="mt-1">
+  As a trusted <strong>MNRE-approved partner</strong>, we collaborate with India’s top manufacturers to deliver 
+  reliable <strong>on-grid, off-grid, and hybrid solar power plants</strong>. Our experienced team executes 
+  large-scale <strong>Solar EPC (Engineering, Procurement, and Construction)</strong> projects with precision 
+  and maximum efficiency.
+</p>
+
+<p data-aos="fade-left" data-aos-duration="1100" class="mt-1">
+  Whether it’s a <strong>residential solar rooftop</strong>, housing society project, or large 
+  <strong>industrial solar installation</strong>, we provide complete and cost-effective solutions. 
+  We are recognized among the <strong>top solar EPC companies in North India</strong>, offering reliable 
+  <strong>25-year customer support</strong> and systems designed for maximum ROI.
+</p>
+
+<p data-aos="fade-left" data-aos-duration="1100" class="mt-1">
+  ARPY Renewables is the preferred choice for <strong>reliable solar energy solutions</strong> across multiple 
+  cities in Northern India. Whether for homes, commercial spaces, or industries, we ensure 
+  <strong>unmatched quality and affordable solar solutions</strong>.
+</p>
 
             <div class="skills-section d-none" data-aos="fade-left" data-aos-duration="1200">
               <div class="skill">
@@ -429,7 +442,7 @@
               <li class="nav-item" role="presentation">
                 <button class="nav-link active" id="pills-home1-tab" data-bs-toggle="pill" data-bs-target="#pills-home1"
                   type="button" role="tab" aria-controls="pills-home1" aria-selected="true">
-                  Our Vission
+                  Our Vision
                 </button>
               </li>
               <li class="nav-item" role="presentation">
@@ -501,34 +514,48 @@
 
   <div class="wrapper">
     <div class="section-title">
-      <h1>Our Vision & Mission</h1>
+     <h1>Our Vision & Mission</h1>
+</div>
+
+<div class="row">
+  <div class="col-md-12 mb-3">
+    
+    <!-- Vision -->
+    <div class="card">
+      <h2>Vision</h2>
+      <div class="line"></div>
+      <p>
+        To lead the global <strong>clean energy revolution</strong> by engineering world-class 
+        <strong>solar, wind, and renewable energy solutions</strong>. Our goal is to accelerate the journey 
+        toward <strong>net-zero carbon emissions</strong> and eliminate fossil fuel dependence. 
+        We envision a sustainable future where every <strong>industrial rooftop</strong>, commercial building, 
+        and home is powered by <strong>high-efficiency solar energy</strong>, creating a pollution-free world 
+        for generations to come.
+      </p>
     </div>
 
-    <div class="row">
-      <div class="col-md-12 mb-3">
-        <!-- Vision -->
-        <div class="card">
-          <h2>Vision</h2>
-          <div class="line"></div>
-          <p>
-            To lead the clean energy revolution by creating world-class solar, wind and renewable energy
-            solutions that drive the journey toward net-zero carbon and other gaseous emissions. We envision
-            a future free from fossil fuel dependence — a pollution‑free world where every rooftop, home and
-            industry is powered sustainably for generations to come.
-          </p>
-        </div>
-      </div>
-      <div class="col-md-12">
-        <!-- Mission -->
-        <div class="card">
-          <h2>Mission</h2>
-          <div class="line"></div>
-          <p>
-            At ARPY Renewables, our mission is to make sustainable energy accessible, affordable and
-            unstoppable and empower individuals, businesses and communities with high‑performance, reliable
-            solar solutions. Always design, build and maintain smart renewable systems to deliver long-term
-            value, ensure energy independence and support a greener environment.
-          </p>
+  </div>
+
+  <div class="col-md-12">
+    
+    <!-- Mission -->
+    <div class="card">
+      <h2>Mission</h2>
+      <div class="line"></div>
+      <p>
+        At <strong>ARPY Renewables</strong>, our mission is to make 
+        <strong>sustainable energy accessible</strong> and affordable for all. 
+        We empower individuals and businesses with 
+        <strong>high-performance solar EPC services</strong> and reliable energy systems. 
+        By designing, building, and maintaining 
+        <strong>smart renewable systems</strong>, we deliver long-term value, ensure 
+        <strong>total energy independence</strong>, and support a greener environment through 
+        <strong>innovative solar technology</strong>.
+      </p>
+    </div>
+
+  </div>
+</div>
         </div>
       </div>
 

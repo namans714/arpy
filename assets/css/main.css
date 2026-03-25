@@ -11671,6 +11671,7 @@ only screen and (min-width: 768px) and (max-width: 991px),
 }
 
 .homepage2-body .vl-transparent-header {
+  background: #001233;
   position: absolute;
   top: 0;
   left: 0;
@@ -21683,4 +21684,7 @@ transform:translateY(-2px);
 display:flex;
 align-items:center;
 justify-content:space-between;
+}
+.service-card:hover {
+  box-shadow: 0 20px 40px rgba(0,0,0,0.4);
 }
