@@ -21688,3 +21688,14 @@ justify-content:space-between;
 .service-card:hover {
   box-shadow: 0 20px 40px rgba(0,0,0,0.4);
 }
+.hero2-section {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
+.hero2-section-slider,
+.owl-stage-outer,
+.owl-stage,
+.owl-item {
+  height: 100%;
+}

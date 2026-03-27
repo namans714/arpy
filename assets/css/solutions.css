@@ -874,7 +874,7 @@
     .offgrid-parallax-box {
         position: relative;
         z-index: 2;
-        max-width: 780px;
+        max-width: 1000px;
         width: 100%;
         padding: 36px 32px;
         border-radius: var(--radius);

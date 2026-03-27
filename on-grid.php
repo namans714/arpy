@@ -153,34 +153,67 @@
 
     <!-- CONTENT SIDE -->
     <div class="og-content">
-      <h2>On-Grid Solar Solutions by ARPY Renewables</h2>
-      <p>
-        Perfect for homes and businesses connected to the utility grid, ARPY’s On-Grid Systems let you generate solar
-        energy, use what you need, and feed the surplus back into the grid through net metering - reducing electricity
-        bills and earning energy credits effortlessly.
-      </p>
-      <p>Go solar with ARPY Renewables’ on-grid rooftop systems. Earn government subsidy, slash your power bills by up
-        to 90%, and enjoy 25+ years of reliable performance.
-      </p>
 
-      <h2>Why On-Grid Solar System?</h2>
-      <p>
-        An on-grid solar system, also called a grid-tied system, connects directly to the utility grid through a
-        bi-directional (net) meter.
-      </p>
-      <p>It lets you generate your own power during the day and export surplus electricity back to the grid, earning you
-        credits and drastically reducing your monthly bills.
-      </p>
+  <!-- MAIN HEADING -->
+  <h2>
+    On-Grid Solar System Installation | Best Rooftop Solar Solutions for Home & Business
+  </h2>
 
-      <h2>The biggest advantage?</h2>
-      <p>
-        The Government of India offers a rooftop solar subsidy ranging from ₹ 30,000 to ₹ 78,000, depending on system
-        capacity — making on-grid solar the most affordable and popular choice for homeowners.
+  <!-- INTRO -->
+  <p>
+    Upgrade to <strong>on-grid solar system installation</strong> and reduce your electricity bills with smart and sustainable energy. 
+    At <strong>ARPY Renewables</strong>, we offer advanced <strong>rooftop solar solutions</strong> for homes and businesses connected to the utility grid.
+  </p>
 
-      </p>
-      <p>State govt. also provides subsidy separately. Delhi and UP Govt. provide ₹ 30,000 subsidy other than Govt. of
-        India Subsidy.
-      </p>
+  <p>
+    Our <strong>solar panel systems for home</strong> allow you to generate clean electricity, use what you need, and export excess power 
+    through a <strong>net metering system</strong>—helping you <strong>save up to 90% on electricity bills</strong>.
+  </p>
+
+  <p>
+    Switch to <strong>renewable energy solutions</strong> with easy installation, long-term reliability, and 
+    a <strong>25+ years solar performance warranty</strong>.
+  </p>
+
+  <!-- SECTION 2 -->
+  <h2>
+    Why Choose On-Grid Solar System for Maximum Savings?
+  </h2>
+
+  <p>
+    An <strong>on-grid solar power system</strong> (also known as a <strong>grid-tied solar system</strong>) connects directly 
+    to the electricity grid using a <strong>bi-directional net meter</strong>.
+  </p>
+
+  <p>
+    It allows you to generate your own <strong>solar electricity for home</strong>, export excess power, and significantly reduce 
+    your <strong>monthly electricity cost</strong>.
+  </p>
+
+  <p>
+    This is the most <strong>cost-effective solar solution in India</strong> for homeowners and commercial spaces.
+  </p>
+
+  <!-- SECTION 3 -->
+  <h2>
+    Government Solar Subsidy & Benefits on Solar Panel Installation
+  </h2>
+
+  <p>
+    The Government of India provides attractive <strong>solar subsidy for rooftop systems</strong> ranging from 
+    <strong>₹30,000 to ₹78,000</strong>, depending on system capacity.
+  </p>
+
+  <p>
+    State governments like <strong>Delhi and Uttar Pradesh</strong> offer additional <strong>solar panel subsidy benefits</strong>, 
+    making <strong>on-grid solar installation</strong> more affordable than ever.
+  </p>
+
+  <p>
+    👉 Invest in a <strong>high ROI solar system for home</strong> and enjoy long-term savings with clean energy.
+  </p>
+
+</div>
 
       <div class="og-points d-none">
         <div class="og-point">
@@ -227,199 +260,351 @@
   </section>
 
   <section class="hiw-fa" id="on-grid">
-    <h2 class="hiw-fa-title">How On-Grid Solar Works</h2>
+  <h2 class="hiw-fa-title">How On-Grid Solar System Works</h2>
 
-    <div class="hiw-fa-grid">
+  <div class="hiw-fa-grid">
 
-      <div class="hiw-fa-card">
-        <div class="hiw-fa-icon i-yellow"><i class="fa-solid fa-sun"></i></div>
-        <div class="hiw-fa-title2">Sunlight → Electricity</div>
-        <div class="hiw-fa-desc">Rooftop solar panels absorb sunlight and generate direct current (DC).</div>
+    <!-- 1 -->
+    <div class="hiw-fa-card">
+      <div class="hiw-fa-icon i-yellow"><i class="fa-solid fa-sun"></i></div>
+      <div class="hiw-fa-title2">
+        Solar Energy Generation | Sunlight to Electricity
       </div>
-
-      <div class="hiw-fa-card">
-        <div class="hiw-fa-icon i-green"><i class="fa-solid fa-bolt"></i></div>
-        <div class="hiw-fa-title2">Inverter Conversion</div>
-        <div class="hiw-fa-desc">A solar inverter converts DC into alternating current (AC), compatible with home
-          appliances.</div>
+      <div class="hiw-fa-desc">
+        Advanced <strong>solar panels</strong> capture <strong>sunlight</strong> and convert it into 
+        <strong>clean electricity (DC power)</strong> using high-efficiency 
+        <strong>photovoltaic technology</strong>, reducing your <strong>electricity bills</strong>.
       </div>
-
-      <div class="hiw-fa-card">
-        <div class="hiw-fa-icon i-blue"><i class="fa-solid fa-exchange-alt"></i></div>
-        <div class="hiw-fa-title2">Net Meter Integration</div>
-        <div class="hiw-fa-desc">The bi-directional meter records both exported and imported units, ensuring transparent
-          net-metered billing.</div>
-      </div>
-
-      <div class="hiw-fa-card">
-        <div class="hiw-fa-icon i-orange"><i class="fa-solid fa-house"></i></div>
-        <div class="hiw-fa-title2">Home Power Usage</div>
-        <div class="hiw-fa-desc">During daylight, your home draws power directly from solar; any excess flows to the
-          grid.</div>
-      </div>
-
-      <div class="hiw-fa-card">
-        <div class="hiw-fa-icon i-mix"><i class="fa-solid fa-plug"></i></div>
-        <div class="hiw-fa-title2">Seamless Grid Support</div>
-        <div class="hiw-fa-desc">At night or during cloudy weather, the grid automatically supplies additional
-          electricity — no interruption, no batteries needed.</div>
-      </div>
-
     </div>
-  </section>
+
+    <!-- 2 -->
+    <div class="hiw-fa-card">
+      <div class="hiw-fa-icon i-green"><i class="fa-solid fa-bolt"></i></div>
+      <div class="hiw-fa-title2">
+        DC to AC Conversion | Smart Solar Inverter
+      </div>
+      <div class="hiw-fa-desc">
+        A high-performance <strong>solar inverter</strong> converts 
+        <strong>DC power to AC electricity</strong>, making it usable for 
+        <strong>all home appliances</strong> with improved <strong>energy efficiency</strong> and safety.
+      </div>
+    </div>
+
+    <!-- 3 -->
+    <div class="hiw-fa-card">
+      <div class="hiw-fa-icon i-blue"><i class="fa-solid fa-exchange-alt"></i></div>
+      <div class="hiw-fa-title2">
+        Net Metering System | Export & Save Energy
+      </div>
+      <div class="hiw-fa-desc">
+        With <strong>net metering</strong>, excess <strong>solar power</strong> is sent to the grid, 
+        earning you <strong>energy credits</strong> and ensuring 
+        <strong>transparent electricity billing</strong>.
+      </div>
+    </div>
+
+    <!-- 4 -->
+    <div class="hiw-fa-card">
+      <div class="hiw-fa-icon i-orange"><i class="fa-solid fa-house"></i></div>
+      <div class="hiw-fa-title2">
+        Direct Solar Power Usage | Smart Energy Consumption
+      </div>
+      <div class="hiw-fa-desc">
+        During the day, your home uses <strong>solar electricity</strong> directly, reducing dependence 
+        on the grid and maximizing <strong>energy savings</strong> and <strong>cost efficiency</strong>.
+      </div>
+    </div>
+
+    <!-- 5 -->
+    <div class="hiw-fa-card">
+      <div class="hiw-fa-icon i-mix"><i class="fa-solid fa-plug"></i></div>
+      <div class="hiw-fa-title2">
+        24/7 Power Supply | Grid Backup Support
+      </div>
+      <div class="hiw-fa-desc">
+        Even at night or during low sunlight, the <strong>power grid backup</strong> ensures uninterrupted 
+        <strong>electricity supply</strong>, giving you reliable <strong>24/7 energy access</strong> 
+        without batteries.
+      </div>
+    </div>
+
+  </div>
+</section>
 
   <section class="comp-strip">
-    <h2 class="comp-strip-title">Main Components of an On-Grid Solar System</h2>
+  <h2 class="comp-strip-title">Main Components of an On-Grid Solar System</h2>
 
-    <div class="comp-row">
+  <div class="comp-row">
 
-      <div class="comp-box">
-        <div class="comp-glow"></div>
-        <div class="comp-icon ico-sun"><i class="fa-solid fa-solar-panel"></i></div>
-        <div class="comp-body">
-          <h4>Solar Panels</h4>
-          <p>High-efficiency photovoltaic modules converting sunlight into electricity (DC).</p>
-        </div>
-      </div>
-
-      <div class="comp-box">
-        <div class="comp-glow"></div>
-        <div class="comp-icon ico-inv"><i class="fa-solid fa-bolt"></i></div>
-        <div class="comp-body">
-          <h4>Solar Inverter</h4>
-          <p>Converts DC into usable AC and intelligently manages system performance and safety.</p>
-        </div>
-      </div>
-
-      <div class="comp-box">
-        <div class="comp-glow"></div>
-        <div class="comp-icon ico-mount"><i class="fa-solid fa-ruler-combined"></i></div>
-        <div class="comp-body">
-          <h4>Mounting Structures</h4>
-          <p>Engineers with proper tilt for maximum solar exposure and long-term durability.</p>
-        </div>
-      </div>
-
-      <div class="comp-box">
-        <div class="comp-glow"></div>
-        <div class="comp-icon ico-meter"><i class="fa-solid fa-arrows-rotate"></i></div>
-        <div class="comp-body">
-          <h4>Bi-Directional (Net) Meter</h4>
-          <p>Tracks imported and exported energy for accurate net‑metering and monthly bill adjustments.</p>
-        </div>
-      </div>
-
-      <div class="comp-box">
-        <div class="comp-glow"></div>
-        <div class="comp-icon ico-safety"><i class="fa-solid fa-shield-virus"></i></div>
-        <div class="comp-body">
-          <h4>Safety & Wiring Accessories</h4>
-          <p>Includes AC/DC combiner boxes, MC4 connectors, earthing, and lightning protection systems.</p>
-        </div>
-      </div>
-
-    </div>
-  </section>
-
-  <section class="roi-glass-section">
-    <div class="roi-glass-overlay"></div>
-
-    <div class="roi-glass-box">
-      <h2 class="roi-title">Return on Investment (ROI)</h2>
-
-      <p class="roi-text">
-        Installing an on-grid solar system pays for itself in 2-3 years. After that, enjoy nearly free electricity for
-        next 25 + years.
-      </p>
-
-      <p class="roi-text"><strong>Example ROI (3 kW System):</strong></p>
-
-      <ul class="roi-list">
-        <li>Electricity Tariff: ₹ 10 / unit</li>
-        <li>Annual Rate Increase: 3 – 6 %</li>
-        <li>System Life: 30 Years</li>
-        <li>Total Savings: ~ ₹ 10.8 Lakhs over 30 years</li>
-      </ul>
-
-      <div class="roi-stats">
-        <div class="roi-stat">
-          <strong>2–3 Years</strong>
-          <span>Payback Period</span>
-        </div>
-        <div class="roi-stat">
-          <strong>25+ Years</strong>
-          <span>Free Electricity After Payback</span>
-        </div>
-        <div class="roi-stat">
-          <strong>₹ 10.8 Lakhs</strong>
-          <span>Total Savings in 30 Years</span>
-        </div>
+    <!-- 1 -->
+    <div class="comp-box">
+      <div class="comp-glow"></div>
+      <div class="comp-icon ico-sun"><i class="fa-solid fa-solar-panel"></i></div>
+      <div class="comp-body">
+        <h4>
+          High-Efficiency Solar Panels | Clean Energy Generation
+        </h4>
+        <p>
+          Advanced <strong>solar panels</strong> use <strong>photovoltaic technology</strong> to convert 
+          <strong>sunlight into electricity (DC power)</strong>, delivering maximum <strong>energy output</strong> 
+          and long-term <strong>cost savings</strong>.
+        </p>
       </div>
     </div>
-  </section>
+
+    <!-- 2 -->
+    <div class="comp-box">
+      <div class="comp-glow"></div>
+      <div class="comp-icon ico-inv"><i class="fa-solid fa-bolt"></i></div>
+      <div class="comp-body">
+        <h4>
+          Smart Solar Inverter | Efficient DC to AC Conversion
+        </h4>
+        <p>
+          A reliable <strong>solar inverter</strong> converts <strong>DC electricity into AC power</strong> 
+          while optimizing <strong>system performance</strong>, ensuring safe and efficient 
+          <strong>power supply for home appliances</strong>.
+        </p>
+      </div>
+    </div>
+
+    <!-- 3 -->
+    <div class="comp-box">
+      <div class="comp-glow"></div>
+      <div class="comp-icon ico-mount"><i class="fa-solid fa-ruler-combined"></i></div>
+      <div class="comp-body">
+        <h4>
+          Durable Mounting Structures | Maximum Solar Efficiency
+        </h4>
+        <p>
+          Strong <strong>solar mounting structures</strong> ensure optimal <strong>panel tilt angle</strong> 
+          for maximum <strong>sunlight exposure</strong>, improving <strong>system efficiency</strong> 
+          and long-term <strong>durability</strong>.
+        </p>
+      </div>
+    </div>
+
+    <!-- 4 -->
+    <div class="comp-box">
+      <div class="comp-glow"></div>
+      <div class="comp-icon ico-meter"><i class="fa-solid fa-arrows-rotate"></i></div>
+      <div class="comp-body">
+        <h4>
+          Net Metering System | Track & Save Energy
+        </h4>
+        <p>
+          The <strong>bi-directional net meter</strong> records <strong>imported and exported electricity</strong>, 
+          enabling <strong>net metering benefits</strong>, accurate billing, and increased 
+          <strong>energy savings</strong>.
+        </p>
+      </div>
+    </div>
+
+    <!-- 5 -->
+    <div class="comp-box">
+      <div class="comp-glow"></div>
+      <div class="comp-icon ico-safety"><i class="fa-solid fa-shield-virus"></i></div>
+      <div class="comp-body">
+        <h4>
+          Solar Safety System | Advanced Wiring & Protection
+        </h4>
+        <p>
+          Includes <strong>AC/DC combiner boxes</strong>, <strong>MC4 connectors</strong>, proper 
+          <strong>earthing systems</strong>, and <strong>lightning protection</strong> to ensure complete 
+          <strong>solar system safety</strong> and reliability.
+        </p>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+ <section class="roi-glass-section">
+  <div class="roi-glass-overlay"></div>
+
+  <div class="roi-glass-box">
+    
+    <!-- MAIN HEADING -->
+    <h2 class="roi-title">
+      High-Yield Solar Investment | Return on Investment (ROI)
+    </h2>
+
+    <!-- CORE TEXT -->
+    <p class="roi-text">
+      Switching to an <strong>On-Grid Solar System</strong> is one of the smartest financial decisions you can make. 
+      With a <strong>rapid payback period of just 2–3 years</strong>, your system effectively becomes 
+      <strong>free</strong>.
+    </p>
+
+    <p class="roi-text">
+      After that, enjoy a <strong>zero electricity bill</strong> along with 
+      <strong>inflation-protected savings</strong> for the next 
+      <strong>25+ years</strong>.
+    </p>
+
+    <!-- EXAMPLE -->
+    <p class="roi-text"><strong>Optimized ROI Example (3 kW Solar System):</strong></p>
+
+    <ul class="roi-list">
+      <li>
+        <strong>Current Electricity Tariff:</strong> ₹10/unit (lock in your rates)
+      </li>
+      <li>
+        <strong>Annual Grid Price Increase:</strong> 3–6% (protect against rising costs)
+      </li>
+      <li>
+        <strong>System Lifespan:</strong> 25–30 years (long-term asset)
+      </li>
+      <li>
+        <strong>Net Cumulative Savings:</strong> ~₹10.8 Lakhs (tax-free returns)
+      </li>
+    </ul>
+
+    <!-- STATS -->
+    <div class="roi-stats">
+      <div class="roi-stat">
+        <strong>2–3 Years</strong>
+        <span>Guaranteed Payback Period</span>
+      </div>
+
+      <div class="roi-stat">
+        <strong>25+ Years</strong>
+        <span>Free Solar Energy & Profit</span>
+      </div>
+
+      <div class="roi-stat">
+        <strong>₹10.8 Lakhs</strong>
+        <span>Lifetime Wealth Generation</span>
+      </div>
+    </div>
+
+  </div>
+</section>
 
   <section class="adv-tiles">
-    <h3 class="adv-tiles-title">Advantages of On-Grid Solar Systems</h3>
+  <h3 class="adv-tiles-title">Advantages of On-Grid Solar Systems</h3>
 
-    <div class="tiles-grid">
+  <div class="tiles-grid">
 
-      <div class="tile">
-        <div class="tile-icon icon-gov"><i class="fa-solid fa-landmark"></i></div>
-        <h4>Government Subsidy Support</h4>
-        <p>Lower upfront cost under MNRE schemes.</p>
-      </div>
-
-      <div class="tile">
-        <div class="tile-icon icon-pay"><i class="fa-solid fa-bolt"></i></div>
-        <h4>Fast Payback</h4>
-        <p>2–3 years vs 6–7 years for off-grid systems.</p>
-      </div>
-
-      <div class="tile">
-        <div class="tile-icon icon-nob"><i class="fa-solid fa-battery-empty"></i></div>
-        <h4>No Batteries Required</h4>
-        <p>Lower maintenance and reduced system cost.</p>
-      </div>
-
-      <div class="tile">
-        <div class="tile-icon icon-net"><i class="fa-solid fa-arrows-rotate"></i></div>
-        <h4>Smart Net Metering</h4>
-        <p>Earn credits for surplus power fed back to the grid.</p>
-      </div>
-
-      <div class="tile">
-        <div class="tile-icon icon-aff"><i class="fa-solid fa-sack-dollar"></i></div>
-        <h4>Affordable & Efficient</h4>
-        <p>Most cost-effective choice for city installations.</p>
-      </div>
-
-      <div class="tile">
-        <div class="tile-icon icon-life"><i class="fa-solid fa-shield-halved"></i></div>
-        <h4>Long System Life</h4>
-        <p>30-year lifespan with minimal maintenance.</p>
-      </div>
-
+    <!-- 1 -->
+    <div class="tile">
+      <div class="tile-icon icon-gov"><i class="fa-solid fa-landmark"></i></div>
+      <h4>
+        Government Solar Subsidy | Reduce Installation Cost
+      </h4>
+      <p>
+        Maximize <strong>government solar subsidies</strong> under 
+        <strong>PM Surya Ghar Yojana</strong> and <strong>MNRE schemes</strong>, 
+        significantly lowering your <strong>upfront installation cost</strong>.
+      </p>
     </div>
-  </section>
+
+    <!-- 2 -->
+    <div class="tile">
+      <div class="tile-icon icon-pay"><i class="fa-solid fa-bolt"></i></div>
+      <h4>
+        Fast ROI | Quick Payback Period
+      </h4>
+      <p>
+        Experience a <strong>fast payback period</strong> of just 
+        <strong>2–3 years</strong>, after which you enjoy decades of 
+        <strong>free electricity</strong> and long-term savings.
+      </p>
+    </div>
+
+    <!-- 3 -->
+    <div class="tile">
+      <div class="tile-icon icon-nob"><i class="fa-solid fa-battery-empty"></i></div>
+      <h4>
+        No Batteries Required | Zero Maintenance Cost
+      </h4>
+      <p>
+        Eliminate costly <strong>battery replacements</strong> and reduce 
+        <strong>maintenance costs</strong> with a simple and efficient 
+        <strong>on-grid solar system</strong>.
+      </p>
+    </div>
+
+    <!-- 4 -->
+    <div class="tile">
+      <div class="tile-icon icon-net"><i class="fa-solid fa-arrows-rotate"></i></div>
+      <h4>
+        Net Metering Benefits | Save More on Bills
+      </h4>
+      <p>
+        Sell your <strong>surplus solar energy</strong> back to the grid and earn 
+        <strong>electricity bill credits</strong>, reducing your monthly bills 
+        significantly.
+      </p>
+    </div>
+
+    <!-- 5 -->
+    <div class="tile">
+      <div class="tile-icon icon-aff"><i class="fa-solid fa-sack-dollar"></i></div>
+      <h4>
+        Affordable Solar Solution | High Efficiency
+      </h4>
+      <p>
+        The most <strong>cost-effective solar solution</strong> for urban homes 
+        and businesses, delivering <strong>maximum energy efficiency</strong> 
+        even in limited rooftop spaces.
+      </p>
+    </div>
+
+    <!-- 6 -->
+    <div class="tile">
+      <div class="tile-icon icon-life"><i class="fa-solid fa-shield-halved"></i></div>
+      <h4>
+        25+ Years Lifespan | Reliable Solar Performance
+      </h4>
+      <p>
+        Built for durability with <strong>minimal maintenance</strong>, 
+        high-quality <strong>solar panels</strong> provide reliable 
+        <strong>clean energy</strong> for over <strong>25+ years</strong>.
+      </p>
+    </div>
+
+  </div>
+</section>
 
   <section class="smart-hero">
-    <div class="smart-hero-overlay"></div>
+  <div class="smart-hero-overlay"></div>
 
-    <h2>Smart Energy Starts Here</h2>
+  <!-- MAIN HEADLINE -->
+  <h2>
+    Smart Energy Starts Here | Power Your Future with Solar Energy
+  </h2>
 
-    <p><span class="highlight">Choosing an on-grid solar system with ARPY Renewables means:</span></p>
-    <p>Instant savings, government incentives, and decades of clean power.</p>
-    <p>Don’t wait until grid prices climb higher — generate your own electricity today and enjoy energy independence for
-      decades.</p>
+  <!-- SUBTEXT -->
+  <p class="highlight">
+    Choosing an <strong>On-Grid Solar System</strong> with ARPY Renewables means securing your 
+    <strong>financial savings</strong> and a <strong>sustainable future</strong>.
+  </p>
 
-    <div class="smart-pills">
-      <div class="smart-pill">Instant Savings</div>
-      <div class="smart-pill">Government Incentives</div>
-      <div class="smart-pill">Clean Power for Decades</div>
-    </div>
+  <p>
+    Experience <strong>instant electricity savings</strong> and maximize returns with 
+    <strong>government solar subsidies</strong>. Generate your own 
+    <strong>renewable power</strong> and stop depending on rising grid electricity prices.
+  </p>
 
-    <a href="contact" class="smart-cta">Request Your Free On-Grid Solar Consultation Now</a>
-  </section>
+  <p>
+    Enjoy <strong>energy independence</strong> and reliable <strong>clean energy</strong> for decades 
+    with <strong>Tier-1 solar panels</strong> and long-term performance assurance.
+  </p>
+
+  <!-- PILL FEATURES -->
+  <div class="smart-pills">
+    <div class="smart-pill">Maximum Savings</div>
+    <div class="smart-pill">MNRE Solar Subsidies</div>
+    <div class="smart-pill">25+ Years Performance Warranty</div>
+  </div>
+
+  <!-- CTA BUTTON -->
+  <a href="contact" class="smart-cta">
+    Get Your Free On-Grid Solar Consultation Today
+  </a>
+
+</section>
 
   <!-- ON GRID SOLUTION end-->
 

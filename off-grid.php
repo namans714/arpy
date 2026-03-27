@@ -150,183 +150,348 @@
 
     <!-- CONTENT SIDE -->
     <div class="og-content">
-      <h2>Off-Grid Solar Solutions</h2>
-      <p>
-        Our Off-Grid Systems are battery-based, independent solar setups that provide continuous power, even in remote
-        areas with no grid access. They ensure uninterrupted energy for critical operations, rural electrification, and
-        remote facilities.
-      </p>
-      <p>Discover ARPY Renewables’ off-grid solar solutions — perfect for remote areas and unreliable grids. Generate
-        and store your own clean power with high-efficiency batteries, engineered for India’s conditions.
-      </p>
 
-      <h4 class="og-quote">When grid power isn’t available or isn’t reliable — ARPY Renewables’ Off-Grid Solar Systems
-        keep you powered up, day and night.</h4>
-      <p>
-        Our self-sustaining systems capture sunlight through solar PV modules, convert it into electricity, and store
-        the excess energy in batteries for use after sunset or during outages.
-      </p>
-      <p>Off-grid solar operates entirely independently of the utility grid, making it ideal for remote villages, rural
-        homes, farmhouses, resorts etc. where continuous power is critical.
-      </p>
+  <!-- MAIN HEADING -->
+  <h2>
+    Off-Grid Solar Solutions | Complete Energy Independence
+  </h2>
 
-      <h4 class="og-quote">While off-grid systems cost more than on-grid ones (mainly due to the batteries), they offer
-        complete energy autonomy - a powerful advantage where the grid can’t reach.</h4>
+  <!-- INTRO -->
+  <p>
+    Experience true <strong>energy freedom</strong> with our advanced 
+    <strong>battery-based solar systems</strong>. Designed for areas where the grid is unavailable or unreliable, 
+    these systems deliver a <strong>consistent power supply</strong> for 
+    <strong>rural electrification</strong>, farmhouses, and industrial facilities.
+  </p>
 
-      <div class="og-btns">
-        <!-- New CTA -->
-        <a href="contact" class="og-cta-full">Request Your Off-Grid Solar Consultation Today</a>
-      </div>
-    </div>
+  <p>
+    Upgrade to <strong>ARPY Renewables’ Off-Grid Solar Technology</strong>—the ideal solution for 
+    <strong>grid-independent living</strong>. Generate and store your own 
+    <strong>sustainable power</strong> using high-performance 
+    <strong>solar batteries</strong> built for India’s demanding conditions.
+  </p>
+
+  <!-- HIGHLIGHT 1 -->
+  <h4 class="og-quote">
+    Stop depending on unstable grid supply — our <strong>off-grid solar systems</strong> ensure 
+    <strong>24/7 uninterrupted power</strong> with reliable <strong>solar energy storage</strong>.
+  </h4>
+
+  <!-- FUNCTION -->
+  <p>
+    Our <strong>autonomous solar systems</strong> capture sunlight using 
+    <strong>high-efficiency solar PV modules</strong>, convert it into electricity, and store excess energy in 
+    <strong>deep-cycle solar batteries</strong> for use during the night or unexpected 
+    <strong>power outages</strong>.
+  </p>
+
+  <!-- USE CASE -->
+  <p>
+    Since these systems operate completely independent of the <strong>utility grid</strong>, they are perfect for 
+    <strong>remote villages</strong>, farmhouses, luxury resorts, and private properties where 
+    <strong>uninterrupted electricity</strong> is essential.
+  </p>
+
+  <!-- HIGHLIGHT 2 -->
+  <h4 class="og-quote">
+    While the initial investment is higher, <strong>off-grid solar systems</strong> deliver complete 
+    <strong>energy autonomy</strong>—giving you the power to generate electricity anywhere, anytime.
+  </h4>
+
+  <!-- CTA -->
+  <div class="og-btns">
+    <a href="contact" class="og-cta-full">
+      Get Your Off-Grid Solar Consultation Today
+    </a>
+  </div>
+
+</div>
 
   </section>
 
-  <section class="hiw-fa">
-    <h2 class="hiw-fa-title">How Off-Grid Solar Works</h2>
+ <section class="hiw-fa">
+  <h2 class="hiw-fa-title">How Off-Grid Solar System Works</h2>
 
-    <div class="hiw-fa-grid">
+  <div class="hiw-fa-grid">
 
-      <div class="hiw-fa-card">
-        <div class="hiw-fa-icon i-yellow"><i class="fa-solid fa-sun"></i></div>
-        <div class="hiw-fa-title2">Sunlight → Electricity</div>
-        <div class="hiw-fa-desc">Solar PV panels absorb sunlight and generate DC power.</div>
+    <!-- 1 -->
+    <div class="hiw-fa-card">
+      <div class="hiw-fa-icon i-yellow"><i class="fa-solid fa-sun"></i></div>
+      <div class="hiw-fa-title2">
+        Solar Energy Harvesting | Sunlight to DC Electricity
       </div>
-
-      <div class="hiw-fa-card">
-        <div class="hiw-fa-icon i-green"><i class="fa-solid fa-gauge-high"></i></div>
-        <div class="hiw-fa-title2">Charge Controller Regulation</div>
-        <div class="hiw-fa-desc">The solar charge controller manages the flow of power, charging the batteries safely
-          while preventing over-charging or deep discharge.</div>
+      <div class="hiw-fa-desc">
+        High-efficiency <strong>solar PV panels</strong> capture <strong>sunlight</strong> and convert it into 
+        <strong>DC electricity</strong>, creating a reliable and <strong>sustainable power source</strong>.
       </div>
-
-      <div class="hiw-fa-card">
-        <div class="hiw-fa-icon i-blue"><i class="fa-solid fa-battery-full"></i></div>
-        <div class="hiw-fa-title2">Battery Storage</div>
-        <div class="hiw-fa-desc">During the day, excess energy charges the batteries. That stored power keeps your home
-          or business running after sunset.</div>
-      </div>
-
-      <div class="hiw-fa-card">
-        <div class="hiw-fa-icon i-orange"><i class="fa-solid fa-wave-square"></i></div>
-        <div class="hiw-fa-title2">Inverter Conversion</div>
-        <div class="hiw-fa-desc">The off-grid inverter converts the stored DC power into AC power, which runs your
-          household appliances smoothly.</div>
-      </div>
-
-      <div class="hiw-fa-card">
-        <div class="hiw-fa-icon i-mix"><i class="fa-solid fa-house-signal"></i></div>
-        <div class="hiw-fa-title2">Power Distribution</div>
-        <div class="hiw-fa-desc">The inverter feeds AC power into your home’s distribution panel, ensuring
-          round-the-clock electricity — without relying on the grid.</div>
-      </div>
-
     </div>
-  </section>
+
+    <!-- 2 -->
+    <div class="hiw-fa-card">
+      <div class="hiw-fa-icon i-green"><i class="fa-solid fa-gauge-high"></i></div>
+      <div class="hiw-fa-title2">
+        Intelligent Charge Controller | Safe Battery Regulation
+      </div>
+      <div class="hiw-fa-desc">
+        The <strong>solar charge controller</strong> manages power flow to ensure 
+        <strong>safe battery charging</strong>, preventing <strong>overcharging</strong> and 
+        <strong>deep discharge</strong> for longer battery life.
+      </div>
+    </div>
+
+    <!-- 3 -->
+    <div class="hiw-fa-card">
+      <div class="hiw-fa-icon i-blue"><i class="fa-solid fa-battery-full"></i></div>
+      <div class="hiw-fa-title2">
+        Solar Battery Storage | Reliable Energy Backup
+      </div>
+      <div class="hiw-fa-desc">
+        Excess energy is stored in <strong>deep-cycle solar batteries</strong>, providing a dependable 
+        <strong>energy backup</strong> that powers your home or business after sunset.
+      </div>
+    </div>
+
+    <!-- 4 -->
+    <div class="hiw-fa-card">
+      <div class="hiw-fa-icon i-orange"><i class="fa-solid fa-wave-square"></i></div>
+      <div class="hiw-fa-title2">
+        Power Conversion | DC to Clean AC Electricity
+      </div>
+      <div class="hiw-fa-desc">
+        The <strong>off-grid solar inverter</strong> converts stored <strong>DC power into AC electricity</strong>, 
+        making it compatible with all <strong>household appliances</strong>.
+      </div>
+    </div>
+
+    <!-- 5 -->
+    <div class="hiw-fa-card">
+      <div class="hiw-fa-icon i-mix"><i class="fa-solid fa-house-signal"></i></div>
+      <div class="hiw-fa-title2">
+        Seamless Power Distribution | 24/7 Energy Independence
+      </div>
+      <div class="hiw-fa-desc">
+        Electricity is distributed through your system to provide 
+        <strong>uninterrupted power supply</strong> and complete 
+        <strong>energy independence</strong> without relying on the grid.
+      </div>
+    </div>
+
+  </div>
+</section>
 
   <section class="offgrid-parallax-section">
 
-    <div class="offgrid-parallax-overlay"></div>
+  <div class="offgrid-parallax-overlay"></div>
 
-    <div class="offgrid-parallax-box">
+  <div class="offgrid-parallax-box">
 
-      <h2 class="offgrid-title">When to Choose Off-Grid Solar</h2>
+    <!-- HEADING -->
+    <h2 class="offgrid-title">
+      When to Choose Off-Grid Solar System | Complete Energy Independence
+    </h2>
 
-      <p>You should consider an off-grid solar solution if:</p>
+    <!-- INTRO -->
+    <p>
+      An <strong>off-grid solar system</strong> is the ideal choice for users who need 
+      <strong>100% reliable power backup</strong> and complete 
+      <strong>energy independence</strong> from the utility grid.
+    </p>
 
-      <ul>
-        <li>You live or operate in an area without grid access.</li>
-        <li>You experience frequent power cuts or unstable voltage.</li>
-        <li>You want complete independence from discom supply.</li>
-        <li>You manage critical operations that cannot afford downtime.</li>
-      </ul>
+    <!-- BULLETS -->
+    <ul>
 
-      <p>For urban and suburban users with a reliable grid, an on-grid or hybrid system usually offers better ROI and
-        lower maintenance.</p>
+      <li>
+        <strong>Remote Locations:</strong> You live or operate in a 
+        <strong>no-grid area</strong> where extending electricity lines is difficult or too expensive.
+      </li>
 
-    </div>
+      <li>
+        <strong>Unstable Power Supply:</strong> You face frequent 
+        <strong>blackouts, grid failures, or voltage fluctuations</strong> that disrupt daily life or business operations.
+      </li>
 
-  </section>
+      <li>
+        <strong>Complete Energy Autonomy:</strong> You want to disconnect from the 
+        <strong>utility grid</strong> and avoid rising 
+        <strong>electricity tariffs</strong> and DISCOM dependency.
+      </li>
+
+      <li>
+        <strong>Critical Operations:</strong> You run facilities like clinics, cold storage, or data centers that require 
+        <strong>zero downtime</strong> and uninterrupted 
+        <strong>power supply (UPS)</strong>.
+      </li>
+
+    </ul>
+
+    <!-- FINAL NOTE -->
+    <p>
+      For urban users with a stable grid, an <strong>on-grid or hybrid solar system</strong> may offer 
+      better <strong>ROI</strong> and lower maintenance costs.
+    </p>
+
+  </div>
+
+</section>
 
   <section class="comp-strip">
-    <h2 class="comp-strip-title">Advantages of Off-Grid Solar Systems</h2>
+  <h2 class="comp-strip-title">Advantages of Off-Grid Solar Systems</h2>
 
-    <div class="comp-row">
+  <div class="comp-row">
 
-      <div class="comp-box">
-        <div class="comp-glow"></div>
-        <div class="comp-icon ico-sun"><i class="fa-solid fa-solar-panel"></i></div>
-        <div class="comp-body">
-          <h4>Solar Panels</h4>
-          <p>High-efficiency photovoltaic modules converting sunlight into electricity (DC).</p>
-        </div>
+    <!-- 1 -->
+    <div class="comp-box">
+      <div class="comp-glow"></div>
+      <div class="comp-icon ico-sun"><i class="fa-solid fa-solar-panel"></i></div>
+      <div class="comp-body">
+        <h4>
+          High-Performance Solar Panels | Clean Energy Generation
+        </h4>
+        <p>
+          Advanced <strong>solar PV modules</strong> use 
+          <strong>high-efficiency photovoltaic technology</strong> to capture maximum sunlight and generate 
+          <strong>clean DC electricity</strong>.
+        </p>
       </div>
-
-      <div class="comp-box">
-        <div class="comp-glow"></div>
-        <div class="comp-icon ico-mount"><i class="fa-solid fa-leaf"></i></div>
-        <div class="comp-body">
-          <h4>Zero Carbon Emissions</h4>
-          <p>100 % renewable, 0 % pollution.</p>
-        </div>
-      </div>
-
-      <div class="comp-box">
-        <div class="comp-glow"></div>
-        <div class="comp-icon ico-inv"><i class="fa-solid fa-battery-full"></i></div>
-        <div class="comp-body">
-          <h4>Reliable Backup Power </h4>
-          <p>Operates seamlessly during blackouts.</p>
-        </div>
-      </div>
-
-      <div class="comp-box">
-        <div class="comp-glow"></div>
-        <div class="comp-icon ico-meter"><i class="fa-solid fa-tower-broadcast"></i></div>
-        <div class="comp-body">
-          <h4>Rural Electrification Solution</h4>
-          <p>Bring power to off-grid communities.</p>
-        </div>
-      </div>
-
-      <div class="comp-box">
-        <div class="comp-glow"></div>
-        <div class="comp-icon ico-safety"><i class="fa-solid fa-shield-halved"></i></div>
-        <div class="comp-body">
-          <h4>Smart Energy Security</h4>
-          <p>Continuous supply for critical and emergency loads.</p>
-        </div>
-      </div>
-
     </div>
-  </section>
+
+    <!-- 2 -->
+    <div class="comp-box">
+      <div class="comp-glow"></div>
+      <div class="comp-icon ico-mount"><i class="fa-solid fa-leaf"></i></div>
+      <div class="comp-body">
+        <h4>
+          Zero Carbon Emissions | Eco-Friendly Energy Solution
+        </h4>
+        <p>
+          Switch to <strong>100% renewable energy</strong> with a 
+          <strong>zero carbon footprint</strong>, helping reduce pollution and protect the environment.
+        </p>
+      </div>
+    </div>
+
+    <!-- 3 -->
+    <div class="comp-box">
+      <div class="comp-glow"></div>
+      <div class="comp-icon ico-inv"><i class="fa-solid fa-battery-full"></i></div>
+      <div class="comp-body">
+        <h4>
+          Reliable Backup Power | Independent Energy Storage
+        </h4>
+        <p>
+          Enjoy uninterrupted power during <strong>grid failures</strong> with a robust 
+          <strong>energy storage system</strong> that ensures continuous operation during blackouts.
+        </p>
+      </div>
+    </div>
+
+    <!-- 4 -->
+    <div class="comp-box">
+      <div class="comp-glow"></div>
+      <div class="comp-icon ico-meter"><i class="fa-solid fa-tower-broadcast"></i></div>
+      <div class="comp-body">
+        <h4>
+          Rural Electrification | Power for Remote Areas
+        </h4>
+        <p>
+          The perfect <strong>off-grid power solution</strong> for villages, farmhouses, and remote locations where 
+          the <strong>utility grid is unavailable</strong>.
+        </p>
+      </div>
+    </div>
+
+    <!-- 5 -->
+    <div class="comp-box">
+      <div class="comp-glow"></div>
+      <div class="comp-icon ico-safety"><i class="fa-solid fa-shield-halved"></i></div>
+      <div class="comp-body">
+        <h4>
+          24/7 Energy Security | Continuous Power Supply
+        </h4>
+        <p>
+          Ensure complete <strong>energy security</strong> with a 
+          <strong>continuous power supply</strong> designed for critical and emergency loads.
+        </p>
+      </div>
+    </div>
+
+  </div>
+</section>
 
   <section class="solar-two-columns">
 
-    <div class="box">
-      <h3>Considerations Before You Invest</h3>
-      <div class="list">
-        <p>1 Batteries need periodic maintenance and eventual replacement.</p>
-        <p>2 No government subsidy is currently available for off-grid systems.</p>
-        <p>3 Initial costs are higher due to battery storage requirements.</p>
-      </div>
-      <div class="bottom">
-        If your location has a stable grid connection, an on-grid or hybrid solar system may provide
-        faster ROI and government subsidy benefits.
-      </div>
+  <!-- LEFT SIDE -->
+  <div class="box">
+    <h3>
+      Off-Grid Solar Investment Considerations
+    </h3>
+
+    <div class="list">
+      <p>
+        <strong>1. Battery Lifecycle:</strong> 
+        <strong>off-grid solar batteries</strong> require periodic maintenance and eventual replacement to ensure 
+        optimal <strong>energy storage performance</strong>.
+      </p>
+
+      <p>
+        <strong>2. Subsidy Availability:</strong> 
+        <strong>solar subsidies in India</strong> are primarily available for 
+        <strong>on-grid systems</strong>, making off-grid a purely independent investment.
+      </p>
+
+      <p>
+        <strong>3. Higher Initial Investment:</strong> 
+        upfront costs are higher due to advanced 
+        <strong>deep-cycle batteries</strong> and specialized system components.
+      </p>
     </div>
 
-    <div class="box">
-      <h3>Why ARPY Renewables for Off-Grid Solar</h3>
-      <ul>
-        <li>Expertise in turnkey EPC solutions for challenging terrains.</li>
-        <li>Customized system sizing based on your power and location profile.</li>
-        <li>Use of high-efficiency modules and long-life battery technology.</li>
-        <li>24×7 remote monitoring and maintenance support.</li>
-        <li>Proven installations across India’s toughest environments.</li>
-      </ul>
+    <!-- PRO TIP -->
+    <div class="bottom">
+      <strong>Pro Tip:</strong> If your location has a stable grid connection, an 
+      <strong>on-grid or hybrid solar system</strong> can deliver a 
+      <strong>faster ROI</strong> along with <strong>government subsidy benefits</strong>.
     </div>
+  </div>
 
-  </section>
+  <!-- RIGHT SIDE -->
+  <div class="box">
+    <h3>
+      Why Choose ARPY Renewables for Off-Grid Solar
+    </h3>
+
+    <ul>
+      <li>
+        <strong>Turnkey EPC Expertise:</strong> End-to-end 
+        <strong>solar EPC solutions</strong> designed for even the most challenging terrains.
+      </li>
+
+      <li>
+        <strong>Precision Engineering:</strong> Every system is 
+        <strong>custom-sized</strong> based on your energy needs and 
+        <strong>solar irradiation profile</strong>.
+      </li>
+
+      <li>
+        <strong>Premium Hardware:</strong> We use 
+        <strong>high-efficiency PV modules</strong> and advanced 
+        <strong>battery technologies</strong> for long-term durability.
+      </li>
+
+      <li>
+        <strong>24×7 Monitoring:</strong> Real-time 
+        <strong>remote system monitoring</strong> with proactive 
+        <strong>operation & maintenance (O&M)</strong> support.
+      </li>
+
+      <li>
+        <strong>Proven Track Record:</strong> Successful installations across 
+        India’s toughest environments with guaranteed reliability.
+      </li>
+    </ul>
+  </div>
+
+</section>
 
   <section class="smart-hero" style="background-image: url(assets/img/1/10.jpg);">
     <div class="smart-hero-overlay"></div>
