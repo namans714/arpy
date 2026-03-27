@@ -210,7 +210,7 @@
       <div class="row">
         <div class="col-lg-6">
           <div class="img1 image-anime">
-            <img src="assets/img/all-images/contact/contact-img1.png" alt="">
+            <img src="assets/img/all-images/contact/contact-img1a.png" alt="">
           </div>
         </div>
 
