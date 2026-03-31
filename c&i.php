@@ -19,8 +19,8 @@
   <meta property="og:description" content="ARP Renewables provides customized residential, commercial and industrial solar power solutions for a cleaner and sustainable future.">
   <meta property="og:url" content="https://arpyrenewables.com/solutions.html">
   <meta property="og:site_name" content="ARPY Renewables">
-  <meta property="og:image" content="https://arpyrenewables.com/assets/img/1/2.jpg">
-  <meta property="og:image:secure_url" content="https://arpyrenewables.com/assets/img/1/2.jpg">
+  <meta property="og:image" content="https://arpyrenewables.com/assets/img/1/2a.jpg">
+  <meta property="og:image:secure_url" content="https://arpyrenewables.com/assets/img/1/2a.jpg">
   <meta property="og:image:type" content="image/jpeg">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
@@ -48,12 +48,12 @@
 <body>
 
   <!--===== PRELOADER STARTS =======-->
-  <!-- <div class="preloader">
+  <div class="preloader">
     <div class="loading-container">
       <div class="loading"></div>
       <div id="loading-icon"><img src="assets/img/1/1.png" alt=""></div>
     </div>
-  </div> -->
+  </div>
   <!--===== PRELOADER ENDS =======-->
 
   <!--===== PROGRESS STARTS=======-->
@@ -76,7 +76,7 @@
       <div class="vl-offcanvas-wrapper">
         <div class="vl-offcanvas-header d-flex justify-content-between align-items-center mb-90">
           <div class="vl-offcanvas-logo">
-            <a href="./"><img src="assets/img/1/2.jpg" alt=""></a>
+            <a href="./"><img src="assets/img/1/2a.jpg" alt=""></a>
           </div>
           <div class="vl-offcanvas-close">
             <button class="vl-offcanvas-close-toggle"><i class="fa-solid fa-xmark"></i></button>
@@ -89,7 +89,7 @@
 
         <div class="space20"></div>
         <div class="vl-offcanvas-info">
-          <h3 class="vl-offcanvas-sm-title">Contact Us</h3>
+           
           <div class="space20"></div>
           <span><a href="#"> <i class="fa-solid fa-phone"></i> +91 997-112-2890</a></span>
           <span><a href="#"> <i class="fa-solid fa-phone"></i> +91 999-996-6061</a></span>
@@ -151,13 +151,29 @@
 
     <!-- CONTENT SIDE -->
     <div class="og-content">
-      <h2>Commercial & Industrial Solar Solutions</h2>
-      <p>
-        For businesses and industries aiming to reduce operational costs and carbon emissions and get carbon credit for
-        future usage, ARPY provides scalable solar EPC solutions. Our team ensures quick installation, superior
-        performance, and compliance with all government norms, helping you meet sustainability goals while improving
-        ROI.
-      </p>
+      <h2>
+  Scalable Commercial & Industrial Solar Solutions for Sustainable Growth
+</h2>
+
+<p>
+  Empower your business with <strong>high-performance solar energy solutions</strong> designed to 
+  reduce <strong>operational costs</strong> and lower your <strong>carbon footprint</strong>. 
+  <strong>ARPY Renewables</strong> delivers industry-leading 
+  <strong>solar EPC solutions</strong> tailored for commercial and industrial applications.
+</p>
+
+<p>
+  Our expert team ensures <strong>fast and efficient solar installation</strong>, 
+  maximum energy output, and complete <strong>compliance with government regulations</strong>, 
+  making your transition to clean energy seamless and reliable.
+</p>
+
+<p>
+  We also help businesses unlock additional value through 
+  <strong>carbon credits</strong> while maximizing <strong>solar ROI</strong>. 
+  Switch to <strong>clean, renewable energy</strong> and power your operations with 
+  long-term <strong>sustainable efficiency</strong>.
+</p>  
 
       <div class="og-btns">
         <!-- New CTA -->
@@ -167,29 +183,61 @@
 
   </section>
 
-  <section class="offgrid-parallax-section" style="background-image: url(assets/img/1/15.jpg);">
+    <section class="offgrid-parallax-section" style="background-image: url(assets/img/1/15.jpg);">
 
-    <div class="offgrid-parallax-overlay"></div>
+  <div class="offgrid-parallax-overlay"></div>
 
-    <div class="offgrid-parallax-box">
+  <div class="offgrid-parallax-box">
 
-      <h2 class="offgrid-title">Flexible Financing Options for Every Home</h2>
+    <!-- HEADLINE -->
+    <h2 class="offgrid-title">
+      Flexible Solar Financing | Easy Low-EMI & Zero-Investment Plans
+    </h2>
 
-      <p>We make going solar easy and budget-friendly. Choose from:</p>
+    <!-- INTRO -->
+    <p>
+      Make your transition to <strong>solar energy</strong> simple and budget-friendly. 
+      Choose a financing model that fits your financial goals:
+    </p>
 
-      <ul>
-        <li>CAPEX Model: Own your system and enjoy maximum returns.</li>
-        <li>OPEX Model: Pay only for the power you use — no upfront costs.</li>
-        <li>Zero-Investment Plan: Switch to solar without any capital and start saving from day one.</li>
-        <li>Loans: loans, finance support from banks and NBFC cab be arranged.</li>
-      </ul>
+    <!-- LIST -->
+    <ul>
 
-      <p>With ARPY Renewables, most homes break even within 1–4 years, depending on local tariffs and component choices
-        - after that, it’s nearly free electricity for 25+ years.</p>
+      <li>
+        <strong>CAPEX Model:</strong> Gain full ownership of your 
+        <strong>solar power system</strong> and enjoy the 
+        <strong>maximum return on investment (ROI)</strong> from day one.
+      </li>
 
-    </div>
+      <li>
+        <strong>OPEX Model:</strong> Pay only for the solar energy you consume—ideal for users looking for 
+        <strong>zero upfront cost</strong> and hassle-free operation.
+      </li>
 
-  </section>
+      <li>
+        <strong>Zero-Investment Plan:</strong> Switch to a 
+        <strong>sustainable energy solution</strong> without any initial capital and start 
+        <strong>reducing electricity bills immediately</strong>.
+      </li>
+
+      <li>
+        <strong>Bank & NBFC Loans:</strong> Get dedicated 
+        <strong>solar financing support</strong> with 
+        <strong>low-interest EMI plans</strong>, minimal documentation, and fast approvals.
+      </li>
+
+    </ul>
+
+    <!-- ROI LINE -->
+    <p>
+      With <strong>ARPY Renewables</strong>, most homes achieve a 
+      <strong>solar payback period of just 1–4 years</strong>. After that, enjoy 
+      <strong>virtually free electricity</strong> for the next <strong>25+ years</strong>.
+    </p>
+
+  </div>
+
+</section>
 
   <!-- Commercial & Industrial Solar Solutions end -->
 

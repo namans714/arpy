@@ -21,8 +21,8 @@
 <meta property="og:description" content="Improve solar performance with professional solar panel cleaning services from ARPY Renewables. Safe, efficient, and reliable cleaning for rooftop and solar plants.">
 <meta property="og:url" content="https://arpyrenewables.com/cleaning">
 <meta property="og:site_name" content="ARPY Renewables">
-<meta property="og:image" content="https://arpyrenewables.com/assets/img/1/2.jpg">
-<meta property="og:image:secure_url" content="https://arpyrenewables.com/assets/img/1/2.jpg">
+<meta property="og:image" content="https://arpyrenewables.com/assets/img/1/2a.jpg">
+<meta property="og:image:secure_url" content="https://arpyrenewables.com/assets/img/1/2a.jpg">
 <meta property="og:image:type" content="image/jpeg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
@@ -75,7 +75,7 @@
       <div class="vl-offcanvas-wrapper">
         <div class="vl-offcanvas-header d-flex justify-content-between align-items-center mb-90">
           <div class="vl-offcanvas-logo">
-            <a href="./"><img src="assets/img/1/2.jpg" alt=""></a>
+            <a href="./"><img src="assets/img/1/2a.jpg" alt=""></a>
           </div>
           <div class="vl-offcanvas-close">
             <button class="vl-offcanvas-close-toggle"><i class="fa-solid fa-xmark"></i></button>
@@ -88,7 +88,7 @@
 
         <div class="space20"></div>
         <div class="vl-offcanvas-info">
-          <h3 class="vl-offcanvas-sm-title">Contact Us</h3>
+           
           <div class="space20"></div>
           <span><a href="#"> <i class="fa-solid fa-phone"></i> +91 997-112-2890</a></span>
           <span><a href="#"> <i class="fa-solid fa-phone"></i> +91 999-996-6061</a></span>
@@ -139,51 +139,74 @@
   <section class="cleaning-section" aria-labelledby="cleaning-title" id="cleaning-section">
 
      <h2 class="t-h1 mb-1 mt-2">Solar Panel Cleaning Services</h2>
-    <p class="t-lead mb-4">
-Professional Solar Panel Cleaning Services for Maximum Energy Output
+<p class="t-lead mb-4">
+  Professional <strong>Solar Panel Cleaning Services</strong> for <strong>Maximum Energy Output</strong>
 </p>
-    <div class="cleaning-inner mt-5">
-      <div class="cleaning-card" role="region" aria-label="Cleaning Services information">
-        <div class="row">
-          <div class="col-lg-7">
-            <!-- <h2 id="cleaning-title" class="cleaning-title">Regular Panel Cleaning for Maximum Output</h2> -->
 
-            <p class="cleaning-sub">Keep your system producing — scheduled cleaning improves energy yield and protects
-              long-term performance.</p>
+<div class="cleaning-inner mt-5">
+  <div class="cleaning-card" role="region" aria-label="Cleaning Services information">
+    <div class="row">
+      <div class="col-lg-7">
 
-            <p class="cleaning-desc">
-              Regular panel cleaning removes dust, bird droppings, pollen and other soiling that block sunlight and
-              reduce
-              generation. ARPY offers safe, efficient cleaning using industry-approved detergents, brushes, and
-              water-recovery practices to protect module warranties and structure integrity while restoring optimal
-              energy
-              capture.
+        <p class="cleaning-sub">
+          Boost your <strong>solar energy generation</strong> with expert 
+          <strong>panel cleaning solutions</strong> designed to remove 
+          <strong>dust, bird droppings, and environmental soiling</strong>.
+        </p>
+
+        <p class="cleaning-desc">
+          Keep your <strong>solar energy system</strong> performing at its peak. Regular 
+          <strong>professional panel cleaning</strong> enhances 
+          <strong>energy generation</strong> and protects long-term system health. 
+          ARPY Renewables uses <strong>industry-approved detergents</strong> and 
+          <strong>soft-bristle cleaning methods</strong> to ensure 
+          <strong>warranty-safe solar module cleaning</strong>, while restoring 
+          <strong>optimal sunlight absorption</strong> and maintaining structural integrity.
+        </p>
+
+        <div class="cleaning-benefits" aria-hidden="false">
+
+          <div class="benefit">
+            <div class="icon">✓</div>
+            <p>
+              <strong>Boost Energy Generation:</strong> Recover up to 
+              <strong>5–25% power output</strong> by eliminating 
+              <strong>module soiling and dust buildup</strong>.
             </p>
+          </div>
 
-            <div class="cleaning-benefits" aria-hidden="false">
-              <div class="benefit">
-                <div class="icon">✓</div>
-                <p>Improves energy yield — recover 5–25% generation depending on site conditions.</p>
-              </div>
+          <div class="benefit">
+            <div class="icon">⚙</div>
+            <p>
+              <strong>Warranty-Safe Cleaning:</strong> Use of 
+              <strong>non-abrasive tools</strong> and 
+              <strong>pH-neutral solutions</strong> to protect 
+              <strong>solar panel coatings</strong>.
+            </p>
+          </div>
 
-              <div class="benefit">
-                <div class="icon">⚙</div>
-                <p>Safe cleaning methods that preserve module coatings and warranties.</p>
-              </div>
+          <div class="benefit">
+            <div class="icon">♻</div>
+            <p>
+              <strong>Eco-Friendly Methods:</strong> Advanced 
+              <strong>water-efficient cleaning technologies</strong> with 
+              <strong>sustainable practices</strong>.
+            </p>
+          </div>
 
-              <div class="benefit">
-                <div class="icon">♻</div>
-                <p>Water-efficient and environmentally friendly cleaning options.</p>
-              </div>
+          <div class="benefit">
+            <div class="icon">📈</div>
+            <p>
+              <strong>Data-Driven Maintenance:</strong> 
+              <strong>Scheduled cleaning plans</strong> integrated with 
+              <strong>performance tracking</strong> and reporting.
+            </p>
+          </div>
 
-              <div class="benefit">
-                <div class="icon">📈</div>
-                <p>Scheduled maintenance plans with performance tracking and reporting.</p>
-              </div>
-            </div>
+        </div>
 
-            <div class="cleaning-cta-row">
-              <a class="btn-primary" href="contact">Request Cleaning Quote</a>
+        <div class="cleaning-cta-row">
+          <a class="btn-primary" href="contact">Request Cleaning Quote</a>
               <!-- <a class="btn-ghost" href="contact">Learn about schedules</a> -->
             </div>
           </div>
@@ -195,176 +218,244 @@ Professional Solar Panel Cleaning Services for Maximum Energy Output
         </div>
       </div>
 
-      <aside class="cleaning-side" aria-label="Cleaning Service snapshot">
-        <h4 class="side-title">Quick Snapshot</h4>
-        <div class="row">
-          <div class="col-lg-4">
-            <div class="side-item">
-              <div class="num">5–25%</div>
-              <div class="txt">Typical production recovery after cleaning</div>
-            </div>
-          </div>
-          <div class="col-lg-4">
-            <div class="side-item">
-              <div class="num">Monthly / Quarterly</div>
-              <div class="txt">Recommended cleaning frequency (site dependent)</div>
-            </div>
-          </div>
-          <div class="col-lg-4">
-            <div class="side-item">
-              <div class="num">Fully Auditable</div>
-              <div class="txt">Photo & performance evidence after each service</div>
-            </div>
-          </div>
+     <aside class="cleaning-side" aria-label="Cleaning Service snapshot">
+  <h4 class="side-title">Quick Snapshot</h4>
+
+  <div class="row">
+
+    <div class="col-lg-4">
+      <div class="side-item">
+        <div class="num">5–25%</div>
+        <div class="txt">
+          <strong>Generation Boost</strong> with 
+          <strong>solar production recovery</strong> after 
+          <strong>professional panel cleaning</strong>
         </div>
-        <div class="side-note">
-          ARPY provides trained cleaning teams, safe access methods, and reporting. We tailor frequency and technique
-          for rooftop, ground-mount, and BIPV systems.
+      </div>
+    </div>
+
+    <div class="col-lg-4">
+      <div class="side-item">
+        <div class="num">Monthly / Quarterly</div>
+        <div class="txt">
+          <strong>Cleaning Frequency Plans</strong> tailored to 
+          <strong>site conditions</strong> and 
+          <strong>environmental factors</strong>
         </div>
-      </aside>
+      </div>
+    </div>
+
+    <div class="col-lg-4">
+      <div class="side-item">
+        <div class="num">Fully Auditable</div>
+        <div class="txt">
+          <strong>Performance Evidence</strong> with 
+          <strong>high-resolution reports</strong> after every 
+          <strong>maintenance service</strong>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="side-note">
+    ARPY Renewables deploys <strong>expertly trained cleaning teams</strong> using 
+    <strong>OSHA-compliant safe access methods</strong> and detailed 
+    <strong>service reporting</strong>. 
+
+    We deliver <strong>tailored cleaning solutions</strong> for 
+    <strong>rooftop solar</strong>, <strong>utility-scale ground-mount plants</strong>, and 
+    <strong>BIPV (Building Integrated Photovoltaics)</strong> systems to ensure 
+    <strong>maximum durability and energy output</strong>.
+  </div>
+</aside>
     </div>
   </section>
 
 
+      <!-- ============ / ARPY RENEWABLES — SOLAR EPC (MAGAZINE / STICKY INDEX) ============ -->
+
     <section class="why-arpy-section mt-5">
     <!-- Header -->
     <div class="why-arpy-header">
-      <h2 class="why-arpy-title">Why Clients Choose ARPY Renewables</h2>
-      <p class="why-arpy-desc">
-        ARPY Renewables lead by a team with decades of experience in Hi-Tech design & Renewables EPC services, ARPY
-        delivers quality you can count on. Our end-to-end solutions cover everything - from feasibility studies and
-        system design to installation, subsidy processing, and long-term maintenance.
+  <h2 class="why-arpy-title">Why Industry Leaders Choose ARPY Renewables</h2>
+  <p class="why-arpy-desc">
+    With a proven track record in <strong>Solar EPC solutions</strong>, ARPY Renewables delivers 
+    end-to-end excellence—from <strong>system design and engineering</strong> to installation, 
+    subsidy processing, and long-term performance optimization.
+  </p>
+</div>
+
+<!-- Features Section -->
+<div class="why-arpy-content">
+  <div class="arpy-feature-grid">
+
+    <div class="arpy-feature-card">
+      <div class="arpy-icon"><i class="fa-solid fa-solar-panel"></i></div>
+      <p class="arpy-feature-text">
+        <strong>2000+ Solar Installations</strong><br>
+        Proven track record across residential, commercial & industrial projects.
       </p>
     </div>
 
-    <!-- Features Section -->
-    <div class="why-arpy-content">
-      <div class="arpy-feature-grid">
+    <div class="arpy-feature-card">
+      <div class="arpy-icon"><i class="fa-solid fa-bolt"></i></div>
+      <p class="arpy-feature-text">
+        <strong>On-Grid, Off-Grid & Hybrid Expertise</strong><br>
+        Customized solar solutions designed for maximum reliability.
+      </p>
+    </div>
 
-        <div class="arpy-feature-card">
-          <div class="arpy-icon">
-            <i class="fa-solid fa-solar-panel"></i>
-          </div>
-          <p class="arpy-feature-text">2000+ Solar sites in last decade</p>
-        </div>
+    <div class="arpy-feature-card">
+      <div class="arpy-icon"><i class="fa-solid fa-users-gear"></i></div>
+      <p class="arpy-feature-text">
+        <strong>In-House Engineering Team</strong><br>
+        Precision design, optimization, and technical excellence.
+      </p>
+    </div>
 
-        <div class="arpy-feature-card">
-          <div class="arpy-icon">
-            <i class="fa-solid fa-bolt"></i>
-          </div>
-          <p class="arpy-feature-text">Expertise across on-grid, off-grid & hybrid systems</p>
-        </div>
+    <div class="arpy-feature-card">
+      <div class="arpy-icon"><i class="fa-solid fa-headset"></i></div>
+      <p class="arpy-feature-text">
+        <strong>Proactive O&M Support</strong><br>
+        Fast response and preventive maintenance for peak performance.
+      </p>
+    </div>
 
-        <div class="arpy-feature-card">
-          <div class="arpy-icon">
-            <i class="fa-solid fa-users-gear"></i>
-          </div>
-          <p class="arpy-feature-text">Strong in-house engineering team</p>
-        </div>
+    <div class="arpy-feature-card">
+      <div class="arpy-icon"><i class="fa-solid fa-indian-rupee-sign"></i></div>
+      <p class="arpy-feature-text">
+        <strong>Cost-Effective Solar Pricing</strong><br>
+        Maximum ROI with transparent and competitive project costs.
+      </p>
+    </div>
 
-        <div class="arpy-feature-card">
-          <div class="arpy-icon">
-            <i class="fa-solid fa-headset"></i>
-          </div>
-          <p class="arpy-feature-text">Rapid, responsive support & maintenance</p>
-        </div>
+    <div class="arpy-feature-card">
+      <div class="arpy-icon"><i class="fa-solid fa-certificate"></i></div>
+      <p class="arpy-feature-text">
+        <strong>Certified MNRE Channel Partner</strong><br>
+        Government-approved processes with hassle-free compliance.
+      </p>
+    </div>
 
-        <div class="arpy-feature-card">
-          <div class="arpy-icon">
-            <i class="fa-solid fa-indian-rupee-sign"></i>
-          </div>
-          <p class="arpy-feature-text">Cost-effective solar pricing</p>
-        </div>
+    <div class="arpy-feature-card">
+      <div class="arpy-icon"><i class="fa-solid fa-thumbs-up"></i></div>
+      <p class="arpy-feature-text">
+        <strong>Client-Centric Approach</strong><br>
+        Focused on quality, trust, and long-term customer satisfaction.
+      </p>
+    </div>
 
-        <div class="arpy-feature-card">
-          <div class="arpy-icon">
-            <i class="fa-solid fa-certificate"></i>
-          </div>
-          <p class="arpy-feature-text">Certified MNRE Channel Partner</p>
-        </div>
+    <div class="arpy-feature-card">
+      <div class="arpy-icon"><i class="fa-solid fa-handshake-angle"></i></div>
+      <p class="arpy-feature-text">
+        <strong>Financial & Subsidy Assistance</strong><br>
+        End-to-end support for loans, subsidies, and approvals.
+      </p>
+    </div>
 
-        <div class="arpy-feature-card">
-          <div class="arpy-icon">
-            <i class="fa-solid fa-thumbs-up"></i>
-          </div>
-          <p class="arpy-feature-text">Complete Customer Satisfaction</p>
-        </div>
-
-        <div class="arpy-feature-card">
-          <div class="arpy-icon">
-            <i class="fa-solid fa-handshake-angle"></i>
-          </div>
-          <p class="arpy-feature-text">Handholding for commercial support & financial options</p>
-        </div>
-
+  </div>
+</div>
       </div>
     </div>
 
   </section>
 
   <section class="arp-unique-section" aria-labelledby="arp-unique-title">
-    <div class="arp-unique-wrap">
-      <div class="arp-left" aria-hidden="false">
-        <div class="arp-left-inner">
-          <h2 id="arp-unique-title" class="arp-title">Solar is The Smart Choice: Wins Over Grid Power</h2>
-          <p class="arp-sub">
-            At ARPY Renewables, we believe solar is more than a power solution — it’s a lifestyle change toward
-            sustainability, independence, and pollution-free smarter living.
-          </p>
+  <div class="arp-unique-wrap">
+    
+    <div class="arp-left">
+      <div class="arp-left-inner">
+        <h2 id="arp-unique-title" class="arp-title">
+          Solar Energy: The Smart Choice for a Sustainable & Cost-Efficient Future
+        </h2>
 
-          <div class="arp-strap">Power Your Home. Protect the Planet.</div>
-        </div>
-        <div class="arp-sun" aria-hidden="true"></div>
+        <p class="arp-sub">
+          At <strong>ARPY Renewables</strong>, solar is more than power—it’s a shift toward 
+          <strong>energy independence</strong>, <strong>lower electricity costs</strong>, and a 
+          cleaner, smarter way of living.
+        </p>
+
+        <div class="arp-strap">Power Your Home. Protect the Planet.</div>
       </div>
 
-      <div class="arp-right" role="list" aria-label="solar-benefits">
-        <div class="arp-benefit" role="listitem">
-          <div class="arp-icon" aria-hidden="true"><i class="fa-solid fa-bolt"></i></div>
-          <p class="arp-text">Up to 90% Lowering Electricity Bills</p>
-        </div>
-
-        <div class="arp-benefit" role="listitem">
-          <div class="arp-icon" aria-hidden="true"><i class="fa-solid fa-plug-circle-bolt"></i></div>
-          <p class="arp-text">Reliable Power Supply – even during peak demand</p>
-        </div>
-
-        <div class="arp-benefit" role="listitem">
-          <div class="arp-icon" aria-hidden="true"><i class="fa-solid fa-screwdriver-wrench"></i></div>
-          <p class="arp-text">Low Maintenance & Smart Monitoring</p>
-        </div>
-
-        <div class="arp-benefit" role="listitem">
-          <div class="arp-icon" aria-hidden="true"><i class="fa-solid fa-leaf"></i></div>
-          <p class="arp-text">Eco-Friendly: Each kW offsets 1.5 tonnes of CO₂ every year</p>
-        </div>
-
-        <div class="arp-benefit" role="listitem">
-          <div class="arp-icon" aria-hidden="true"><i class="fa-solid fa-house-chimney"></i></div>
-          <p class="arp-text">Higher Property Value with a solar-equipped rooftop</p>
-        </div>
-
-        <div class="arp-benefit" role="listitem">
-          <div class="arp-icon" aria-hidden="true"><i class="fa-solid fa-sun"></i></div>
-          <p class="arp-text">Better Roof usage: Lowering down temperature of roof-top and water tanks</p>
-        </div>
-
-        <div class="arp-benefit" role="listitem">
-          <div class="arp-icon" aria-hidden="true"><i class="fa-solid fa-infinity"></i></div>
-          <p class="arp-text">25+ Years Lifespan with minimal maintenance</p>
-        </div>
-
-        <div class="arp-benefit" role="listitem">
-          <div class="arp-icon" aria-hidden="true"><i class="fa-solid fa-indian-rupee-sign"></i></div>
-          <p class="arp-text">Quick Payback Period and government-backed savings</p>
-        </div>
-
-        <div class="arp-note" role="note">
-          Join thousands of Indians who’ve already made the switch. Let your rooftop earn for you — today, tomorrow, and
-          for decades to come.
-        </div>
-      </div>
+      <div class="arp-sun" aria-hidden="true"></div>
     </div>
-  </section>
+
+    <div class="arp-right" role="list" aria-label="solar-benefits">
+
+      <div class="arp-benefit" role="listitem">
+        <div class="arp-icon"><i class="fa-solid fa-bolt"></i></div>
+        <p class="arp-text">
+          <strong>Up to 90% Lower Electricity Bills</strong><br>
+          Save monthly and protect against rising utility tariffs.
+        </p>
+      </div>
+
+      <div class="arp-benefit" role="listitem">
+        <div class="arp-icon"><i class="fa-solid fa-plug-circle-bolt"></i></div>
+        <p class="arp-text">
+          <strong>Reliable & Consistent Power Supply</strong><br>
+          Generate your own electricity and reduce grid dependence.
+        </p>
+      </div>
+
+      <div class="arp-benefit" role="listitem">
+        <div class="arp-icon"><i class="fa-solid fa-screwdriver-wrench"></i></div>
+        <p class="arp-text">
+          <strong>Low Maintenance with Smart Monitoring</strong><br>
+          Enjoy hassle-free performance with real-time system tracking.
+        </p>
+      </div>
+
+      <div class="arp-benefit" role="listitem">
+        <div class="arp-icon"><i class="fa-solid fa-leaf"></i></div>
+        <p class="arp-text">
+          <strong>Eco-Friendly Carbon Reduction</strong><br>
+          Each kW offsets up to <strong>1.5 tonnes of CO₂ annually</strong>.
+        </p>
+      </div>
+
+      <div class="arp-benefit" role="listitem">
+        <div class="arp-icon"><i class="fa-solid fa-house-chimney"></i></div>
+        <p class="arp-text">
+          <strong>Increase Property Value</strong><br>
+          Turn your rooftop into a high-value energy asset.
+        </p>
+      </div>
+
+      <div class="arp-benefit" role="listitem">
+        <div class="arp-icon"><i class="fa-solid fa-sun"></i></div>
+        <p class="arp-text">
+          <strong>Optimized Roof Usage & Cooling</strong><br>
+          Reduce rooftop heat and improve indoor comfort naturally.
+        </p>
+      </div>
+
+      <div class="arp-benefit" role="listitem">
+        <div class="arp-icon"><i class="fa-solid fa-infinity"></i></div>
+        <p class="arp-text">
+          <strong>25+ Years of Reliable Performance</strong><br>
+          Long-term durability with minimal maintenance.
+        </p>
+      </div>
+
+      <div class="arp-benefit" role="listitem">
+        <div class="arp-icon"><i class="fa-solid fa-indian-rupee-sign"></i></div>
+        <p class="arp-text">
+          <strong>High ROI & Fast Payback</strong><br>
+          Recover investment quickly with subsidies and savings.
+        </p>
+      </div>
+
+      <div class="arp-note" role="note">
+        Join thousands of homeowners and businesses who’ve already switched to solar. 
+        Let your rooftop generate savings and income for decades.
+      </div>
+
+    </div>
+  </div>
+</section>
 
    <!--===== CONTACT AREA STARTS =======-->
   <div class="contact1 sp10 sp1">

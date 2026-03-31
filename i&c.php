@@ -21,8 +21,8 @@
 <meta property="og:description" content="Reliable solar installation and commissioning services including structure mounting, DC and AC works, testing, and grid synchronization for solar plants across India.">
 <meta property="og:url" content="https://arpyrenewables.com/services">
 <meta property="og:site_name" content="ARPY Renewables">
-<meta property="og:image" content="https://arpyrenewables.com/assets/img/1/2.jpg">
-<meta property="og:image:secure_url" content="https://arpyrenewables.com/assets/img/1/2.jpg">
+<meta property="og:image" content="https://arpyrenewables.com/assets/img/1/2a.jpg">
+<meta property="og:image:secure_url" content="https://arpyrenewables.com/assets/img/1/2a.jpg">
 <meta property="og:image:type" content="image/jpeg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
@@ -75,7 +75,7 @@
       <div class="vl-offcanvas-wrapper">
         <div class="vl-offcanvas-header d-flex justify-content-between align-items-center mb-90">
           <div class="vl-offcanvas-logo">
-            <a href="./"><img src="assets/img/1/2.jpg" alt=""></a>
+            <a href="./"><img src="assets/img/1/2a.jpg" alt=""></a>
           </div>
           <div class="vl-offcanvas-close">
             <button class="vl-offcanvas-close-toggle"><i class="fa-solid fa-xmark"></i></button>
@@ -88,7 +88,7 @@
 
         <div class="space20"></div>
         <div class="vl-offcanvas-info">
-          <h3 class="vl-offcanvas-sm-title">Contact Us</h3>
+           
           <div class="space20"></div>
           <span><a href="#"> <i class="fa-solid fa-phone"></i> +91 997-112-2890</a></span>
           <span><a href="#"> <i class="fa-solid fa-phone"></i> +91 999-996-6061</a></span>
@@ -138,75 +138,100 @@
   <!--===== HERO AREA ENDS =======-->
    <section class="wrap" id="Installation-Commissioning">
     <!-- HERO -->
-    <div class="hero">
+   <div class="hero">
 
-      <h2 class="t-h1 mb-1 mt-2">Installation &amp; Commissioning (I&amp;C)</h2>
-      <p class="t-lead mb-4">We convert solar intent into energized assets. Our I&amp;C practice ensures <b>precision installation</b>,
-        <b>verified quality</b>, and <b>on-time commissioning</b> — from structure to synchronization.
-      </p>
+  <h2 class="t-h1 mb-1 mt-2">
+    Installation & Commissioning (I&amp;C) for Faster Energy Yield
+  </h2>
 
-      
+  <p class="t-lead mb-4">
+    We transform your solar vision into <strong>high-performing energized assets</strong> through our streamlined 
+    <strong>Solar I&amp;C services</strong>. Our execution is built on 
+    <strong>precision installation</strong>, <strong>verified quality assurance (QA)</strong>, and 
+    <strong>on-time commissioning</strong>—delivering seamless performance from first structure bolt to final 
+    <strong>grid synchronization</strong>.
+  </p>
 
-      <div class="badges">
-        <span class="badge">IEC/IS Compliant</span>
-        <span class="badge">QA Documented</span>
-        <span class="badge">Pan-India Crews</span>
-      </div>
+  <div class="badges">
+    <span class="badge">IEC/IS Compliant</span>
+    <span class="badge">QA Documented</span>
+    <span class="badge">Pan-India Execution</span>
+  </div>
 
-      <div class="kpis">
-        <div class="kpi"><b>≤ 30 Days</b><span>Typical COD (1–2 MWp)</span></div>
-        <div class="kpi"><b>100%</b><span>Torque &amp; polarity QA</span></div>
-        <div class="kpi"><b>99%+</b><span>Punch-list closure</span></div>
-      </div>
+  <div class="kpis">
+    <div class="kpi">
+      <b>≤ 30 Days</b>
+      <span>Typical COD (1–2 MWp Projects)</span>
     </div>
 
-    <!-- SCOPE -->
-    <div class="head">
-      <h3>Scope of Work</h3>
-      <p>End-to-end solar I&amp;C with performance, compliance, and safety at every stage.</p>
+    <div class="kpi">
+      <b>100%</b>
+      <span>Torque &amp; Polarity QA Accuracy</span>
     </div>
 
-    <div class="grid g4">
-      <article class="card">
-        <div class="ico"><i class="bi bi-hammer"></i></div>
-        <h4>Structure &amp; Module</h4>
-        <ul class="tick">
-          <li>Rooftop &amp; ground-mount structural assembly</li>
-          <li>Torque-calibrated bolting &amp; anti-seize checks</li>
-          <li>Clamp zones &amp; wind-load validation</li>
-        </ul>
-      </article>
-
-      <article class="card">
-        <div class="ico"><i class="bi bi-lightning-charge-fill"></i></div>
-        <h4>DC Works</h4>
-        <ul class="tick">
-          <li>String formation with polarity testing</li>
-          <li>MC4 crimping &amp; pull-test documentation</li>
-          <li>Combiner fuses, SPD &amp; labeling scheme</li>
-        </ul>
-      </article>
-
-      <article class="card">
-        <div class="ico"><i class="bi bi-cpu"></i></div>
-        <h4>AC &amp; Inverter</h4>
-        <ul class="tick">
-          <li>Inverter installation &amp; parameterization</li>
-          <li>Earthing, SPD &amp; interconnection tests</li>
-          <li>SCADA/logger integration &amp; sync check</li>
-        </ul>
-      </article>
-
-      <article class="card">
-        <div class="ico"><i class="bi bi-shield-check"></i></div>
-        <h4>Testing &amp; Handover</h4>
-        <ul class="tick">
-          <li>IR/continuity &amp; IV-curve tests</li>
-          <li>PR baseline &amp; protection validation</li>
-          <li>O&amp;M documentation &amp; owner training</li>
-        </ul>
-      </article>
+    <div class="kpi">
+      <b>99%+</b>
+      <span>Punch-List Closure Rate</span>
     </div>
+  </div>
+
+</div>
+
+  <!-- SCOPE -->
+<div class="head">
+  <h3>Our Comprehensive Solar I&amp;C Scope of Work</h3>
+</div>
+
+<div class="grid g4">
+
+  <article class="card">
+    <div class="ico"><i class="bi bi-hammer"></i></div>
+    <h4>Structure &amp; Module Installation</h4>
+    <ul class="tick">
+      <li>Rooftop &amp; ground-mount structural assembly</li>
+      <li>Torque-calibrated bolting with anti-seize quality checks</li>
+      <li>Clamp zone validation &amp; wind-load structural analysis</li>
+    </ul>
+  </article>
+
+  <article class="card">
+    <div class="ico"><i class="bi bi-lightning-charge-fill"></i></div>
+    <h4>Advanced DC Electrical Works</h4>
+    <ul class="tick">
+      <li>Precision string formation with polarity verification</li>
+      <li>Certified MC4 crimping with pull-test documentation</li>
+      <li>DC combiner boxes, SPD protection &amp; cable labeling standards</li>
+    </ul>
+  </article>
+
+  <article class="card">
+    <div class="ico"><i class="bi bi-cpu"></i></div>
+    <h4>AC Systems &amp; Inverter Integration</h4>
+    <ul class="tick">
+      <li>Professional inverter installation &amp; parameter configuration</li>
+      <li>Electrical earthing, surge protection (SPD) &amp; grid interconnection tests</li>
+      <li>SCADA/data logger integration with synchronization validation</li>
+    </ul>
+  </article>
+
+  <article class="card">
+    <div class="ico"><i class="bi bi-shield-check"></i></div>
+    <h4>Testing, Handover &amp; Validation</h4>
+    <ul class="tick">
+      <li>IR/continuity testing &amp; high-accuracy IV curve analysis</li>
+      <li>Performance Ratio (PR baseline) &amp; protection system validation</li>
+      <li>Complete O&amp;M documentation &amp; client operational training</li>
+    </ul>
+  </article>
+
+</div>
+<div class="head">
+  <h4>
+    End-to-end <strong>solar installation &amp; commissioning</strong> services engineered for 
+    <strong>maximum performance</strong>, strict <strong>safety compliance</strong>, and long-term 
+    <strong>plant reliability</strong>.
+  </h4>
+</div>
 
     <!-- PROCESS -->
     <div class="proc d-none">
@@ -239,186 +264,243 @@
       </ol>
     </div>
 
-    <!-- DELIVERABLES -->
-    <div class="deliv">
-      <div class="dgrid">
-        <div class="dcard">
-          <h4>As-Builts</h4>
-          <ul class="tick">
-            <li>SLDs, string maps, cable schedules</li>
-            <li>Inverter parameter logs</li>
-            <li>Serial capture (QR/ID)</li>
-          </ul>
-        </div>
-        <div class="dcard">
-          <h4>QA Reports</h4>
-          <ul class="tick">
-            <li>IR, continuity &amp; IV curves</li>
-            <li>Relay settings &amp; protection tests</li>
-            <li>PR baseline &amp; visuals</li>
-          </ul>
-        </div>
-        <div class="dcard">
-          <h4>Compliance</h4>
-          <ul class="tick">
-            <li>Warranties &amp; data sheets</li>
-            <li>Calibration certificates</li>
-            <li>LOTO / PPE logs</li>
-          </ul>
-        </div>
-      </div>
+    
+<!-- DELIVERABLES -->
+<div class="deliv">
+  <div class="dgrid">
+
+    <div class="dcard">
+      <h4>As-Builts (The Blueprint)</h4>
+      <ul class="tick">
+        <li>Accurate SLDs (Single Line Diagrams), string maps &amp; cable schedules</li>
+        <li>Complete inverter parameter logs for performance tracking</li>
+        <li>Digital serial capture (QR/ID) ensuring full product traceability</li>
+      </ul>
     </div>
 
-    <!-- CTA -->
-    <div class="cta">
-      <div>
-        <h4>Ready to commission with confidence?</h4>
-        <p>Share capacity, layout &amp; COD. We’ll reply with a detailed I&amp;C plan and timeline.</p>
-      </div>
-      <a class="vl-btn1" href="contact">Request I&C Proposal <i class="fa-solid fa-arrow-right"></i></a>
+    <div class="dcard">
+      <h4>QA Reports (The Proof)</h4>
+      <ul class="tick">
+        <li>Verified IR, continuity &amp; IV curve test reports for all strings</li>
+        <li>Relay configuration &amp; electrical protection validation tests</li>
+        <li>PR (Performance Ratio) baseline with inspection documentation</li>
+      </ul>
     </div>
+
+    <div class="dcard">
+      <h4>Compliance (The Standard)</h4>
+      <ul class="tick">
+        <li>Manufacturer warranties &amp; certified technical data sheets</li>
+        <li>Calibration certificates for all testing &amp; monitoring equipment</li>
+        <li>LOTO (Lock-Out Tag-Out) &amp; PPE safety compliance logs</li>
+      </ul>
+    </div>
+
+  </div>
+</div>
+
+<!-- CTA -->
+<div class="cta">
+  <div>
+    <h4>Ready to Commission Your Solar Project with Confidence?</h4>
+    <p>
+      Share your project capacity, layout, and target 
+      <strong>COD (Commercial Operation Date)</strong>. 
+      Our team will provide a detailed <strong>Solar I&amp;C execution plan</strong> 
+      with timelines tailored to your project.
+    </p>
+  </div>
+
+  <a class="vl-btn1" href="contact">
+    Request Your I&amp;C Proposal <i class="fa-solid fa-arrow-right"></i>
+  </a>
+</div>
   </section>
 
+
+      <!-- ============ / ARPY RENEWABLES — SOLAR EPC (MAGAZINE / STICKY INDEX) ============ -->
 
     <section class="why-arpy-section mt-5">
     <!-- Header -->
     <div class="why-arpy-header">
-      <h2 class="why-arpy-title">Why Clients Choose ARPY Renewables</h2>
-      <p class="why-arpy-desc">
-        ARPY Renewables lead by a team with decades of experience in Hi-Tech design & Renewables EPC services, ARPY
-        delivers quality you can count on. Our end-to-end solutions cover everything - from feasibility studies and
-        system design to installation, subsidy processing, and long-term maintenance.
+  <h2 class="why-arpy-title">Why Industry Leaders Choose ARPY Renewables</h2>
+  <p class="why-arpy-desc">
+    With a proven track record in <strong>Solar EPC solutions</strong>, ARPY Renewables delivers 
+    end-to-end excellence—from <strong>system design and engineering</strong> to installation, 
+    subsidy processing, and long-term performance optimization.
+  </p>
+</div>
+
+<!-- Features Section -->
+<div class="why-arpy-content">
+  <div class="arpy-feature-grid">
+
+    <div class="arpy-feature-card">
+      <div class="arpy-icon"><i class="fa-solid fa-solar-panel"></i></div>
+      <p class="arpy-feature-text">
+        <strong>2000+ Solar Installations</strong><br>
+        Proven track record across residential, commercial & industrial projects.
       </p>
     </div>
 
-    <!-- Features Section -->
-    <div class="why-arpy-content">
-      <div class="arpy-feature-grid">
+    <div class="arpy-feature-card">
+      <div class="arpy-icon"><i class="fa-solid fa-bolt"></i></div>
+      <p class="arpy-feature-text">
+        <strong>On-Grid, Off-Grid & Hybrid Expertise</strong><br>
+        Customized solar solutions designed for maximum reliability.
+      </p>
+    </div>
 
-        <div class="arpy-feature-card">
-          <div class="arpy-icon">
-            <i class="fa-solid fa-solar-panel"></i>
-          </div>
-          <p class="arpy-feature-text">2000+ Solar sites in last decade</p>
-        </div>
+    <div class="arpy-feature-card">
+      <div class="arpy-icon"><i class="fa-solid fa-users-gear"></i></div>
+      <p class="arpy-feature-text">
+        <strong>In-House Engineering Team</strong><br>
+        Precision design, optimization, and technical excellence.
+      </p>
+    </div>
 
-        <div class="arpy-feature-card">
-          <div class="arpy-icon">
-            <i class="fa-solid fa-bolt"></i>
-          </div>
-          <p class="arpy-feature-text">Expertise across on-grid, off-grid & hybrid systems</p>
-        </div>
+    <div class="arpy-feature-card">
+      <div class="arpy-icon"><i class="fa-solid fa-headset"></i></div>
+      <p class="arpy-feature-text">
+        <strong>Proactive O&M Support</strong><br>
+        Fast response and preventive maintenance for peak performance.
+      </p>
+    </div>
 
-        <div class="arpy-feature-card">
-          <div class="arpy-icon">
-            <i class="fa-solid fa-users-gear"></i>
-          </div>
-          <p class="arpy-feature-text">Strong in-house engineering team</p>
-        </div>
+    <div class="arpy-feature-card">
+      <div class="arpy-icon"><i class="fa-solid fa-indian-rupee-sign"></i></div>
+      <p class="arpy-feature-text">
+        <strong>Cost-Effective Solar Pricing</strong><br>
+        Maximum ROI with transparent and competitive project costs.
+      </p>
+    </div>
 
-        <div class="arpy-feature-card">
-          <div class="arpy-icon">
-            <i class="fa-solid fa-headset"></i>
-          </div>
-          <p class="arpy-feature-text">Rapid, responsive support & maintenance</p>
-        </div>
+    <div class="arpy-feature-card">
+      <div class="arpy-icon"><i class="fa-solid fa-certificate"></i></div>
+      <p class="arpy-feature-text">
+        <strong>Certified MNRE Channel Partner</strong><br>
+        Government-approved processes with hassle-free compliance.
+      </p>
+    </div>
 
-        <div class="arpy-feature-card">
-          <div class="arpy-icon">
-            <i class="fa-solid fa-indian-rupee-sign"></i>
-          </div>
-          <p class="arpy-feature-text">Cost-effective solar pricing</p>
-        </div>
+    <div class="arpy-feature-card">
+      <div class="arpy-icon"><i class="fa-solid fa-thumbs-up"></i></div>
+      <p class="arpy-feature-text">
+        <strong>Client-Centric Approach</strong><br>
+        Focused on quality, trust, and long-term customer satisfaction.
+      </p>
+    </div>
 
-        <div class="arpy-feature-card">
-          <div class="arpy-icon">
-            <i class="fa-solid fa-certificate"></i>
-          </div>
-          <p class="arpy-feature-text">Certified MNRE Channel Partner</p>
-        </div>
+    <div class="arpy-feature-card">
+      <div class="arpy-icon"><i class="fa-solid fa-handshake-angle"></i></div>
+      <p class="arpy-feature-text">
+        <strong>Financial & Subsidy Assistance</strong><br>
+        End-to-end support for loans, subsidies, and approvals.
+      </p>
+    </div>
 
-        <div class="arpy-feature-card">
-          <div class="arpy-icon">
-            <i class="fa-solid fa-thumbs-up"></i>
-          </div>
-          <p class="arpy-feature-text">Complete Customer Satisfaction</p>
-        </div>
-
-        <div class="arpy-feature-card">
-          <div class="arpy-icon">
-            <i class="fa-solid fa-handshake-angle"></i>
-          </div>
-          <p class="arpy-feature-text">Handholding for commercial support & financial options</p>
-        </div>
-
+  </div>
+</div>
       </div>
     </div>
 
   </section>
 
   <section class="arp-unique-section" aria-labelledby="arp-unique-title">
-    <div class="arp-unique-wrap">
-      <div class="arp-left" aria-hidden="false">
-        <div class="arp-left-inner">
-          <h2 id="arp-unique-title" class="arp-title">Solar is The Smart Choice: Wins Over Grid Power</h2>
-          <p class="arp-sub">
-            At ARPY Renewables, we believe solar is more than a power solution — it’s a lifestyle change toward
-            sustainability, independence, and pollution-free smarter living.
-          </p>
+  <div class="arp-unique-wrap">
+    
+    <div class="arp-left">
+      <div class="arp-left-inner">
+        <h2 id="arp-unique-title" class="arp-title">
+          Solar Energy: The Smart Choice for a Sustainable & Cost-Efficient Future
+        </h2>
 
-          <div class="arp-strap">Power Your Home. Protect the Planet.</div>
-        </div>
-        <div class="arp-sun" aria-hidden="true"></div>
+        <p class="arp-sub">
+          At <strong>ARPY Renewables</strong>, solar is more than power—it’s a shift toward 
+          <strong>energy independence</strong>, <strong>lower electricity costs</strong>, and a 
+          cleaner, smarter way of living.
+        </p>
+
+        <div class="arp-strap">Power Your Home. Protect the Planet.</div>
       </div>
 
-      <div class="arp-right" role="list" aria-label="solar-benefits">
-        <div class="arp-benefit" role="listitem">
-          <div class="arp-icon" aria-hidden="true"><i class="fa-solid fa-bolt"></i></div>
-          <p class="arp-text">Up to 90% Lowering Electricity Bills</p>
-        </div>
-
-        <div class="arp-benefit" role="listitem">
-          <div class="arp-icon" aria-hidden="true"><i class="fa-solid fa-plug-circle-bolt"></i></div>
-          <p class="arp-text">Reliable Power Supply – even during peak demand</p>
-        </div>
-
-        <div class="arp-benefit" role="listitem">
-          <div class="arp-icon" aria-hidden="true"><i class="fa-solid fa-screwdriver-wrench"></i></div>
-          <p class="arp-text">Low Maintenance & Smart Monitoring</p>
-        </div>
-
-        <div class="arp-benefit" role="listitem">
-          <div class="arp-icon" aria-hidden="true"><i class="fa-solid fa-leaf"></i></div>
-          <p class="arp-text">Eco-Friendly: Each kW offsets 1.5 tonnes of CO₂ every year</p>
-        </div>
-
-        <div class="arp-benefit" role="listitem">
-          <div class="arp-icon" aria-hidden="true"><i class="fa-solid fa-house-chimney"></i></div>
-          <p class="arp-text">Higher Property Value with a solar-equipped rooftop</p>
-        </div>
-
-        <div class="arp-benefit" role="listitem">
-          <div class="arp-icon" aria-hidden="true"><i class="fa-solid fa-sun"></i></div>
-          <p class="arp-text">Better Roof usage: Lowering down temperature of roof-top and water tanks</p>
-        </div>
-
-        <div class="arp-benefit" role="listitem">
-          <div class="arp-icon" aria-hidden="true"><i class="fa-solid fa-infinity"></i></div>
-          <p class="arp-text">25+ Years Lifespan with minimal maintenance</p>
-        </div>
-
-        <div class="arp-benefit" role="listitem">
-          <div class="arp-icon" aria-hidden="true"><i class="fa-solid fa-indian-rupee-sign"></i></div>
-          <p class="arp-text">Quick Payback Period and government-backed savings</p>
-        </div>
-
-        <div class="arp-note" role="note">
-          Join thousands of Indians who’ve already made the switch. Let your rooftop earn for you — today, tomorrow, and
-          for decades to come.
-        </div>
-      </div>
+      <div class="arp-sun" aria-hidden="true"></div>
     </div>
-  </section>
+
+    <div class="arp-right" role="list" aria-label="solar-benefits">
+
+      <div class="arp-benefit" role="listitem">
+        <div class="arp-icon"><i class="fa-solid fa-bolt"></i></div>
+        <p class="arp-text">
+          <strong>Up to 90% Lower Electricity Bills</strong><br>
+          Save monthly and protect against rising utility tariffs.
+        </p>
+      </div>
+
+      <div class="arp-benefit" role="listitem">
+        <div class="arp-icon"><i class="fa-solid fa-plug-circle-bolt"></i></div>
+        <p class="arp-text">
+          <strong>Reliable & Consistent Power Supply</strong><br>
+          Generate your own electricity and reduce grid dependence.
+        </p>
+      </div>
+
+      <div class="arp-benefit" role="listitem">
+        <div class="arp-icon"><i class="fa-solid fa-screwdriver-wrench"></i></div>
+        <p class="arp-text">
+          <strong>Low Maintenance with Smart Monitoring</strong><br>
+          Enjoy hassle-free performance with real-time system tracking.
+        </p>
+      </div>
+
+      <div class="arp-benefit" role="listitem">
+        <div class="arp-icon"><i class="fa-solid fa-leaf"></i></div>
+        <p class="arp-text">
+          <strong>Eco-Friendly Carbon Reduction</strong><br>
+          Each kW offsets up to <strong>1.5 tonnes of CO₂ annually</strong>.
+        </p>
+      </div>
+
+      <div class="arp-benefit" role="listitem">
+        <div class="arp-icon"><i class="fa-solid fa-house-chimney"></i></div>
+        <p class="arp-text">
+          <strong>Increase Property Value</strong><br>
+          Turn your rooftop into a high-value energy asset.
+        </p>
+      </div>
+
+      <div class="arp-benefit" role="listitem">
+        <div class="arp-icon"><i class="fa-solid fa-sun"></i></div>
+        <p class="arp-text">
+          <strong>Optimized Roof Usage & Cooling</strong><br>
+          Reduce rooftop heat and improve indoor comfort naturally.
+        </p>
+      </div>
+
+      <div class="arp-benefit" role="listitem">
+        <div class="arp-icon"><i class="fa-solid fa-infinity"></i></div>
+        <p class="arp-text">
+          <strong>25+ Years of Reliable Performance</strong><br>
+          Long-term durability with minimal maintenance.
+        </p>
+      </div>
+
+      <div class="arp-benefit" role="listitem">
+        <div class="arp-icon"><i class="fa-solid fa-indian-rupee-sign"></i></div>
+        <p class="arp-text">
+          <strong>High ROI & Fast Payback</strong><br>
+          Recover investment quickly with subsidies and savings.
+        </p>
+      </div>
+
+      <div class="arp-note" role="note">
+        Join thousands of homeowners and businesses who’ve already switched to solar. 
+        Let your rooftop generate savings and income for decades.
+      </div>
+
+    </div>
+  </div>
+</section>
 
    <!--===== CONTACT AREA STARTS =======-->
   <div class="contact1 sp10 sp1">

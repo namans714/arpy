@@ -19,8 +19,8 @@
   <meta property="og:description" content="ARPY Renewables provides turnkey solar EPC solutions including design, installation, commissioning & maintenance of residential and commercial solar plants across India.">
   <meta property="og:url" content="https://arpyrenewables.com/">
   <meta property="og:site_name" content="ARPY Renewables">
-  <meta property="og:image" content="https://arpyrenewables.com/assets/img/1/2.jpg">
-  <meta property="og:image:secure_url" content="https://arpyrenewables.com/assets/img/1/2.jpg">
+  <meta property="og:image" content="https://arpyrenewables.com/assets/img/1/2a.jpg">
+  <meta property="og:image:secure_url" content="https://arpyrenewables.com/assets/img/1/2a.jpg">
   <meta property="og:image:type" content="image/jpeg">
   <meta property="og:image:width" content="630">
   <meta property="og:image:height" content="630">
@@ -73,7 +73,7 @@
       <div class="vl-offcanvas-wrapper">
         <div class="vl-offcanvas-header d-flex justify-content-between align-items-center mb-90">
           <div class="vl-offcanvas-logo">
-            <a href="./"><img src="assets/img/1/2.jpg" alt=""></a>
+            <a href="./"><img src="assets/img/1/2a.jpg" alt=""></a>
           </div>
           <div class="vl-offcanvas-close">
             <button class="vl-offcanvas-close-toggle"><i class="fa-solid fa-xmark"></i></button>
@@ -86,7 +86,7 @@
 
         <div class="space20"></div>
         <div class="vl-offcanvas-info">
-          <h3 class="vl-offcanvas-sm-title">Contact Us</h3>
+           
           <div class="space20"></div>
           <span>
   <a href="tel:+919971122890">

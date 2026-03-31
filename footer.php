@@ -83,11 +83,11 @@
       <div class="col-lg-12">
         <div class="vl-copyright-area">
           <p>
-            ⓒ Copyright 2025 
+            ⓒ Copyright 2026 
             <span>ARPY Renewables Private Limited</span>. 
             All rights reserved. Designed & Developed By 
-            <a href="https://startupsahay.com/" target="_blank" style="color:#fff;font-weight:bold;">
-              Start-up Sahay
+            <a href="https://www.freelancesociety.in/" target="_blank" style="color:#fff;font-weight:bold;">
+              Freelance Society
             </a>
           </p>
 

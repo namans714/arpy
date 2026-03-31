@@ -19,8 +19,8 @@
   <meta property="og:description" content="ARP Renewables provides customized residential, commercial and industrial solar power solutions for a cleaner and sustainable future.">
   <meta property="og:url" content="https://arpyrenewables.com/solutions.html">
   <meta property="og:site_name" content="ARPY Renewables">
-  <meta property="og:image" content="https://arpyrenewables.com/assets/img/1/2.jpg">
-  <meta property="og:image:secure_url" content="https://arpyrenewables.com/assets/img/1/2.jpg">
+  <meta property="og:image" content="https://arpyrenewables.com/assets/img/1/2a.jpg">
+  <meta property="og:image:secure_url" content="https://arpyrenewables.com/assets/img/1/2a.jpg">
   <meta property="og:image:type" content="image/jpeg">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
@@ -48,12 +48,12 @@
 <body>
 
   <!--===== PRELOADER STARTS =======-->
-  <!-- <div class="preloader">
+  <div class="preloader">
     <div class="loading-container">
       <div class="loading"></div>
       <div id="loading-icon"><img src="assets/img/1/1.png" alt=""></div>
     </div>
-  </div> -->
+  </div>
   <!--===== PRELOADER ENDS =======-->
 
   <!--===== PROGRESS STARTS=======-->
@@ -76,7 +76,7 @@
       <div class="vl-offcanvas-wrapper">
         <div class="vl-offcanvas-header d-flex justify-content-between align-items-center mb-90">
           <div class="vl-offcanvas-logo">
-            <a href="./"><img src="assets/img/1/2.jpg" alt=""></a>
+            <a href="./"><img src="assets/img/1/2a.jpg" alt=""></a>
           </div>
           <div class="vl-offcanvas-close">
             <button class="vl-offcanvas-close-toggle"><i class="fa-solid fa-xmark"></i></button>
@@ -89,7 +89,7 @@
 
         <div class="space20"></div>
         <div class="vl-offcanvas-info">
-          <h3 class="vl-offcanvas-sm-title">Contact Us</h3>
+           
           <div class="space20"></div>
           <span><a href="#"> <i class="fa-solid fa-phone"></i> +91 997-112-2890</a></span>
           <span><a href="#"> <i class="fa-solid fa-phone"></i> +91 999-996-6061</a></span>
@@ -494,21 +494,44 @@
 </section>
 
   <section class="smart-hero" style="background-image: url(assets/img/1/10.jpg);">
-    <div class="smart-hero-overlay"></div>
+  <div class="smart-hero-overlay"></div>
 
-    <h2>Power Where the Grid Can’t Reach</h2>
+  <!-- MAIN HEADLINE -->
+  <h2>
+    Power Where the Grid Can’t Reach | Off-Grid Solar Energy Freedom
+  </h2>
 
-    <p>With ARPY Renewables, every sunrise brings you dependable, independent power — no grid, no compromise.</p>
-    <p>Whether it’s a rural home, farm, or off-city resort, we deliver energy autonomy you can trust for decades.</p>
+  <!-- SUBTEXT -->
+  <p>
+    With <strong>ARPY Renewables</strong>, every sunrise delivers 
+    <strong>reliable, independent power</strong>—no grid, no compromise.
+  </p>
 
-    <div class="smart-pills">
-      <div class="smart-pill">Uninterrupted Power, Anywhere</div>
-      <div class="smart-pill">Energy Freedom That Lasts</div>
-      <div class="smart-pill">Off-Grid Reliability You Can Trust</div>
-    </div>
+  <p>
+    Whether it’s a rural home, farmhouse, or off-city resort, our 
+    <strong>battery-backed solar systems</strong> provide 
+    <strong>energy autonomy</strong> you can trust for decades.
+  </p>
 
-    <a href="contact" class="smart-cta">Request Your Free Off-Grid Solar Consultation Now</a>
-  </section>
+  <p>
+    Built for India’s toughest conditions, our systems ensure a 
+    <strong>seamless power supply</strong> with 
+    <strong>sustainable off-grid energy solutions</strong>.
+  </p>
+
+  <!-- PILL FEATURES -->
+  <div class="smart-pills">
+    <div class="smart-pill">Uninterrupted Power Anywhere</div>
+    <div class="smart-pill">100% Energy Independence</div>
+    <div class="smart-pill">Long-Term Off-Grid Reliability</div>
+  </div>
+
+  <!-- CTA -->
+  <a href="contact" class="smart-cta">
+    Get Your Free Off-Grid Solar Consultation Today
+  </a>
+
+</section>
   <!-- OFF-GRID SOLAR SYSTEMS end -->
 
   <!--===== CONTACT AREA STARTS =======-->

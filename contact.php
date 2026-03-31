@@ -19,8 +19,8 @@
   <meta property="og:description" content="Get in touch with ARPY Renewables for professional solar EPC services and customized renewable energy solutions.">
   <meta property="og:url" content="https://arpyrenewables.com/contact.html">
   <meta property="og:site_name" content="ARPY Renewables">
-  <meta property="og:image" content="https://arpyrenewables.com/assets/img/1/2.jpg">
-  <meta property="og:image:secure_url" content="https://arpyrenewables.com/assets/img/1/2.jpg">
+  <meta property="og:image" content="https://arpyrenewables.com/assets/img/1/2a.jpg">
+  <meta property="og:image:secure_url" content="https://arpyrenewables.com/assets/img/1/2a.jpg">
   <meta property="og:image:type" content="image/jpeg">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
@@ -74,7 +74,7 @@
       <div class="vl-offcanvas-wrapper">
         <div class="vl-offcanvas-header d-flex justify-content-between align-items-center mb-90">
           <div class="vl-offcanvas-logo">
-            <a href="./"><img src="assets/img/1/2.jpg" alt=""></a>
+            <a href="./"><img src="assets/img/1/2a.jpg" alt=""></a>
           </div>
           <div class="vl-offcanvas-close">
             <button class="vl-offcanvas-close-toggle"><i class="fa-solid fa-xmark"></i></button>
@@ -87,7 +87,7 @@
 
         <div class="space20"></div>
         <div class="vl-offcanvas-info">
-          <h3 class="vl-offcanvas-sm-title">Contact Us</h3>
+           
           <div class="space20"></div>
           <span><a href="#"> <i class="fa-solid fa-phone"></i> +91 997-112-2890</a></span>
           <span><a href="#"> <i class="fa-solid fa-phone"></i> +91 999-996-6061</a></span>
@@ -137,28 +137,38 @@
   <!--===== HERO AREA ENDS =======-->
 
   <section class="solar-block">
-    <div class="solar-inner">
+  <div class="solar-inner">
 
-      <h2 class="solar-title">Your Rooftop Deserves the Power of the Sun</h2>
+    <h2 class="solar-title">
+      Your Rooftop Deserves the Efficiency of <strong>Advanced Solar Power</strong>
+    </h2>
 
-      <div class="solar-sub">
-        Connect with ARPY Renewables and turn your space into a source of clean energy and savings.
-      </div>
-
-      <p class="solar-desc">
-        At ARPY Renewables, we believe solar isn’t just about panels- it’s about progress. Whether you’re exploring
-        rooftop and land based solutions, on-grid, off-grid and hybrid setups, residential, housing societies,
-        commercial, industrial or large-scale solar projects, our experts will guide you through every step with clarity
-        and care. Reach out today and let’s transform your rooftop into a powerhouse of sustainability, savings, and
-        innovation.
-      </p>
-
-      <div class="solar-quote">
-        Reach out today and let’s transform your rooftop into a powerhouse of sustainability, savings, and innovation.
-      </div>
-
+    <div class="solar-sub">
+      Partner with <strong>ARPY Renewables</strong> to convert your idle rooftop into a 
+      <strong>high-yield source of clean renewable energy</strong> and 
+      <strong>maximum electricity savings</strong>.
     </div>
-  </section>
+
+    <p class="solar-desc">
+      At ARPY Renewables, we believe solar is about <strong>sustainable progress</strong>. 
+      Whether you need <strong>rooftop solar installations</strong> or 
+      <strong>utility-scale land-based projects</strong>, our experts specialize in 
+      <strong>on-grid, off-grid, and hybrid solar systems</strong>. 
+
+      We deliver customized solutions for <strong>residential homes</strong>, 
+      <strong>housing societies</strong>, and <strong>commercial & industrial (C&I) sectors</strong>. 
+      From <strong>system design</strong> to <strong>solar plant commissioning</strong>, 
+      we guide you with complete technical clarity and execution excellence.
+    </p>
+
+    <div class="solar-quote">
+      Contact us today and transform your rooftop into a 
+      <strong>sustainable energy powerhouse</strong> with 
+      <strong>guaranteed energy savings</strong> and future-ready technology.
+    </div>
+
+  </div>
+</section>
 
   <!--===== CONTACT AREA STARTS =======-->
   <div class="contact1 sp1">

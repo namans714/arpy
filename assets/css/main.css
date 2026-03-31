@@ -3818,7 +3818,7 @@ img {
 
 .vl-offcanvas {
   position: fixed;
-  background: var(--ztc-bg-bg-3);
+  background: var(--ztc-bg-bg-2);
   width: 450px;
   z-index: 99;
   right: 0;
@@ -21622,8 +21622,9 @@ only screen and (min-width: 768px) and (max-width: 991px),
 .floating-contact{
   position: fixed;
   right: 20px;
-  top: 50%;
-  transform: translateY(-50%);
+  bottom: 20px;   /* 👈 move to bottom */
+  top: auto;      /* 👈 remove vertical centering */
+  transform: none; /* 👈 reset transform */
   display: flex;
   flex-direction: column;
   gap: 12px;

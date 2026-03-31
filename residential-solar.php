@@ -19,8 +19,8 @@
   <meta property="og:description" content="ARP Renewables provides customized residential, commercial and industrial solar power solutions for a cleaner and sustainable future.">
   <meta property="og:url" content="https://arpyrenewables.com/solutions.html">
   <meta property="og:site_name" content="ARPY Renewables">
-  <meta property="og:image" content="https://arpyrenewables.com/assets/img/1/2.jpg">
-  <meta property="og:image:secure_url" content="https://arpyrenewables.com/assets/img/1/2.jpg">
+  <meta property="og:image" content="https://arpyrenewables.com/assets/img/1/2a.jpg">
+  <meta property="og:image:secure_url" content="https://arpyrenewables.com/assets/img/1/2a.jpg">
   <meta property="og:image:type" content="image/jpeg">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
@@ -48,12 +48,12 @@
 <body>
 
   <!--===== PRELOADER STARTS =======-->
-  <!-- <div class="preloader">
+  <div class="preloader">
     <div class="loading-container">
       <div class="loading"></div>
       <div id="loading-icon"><img src="assets/img/1/1.png" alt=""></div>
     </div>
-  </div> -->
+  </div>
   <!--===== PRELOADER ENDS =======-->
 
   <!--===== PROGRESS STARTS=======-->
@@ -76,7 +76,7 @@
       <div class="vl-offcanvas-wrapper">
         <div class="vl-offcanvas-header d-flex justify-content-between align-items-center mb-90">
           <div class="vl-offcanvas-logo">
-            <a href="./"><img src="assets/img/1/2.jpg" alt=""></a>
+            <a href="./"><img src="assets/img/1/2a.jpg" alt=""></a>
           </div>
           <div class="vl-offcanvas-close">
             <button class="vl-offcanvas-close-toggle"><i class="fa-solid fa-xmark"></i></button>
@@ -89,7 +89,7 @@
 
         <div class="space20"></div>
         <div class="vl-offcanvas-info">
-          <h3 class="vl-offcanvas-sm-title">Contact Us</h3>
+           
           <div class="space20"></div>
           <span><a href="#"> <i class="fa-solid fa-phone"></i> +91 997-112-2890</a></span>
           <span><a href="#"> <i class="fa-solid fa-phone"></i> +91 999-996-6061</a></span>
@@ -150,27 +150,40 @@
 
     <!-- CONTENT SIDE -->
     <div class="og-content">
-      <h2>Residential Solar Solutions</h2>
-      <p>
-        Join India’s solar revolution and transform your rooftop into a power generator from free Solar energy. ARPY
-        Renewables delivers customized residential solar systems that help homeowners cut costs, earn energy credits,
-        and contribute to a cleaner planet, all while adding long-term value to their property.
-      </p>
+      <h2>
+  Premium Residential Rooftop Solar Installation for Modern Homes
+</h2>
 
-      <h4 class="og-quote">
-        Save up to 90% on Your Electricity Bills with ARPY Renewables. For next 30 years Electricity tariffs are rising
-        every year, but the sun’s energy is free and abundant.
-      </h4>
+<p>
+  Join India’s green revolution and transform your rooftop into a powerful 
+  <strong>solar energy generator</strong>. At <strong>ARPY Renewables</strong>, we deliver 
+  <strong>customized residential solar solutions</strong> that help homeowners reduce electricity costs, 
+  earn <strong>energy credits</strong>, and increase long-term property value.
+</p>
 
-      <p>
-        India receives over 300 sunny days annually, generating up to 4–7 kWh of solar energy per square meter per day -
-        enough to power your home efficiently all year.
-      </p>
+<p>
+  Our <strong>rooftop solar systems</strong> are designed for maximum performance, enabling you to 
+  generate your own <strong>clean, renewable energy</strong> while reducing dependence on the grid.
+</p>
 
-      <p>
-        By installing a rooftop solar system, you can reduce your monthly electricity bills by up to 90% and achieve
-        energy independence for decades.
-      </p>
+<!-- HIGHLIGHT -->
+<h4 class="og-quote">
+  Save up to <strong>90% on your electricity bills</strong> with ARPY Renewables—while enjoying 
+  <strong>free solar energy</strong> for the next <strong>25–30+ years</strong>.
+</h4>
+
+<p>
+  India receives over <strong>300 sunny days annually</strong>, making it ideal for 
+  <strong>grid-connected solar systems</strong>. By installing a high-efficiency 
+  <strong>rooftop solar plant</strong>, you can achieve 
+  <strong>energy independence</strong> and consistent power throughout the year.
+</p>
+
+<p>
+  Our systems are engineered for reliability and performance, ensuring your home runs on 
+  <strong>clean solar energy</strong> even during peak summer demand—while delivering 
+  long-term financial savings.
+</p>
 
       <div class="og-btns">
         <!-- New CTA -->
@@ -181,53 +194,96 @@
   </section>
 
   <section class="subsidy-block">
-    <div class="subsidy-left">
-      <h2>Government Subsidy - Save More Instantly</h2>
+
+  <!-- LEFT -->
+  <div class="subsidy-left">
+    <h2>
+      Maximize Savings with PM Surya Ghar Yojana & Solar Subsidies
+    </h2>
+  </div>
+
+  <!-- RIGHT -->
+  <div class="subsidy-right">
+
+    <!-- INTRO -->
+    <p class="s-intro">
+      Make your switch to <strong>solar energy</strong> more affordable with 
+      <strong>MNRE-backed government incentives</strong> and direct subsidy benefits.
+    </p>
+
+    <!-- BOX 1 -->
+    <div class="s-box">
+      <strong>Central Government Subsidy:</strong> Avail up to 
+      <strong>₹78,000 solar subsidy</strong> for systems up to 3 kW under 
+      <strong>PM Surya Ghar: Muft Bijli Yojana</strong> and 
+      <strong>MNRE solar rooftop schemes</strong>.
     </div>
 
-    <div class="subsidy-right">
-      <p class="s-intro">
-        Make solar more affordable with government-backed incentives.
-      </p>
-
-      <div class="s-box">
-        Avail ₹78,000 up to 3 kW subsidy under the latest MNRE solar rooftop schemes from Central Govt.
-      </div>
-
-      <div class="s-box">
-        Also avail ₹30,000 up to 3 kW subsidy under the latest State Govt. solar rooftop schemes
-      </div>
-
-      <p class="s-note">
-        Our in-house experts handle the entire process - from documentation to approval - so you can claim your subsidy
-        hassle-free and start saving sooner.
-      </p>
+    <!-- BOX 2 -->
+    <div class="s-box">
+      <strong>State-Level Benefits:</strong> Get additional 
+      <strong>₹30,000 state government subsidy</strong> for rooftop solar installations, 
+      reducing your overall investment and improving <strong>ROI</strong>.
     </div>
-  </section>
+
+    <!-- BOX 3 -->
+    <div class="s-box">
+      <strong>Hassle-Free Process:</strong> Our experts manage the complete 
+      <strong>subsidy documentation and approval process</strong>—from registration to inspection—so you can 
+      claim your <strong>solar rebates</strong> without any technical hassle.
+    </div>
+
+    <!-- NOTE -->
+    <p class="s-note">
+      Start saving from day one with reduced installation costs and faster payback through government-supported solar programs.
+    </p>
+
+  </div>
+
+</section>
 
   <section class="offgrid-parallax-section" style="background-image: url(assets/img/1/13.jpg);">
 
-    <div class="offgrid-parallax-overlay"></div>
+  <div class="offgrid-parallax-overlay"></div>
 
-    <div class="offgrid-parallax-box">
+  <div class="offgrid-parallax-box">
 
-      <h2 class="offgrid-title">Flexible Financing Options for Every Home</h2>
+    <h2 class="offgrid-title">Affordable Solar Financing for Every Home</h2>
 
-      <p>We make going solar easy and budget-friendly. Choose from:</p>
+    <p class="offgrid-subtext">
+      Go solar without financial stress. Choose a flexible plan tailored to your budget and start saving from day one.
+    </p>
 
-      <ul>
-        <li>CAPEX Model: Own your system and enjoy maximum returns.</li>
-        <li>OPEX Model: Pay only for the power you use — no upfront costs.</li>
-        <li>Zero-Investment Plan: Switch to solar without any capital and start saving from day one.</li>
-        <li>Loans: loans, finance support from banks and NBFC cab be arranged.</li>
-      </ul>
+    <ul class="offgrid-list">
+      <li>
+        <strong>CAPEX Model:</strong> Own your <strong>Solar Power System</strong> and enjoy 
+        <strong>maximum ROI (Return on Investment)</strong> from day one.
+      </li>
 
-      <p>With ARPY Renewables, most homes break even within 2–3 years, depending on local tariffs and component choices
-        - after that, it’s nearly free electricity for 25+ years.</p>
+      <li>
+        <strong>OPEX Model:</strong> Pay only for the electricity you generate — 
+        <strong>zero upfront cost</strong> with hassle-free maintenance.
+      </li>
 
-    </div>
+      <li>
+        <strong>Zero-Investment Plan:</strong> Switch to a 
+        <strong>sustainable energy solution</strong> with no initial capital and immediate savings on electricity bills.
+      </li>
 
-  </section>
+      <li>
+        <strong>Solar Loans & EMI:</strong> Easy financing options from leading banks and NBFCs with 
+        <strong>minimal documentation</strong> and competitive interest rates.
+      </li>
+    </ul>
+
+    <p class="offgrid-highlight">
+      With ARPY Renewables, most homes achieve a <strong>payback period of just 2–3 years</strong>. 
+      After that, enjoy <strong>free electricity for 25+ years</strong>.
+    </p>
+
+  </div>
+
+</section>
 
   <!-- Residential Solar Solutions end -->
 

@@ -19,8 +19,8 @@
   <meta property="og:description" content="ARP Renewables provides customized residential, commercial and industrial solar power solutions for a cleaner and sustainable future.">
   <meta property="og:url" content="https://arpyrenewables.com/solutions.html">
   <meta property="og:site_name" content="ARPY Renewables">
-  <meta property="og:image" content="https://arpyrenewables.com/assets/img/1/2.jpg">
-  <meta property="og:image:secure_url" content="https://arpyrenewables.com/assets/img/1/2.jpg">
+  <meta property="og:image" content="https://arpyrenewables.com/assets/img/1/2a.jpg">
+  <meta property="og:image:secure_url" content="https://arpyrenewables.com/assets/img/1/2a.jpg">
   <meta property="og:image:type" content="image/jpeg">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
@@ -48,12 +48,12 @@
 <body>
 
   <!--===== PRELOADER STARTS =======-->
-  <!-- <div class="preloader">
+  <div class="preloader">
     <div class="loading-container">
       <div class="loading"></div>
       <div id="loading-icon"><img src="assets/img/1/1.png" alt=""></div>
     </div>
-  </div> -->
+  </div>
   <!--===== PRELOADER ENDS =======-->
 
   <!--===== PROGRESS STARTS=======-->
@@ -76,7 +76,7 @@
       <div class="vl-offcanvas-wrapper">
         <div class="vl-offcanvas-header d-flex justify-content-between align-items-center mb-90">
           <div class="vl-offcanvas-logo">
-            <a href="./"><img src="assets/img/1/2.jpg" alt=""></a>
+            <a href="./"><img src="assets/img/1/2a.jpg" alt=""></a>
           </div>
           <div class="vl-offcanvas-close">
             <button class="vl-offcanvas-close-toggle"><i class="fa-solid fa-xmark"></i></button>
@@ -89,7 +89,7 @@
 
         <div class="space20"></div>
         <div class="vl-offcanvas-info">
-          <h3 class="vl-offcanvas-sm-title">Contact Us</h3>
+           
           <div class="space20"></div>
           <span><a href="#"> <i class="fa-solid fa-phone"></i> +91 997-112-2890</a></span>
           <span><a href="#"> <i class="fa-solid fa-phone"></i> +91 999-996-6061</a></span>
@@ -151,11 +151,28 @@
 
     <!-- CONTENT SIDE -->
     <div class="og-content">
-      <h2>Hybrid Solar Systems</h2>
-      <p>
-        Combining the best of both worlds, Hybrid Solar Systems allow grid connectivity with energy storage. Use your
-        stored solar power at night or during outages — reducing dependency on the grid and maximizing energy savings.
-      </p>
+      <h2>
+  Advanced Hybrid Solar Systems | Smart Battery Storage Solutions
+</h2>
+
+<p>
+  Experience the power of <strong>hybrid solar systems</strong> that combine 
+  <strong>grid connectivity</strong> with advanced 
+  <strong>battery storage technology</strong>—delivering reliable 
+  <strong>24/7 solar backup</strong> and maximum energy efficiency.
+</p>
+
+<p>
+  With <strong>ARPY Renewables’ Hybrid Solar EPC solutions</strong>, you get the 
+  perfect balance of <strong>energy independence</strong> and grid reliability, 
+  ensuring uninterrupted power for your home or business.
+</p>
+
+<p>
+  Unlike traditional systems, hybrid setups allow you to store excess solar energy 
+  in <strong>high-efficiency solar batteries</strong> and use it during the night 
+  or power outages—reducing electricity bills and grid dependence.
+</p>
 
       <div class="og-btns">
         <!-- New CTA -->
@@ -166,53 +183,89 @@
   </section>
 
   <section class="hiw-fa">
-    <h2 class="hiw-fa-title">How Hybrid Solar Works</h2>
+  <h2 class="hiw-fa-title">How Hybrid Solar System Works</h2>
 
-    <div class="hiw-fa-grid">
+  <div class="hiw-fa-grid">
 
-      <div class="hiw-fa-card">
-        <div class="hiw-fa-icon i-yellow"><i class="fa-solid fa-sun"></i></div>
-        <div class="hiw-fa-title2">Sunlight → Electricity</div>
-        <div class="hiw-fa-desc">Rooftop solar panels absorb sunlight and generate direct current (DC).</div>
+    <!-- 1 -->
+    <div class="hiw-fa-card">
+      <div class="hiw-fa-icon i-yellow"><i class="fa-solid fa-sun"></i></div>
+      <div class="hiw-fa-title2">
+        Solar Energy Generation | Sunlight to DC Power
       </div>
-
-      <div class="hiw-fa-card">
-        <div class="hiw-fa-icon i-green"><i class="fa-solid fa-bolt"></i></div>
-        <div class="hiw-fa-title2">Inverter Conversion</div>
-        <div class="hiw-fa-desc">A solar inverter converts DC into alternating current (AC), compatible with home
-          appliances.</div>
+      <div class="hiw-fa-desc">
+        High-efficiency <strong>rooftop solar panels</strong> capture sunlight and convert it into 
+        <strong>direct current (DC) electricity</strong>, forming the foundation of your 
+        <strong>clean energy system</strong>.
       </div>
-
-      <div class="hiw-fa-card">
-        <div class="hiw-fa-icon i-blue"><i class="fa-solid fa-gauge"></i></div>
-        <div class="hiw-fa-title2">Net Meter Integration</div>
-        <div class="hiw-fa-desc">The bi-directional meter records both exported and imported units, ensuring transparent
-          net-metered billing.</div>
-      </div>
-
-      <div class="hiw-fa-card">
-        <div class="hiw-fa-icon i-orange"><i class="fa-solid fa-plug"></i></div>
-        <div class="hiw-fa-title2">Home Power Usage</div>
-        <div class="hiw-fa-desc">During daylight, your home draws power directly from solar; any excess flows to the
-          grid.</div>
-      </div>
-
-      <div class="hiw-fa-card">
-        <div class="hiw-fa-icon i-mix"><i class="fa-solid fa-sliders"></i></div>
-        <div class="hiw-fa-title2">Charge Controller Regulation</div>
-        <div class="hiw-fa-desc">The solar charge controller manages the flow of power, charging the batteries safely
-          while preventing over-charging or deep discharge.</div>
-      </div>
-
-      <div class="hiw-fa-card">
-        <div class="hiw-fa-icon i-mix"><i class="fa-solid fa-battery-full"></i></div>
-        <div class="hiw-fa-title2">Battery Storage</div>
-        <div class="hiw-fa-desc">During the day, excess energy charges the batteries. That stored power keeps your home
-          or business running after sunset or during power cuts.</div>
-      </div>
-
     </div>
-  </section>
+
+    <!-- 2 -->
+    <div class="hiw-fa-card">
+      <div class="hiw-fa-icon i-green"><i class="fa-solid fa-bolt"></i></div>
+      <div class="hiw-fa-title2">
+        Smart Hybrid Inverter | DC to AC Conversion
+      </div>
+      <div class="hiw-fa-desc">
+        The <strong>hybrid solar inverter</strong> intelligently converts DC into 
+        <strong>alternating current (AC)</strong>, ensuring compatibility with all 
+        <strong>household appliances</strong> and sensitive electronics.
+      </div>
+    </div>
+
+    <!-- 3 -->
+    <div class="hiw-fa-card">
+      <div class="hiw-fa-icon i-blue"><i class="fa-solid fa-gauge"></i></div>
+      <div class="hiw-fa-title2">
+        Bi-Directional Net Metering | Smart Energy Tracking
+      </div>
+      <div class="hiw-fa-desc">
+        A <strong>bi-directional net meter</strong> tracks imported and exported electricity, 
+        enabling <strong>transparent billing</strong> and efficient grid interaction.
+      </div>
+    </div>
+
+    <!-- 4 -->
+    <div class="hiw-fa-card">
+      <div class="hiw-fa-icon i-orange"><i class="fa-solid fa-plug"></i></div>
+      <div class="hiw-fa-title2">
+        Optimized Power Usage | Solar Self-Consumption
+      </div>
+      <div class="hiw-fa-desc">
+        During the day, your home prioritizes <strong>solar self-consumption</strong>, 
+        reducing dependence on the grid and maximizing 
+        <strong>electricity bill savings</strong>.
+      </div>
+    </div>
+
+    <!-- 5 -->
+    <div class="hiw-fa-card">
+      <div class="hiw-fa-icon i-mix"><i class="fa-solid fa-sliders"></i></div>
+      <div class="hiw-fa-title2">
+        Smart Charge Controller | Battery Protection System
+      </div>
+      <div class="hiw-fa-desc">
+        The <strong>solar charge controller</strong> regulates energy flow, preventing 
+        <strong>overcharging</strong> and <strong>deep discharge</strong>, ensuring longer 
+        <strong>battery lifespan</strong>.
+      </div>
+    </div>
+
+    <!-- 6 -->
+    <div class="hiw-fa-card">
+      <div class="hiw-fa-icon i-mix"><i class="fa-solid fa-battery-full"></i></div>
+      <div class="hiw-fa-title2">
+        Battery Storage Backup | 24/7 Power Availability
+      </div>
+      <div class="hiw-fa-desc">
+        Excess energy is stored in <strong>high-capacity solar batteries</strong>, 
+        providing <strong>uninterrupted power supply</strong> during nights, outages, 
+        or grid failures.
+      </div>
+    </div>
+
+  </div>
+</section>
 
   <!-- Hybrid Solar Systems end -->
 

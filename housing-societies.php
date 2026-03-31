@@ -19,8 +19,8 @@
   <meta property="og:description" content="ARP Renewables provides customized residential, commercial and industrial solar power solutions for a cleaner and sustainable future.">
   <meta property="og:url" content="https://arpyrenewables.com/solutions.html">
   <meta property="og:site_name" content="ARPY Renewables">
-  <meta property="og:image" content="https://arpyrenewables.com/assets/img/1/2.jpg">
-  <meta property="og:image:secure_url" content="https://arpyrenewables.com/assets/img/1/2.jpg">
+  <meta property="og:image" content="https://arpyrenewables.com/assets/img/1/2a.jpg">
+  <meta property="og:image:secure_url" content="https://arpyrenewables.com/assets/img/1/2a.jpg">
   <meta property="og:image:type" content="image/jpeg">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
@@ -48,12 +48,12 @@
 <body>
 
   <!--===== PRELOADER STARTS =======-->
-  <!-- <div class="preloader">
+  <div class="preloader">
     <div class="loading-container">
       <div class="loading"></div>
       <div id="loading-icon"><img src="assets/img/1/1.png" alt=""></div>
     </div>
-  </div> -->
+  </div>
   <!--===== PRELOADER ENDS =======-->
 
   <!--===== PROGRESS STARTS=======-->
@@ -76,7 +76,7 @@
       <div class="vl-offcanvas-wrapper">
         <div class="vl-offcanvas-header d-flex justify-content-between align-items-center mb-90">
           <div class="vl-offcanvas-logo">
-            <a href="./"><img src="assets/img/1/2.jpg" alt=""></a>
+            <a href="./"><img src="assets/img/1/2a.jpg" alt=""></a>
           </div>
           <div class="vl-offcanvas-close">
             <button class="vl-offcanvas-close-toggle"><i class="fa-solid fa-xmark"></i></button>
@@ -89,7 +89,7 @@
 
         <div class="space20"></div>
         <div class="vl-offcanvas-info">
-          <h3 class="vl-offcanvas-sm-title">Contact Us</h3>
+           
           <div class="space20"></div>
           <span><a href="#"> <i class="fa-solid fa-phone"></i> +91 997-112-2890</a></span>
           <span><a href="#"> <i class="fa-solid fa-phone"></i> +91 999-996-6061</a></span>
@@ -151,64 +151,122 @@
 
     <!-- CONTENT SIDE -->
     <div class="og-content">
-      <h2>Housing Societies Solution</h2>
-      <p>
-        Make solar more affordable with government-backed incentives.
-      </p>
 
-      <h4 class="og-quote">
-        Government Subsidy - Save More Instantly
-      </h4>
+  <!-- MAIN HEADING -->
+  <h2>
+    Advanced Housing Society Solar Solutions | Maximum Government Subsidies
+  </h2>
 
-      <p>
-        Avail Rs.18,000/- per kW subsidy (Up to Rupees 90 lakhs) under the latest MNRE solar rooftop schemes.
-      </p>
+  <!-- INTRO -->
+  <p>
+    Reduce your society’s maintenance costs with 
+    <strong>group housing solar systems</strong> designed for large-scale efficiency. 
+    Unlock the highest <strong>government incentives</strong> and maximize savings 
+    for shared community living.
+  </p>
 
-      <p>
-        Also avail ₹2,000 per kW subsidy (Up to Rupees 10 lakhs) under the latest State Govt. solar rooftop schemes. Our
-        in-house experts handle the entire process - from documentation to approval - so you can claim your subsidy
-        hassle-free and start saving sooner.
-      </p>
+  <!-- HIGHLIGHT -->
+  <h4 class="og-quote">
+    Government Subsidy Benefits | Save More Instantly
+  </h4>
 
-      <p>
-        Government Subsidy of ₹1 Cr available upto 500 kW.
-      </p>
+  <!-- SUBSIDY DETAILS -->
+  <p>
+    <strong>Central Government Support:</strong> Avail 
+    <strong>₹18,000 per kW subsidy</strong> (up to <strong>₹90 Lakhs</strong>) under 
+    the latest <strong>MNRE solar rooftop schemes</strong> for housing societies.
+  </p>
 
-      <p>
-        Government is providing more than 45% subsidy on housing societies solar projects.
-      </p>
+  <p>
+    <strong>State-Level Subsidy:</strong> Get an additional 
+    <strong>₹2,000 per kW subsidy</strong> (up to <strong>₹10 Lakhs</strong>) under 
+    various <strong>state government solar policies</strong>.
+  </p>
 
-      <div class="og-btns">
-        <!-- New CTA -->
-        <a href="contact" class="og-cta-full">Request Your Housing Societies Solution Consultation Today</a>
-      </div>
-    </div>
+  <p>
+    <strong>Massive Savings Potential:</strong> Total 
+    <strong>government subsidy up to ₹1 Crore</strong> available for projects up to 
+    <strong>500 kW capacity</strong>.
+  </p>
+
+  <p>
+    Current policies offer more than <strong>45% subsidy</strong> on 
+    <strong>housing society solar installations</strong>, making this the most 
+    profitable time to invest in solar energy.
+  </p>
+
+  <!-- SUPPORT -->
+  <p>
+    Our experts handle the complete <strong>subsidy documentation and approval process</strong>—from registration to 
+    final inspection—ensuring a smooth and hassle-free experience.
+  </p>
+
+  <!-- CTA -->
+  <div class="og-btns">
+    <a href="contact" class="og-cta-full">
+      Get Your Housing Society Solar Consultation Today
+    </a>
+  </div>
+
+</div>
 
   </section>
 
   <section class="offgrid-parallax-section" style="background-image: url(assets/img/1/15.jpg);">
 
-    <div class="offgrid-parallax-overlay"></div>
+  <div class="offgrid-parallax-overlay"></div>
 
-    <div class="offgrid-parallax-box">
+  <div class="offgrid-parallax-box">
 
-      <h2 class="offgrid-title">Flexible Financing Options for Every Home</h2>
+    <!-- HEADLINE -->
+    <h2 class="offgrid-title">
+      Flexible Solar Financing | Easy Low-EMI & Zero-Investment Plans
+    </h2>
 
-      <p>We make going solar easy and budget-friendly. Choose from:</p>
+    <!-- INTRO -->
+    <p>
+      Make your transition to <strong>solar energy</strong> simple and budget-friendly. 
+      Choose a financing model that fits your financial goals:
+    </p>
 
-      <ul>
-        <li>CAPEX Model: Own your system and enjoy maximum returns.</li>
-        <li>OPEX Model: Pay only for the power you use — no upfront costs.</li>
-        <li>Zero-Investment Plan: Switch to solar without any capital and start saving from day one.</li>
-        <li>Loans: loans, finance support from banks and NBFC cab be arranged.</li>
-      </ul>
+    <!-- LIST -->
+    <ul>
 
-      <p>With ARPY Renewables, most homes break even within 1–4 years, depending on local tariffs and component choices
-        - after that, it’s nearly free electricity for 25+ years.</p>
+      <li>
+        <strong>CAPEX Model:</strong> Gain full ownership of your 
+        <strong>solar power system</strong> and enjoy the 
+        <strong>maximum return on investment (ROI)</strong> from day one.
+      </li>
 
-    </div>
+      <li>
+        <strong>OPEX Model:</strong> Pay only for the solar energy you consume—ideal for users looking for 
+        <strong>zero upfront cost</strong> and hassle-free operation.
+      </li>
 
-  </section>
+      <li>
+        <strong>Zero-Investment Plan:</strong> Switch to a 
+        <strong>sustainable energy solution</strong> without any initial capital and start 
+        <strong>reducing electricity bills immediately</strong>.
+      </li>
+
+      <li>
+        <strong>Bank & NBFC Loans:</strong> Get dedicated 
+        <strong>solar financing support</strong> with 
+        <strong>low-interest EMI plans</strong>, minimal documentation, and fast approvals.
+      </li>
+
+    </ul>
+
+    <!-- ROI LINE -->
+    <p>
+      With <strong>ARPY Renewables</strong>, most homes achieve a 
+      <strong>solar payback period of just 1–4 years</strong>. After that, enjoy 
+      <strong>virtually free electricity</strong> for the next <strong>25+ years</strong>.
+    </p>
+
+  </div>
+
+</section>
 
   <!-- Housing Societies Solution end -->
 
